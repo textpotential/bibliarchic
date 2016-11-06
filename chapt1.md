@@ -5,7 +5,7 @@ CHAPTER 1: INTERFACE
 Why would I suggest that bible or book could be thought of as an
 interface? Often, we associate interface with digital technologies.
 Human Computer Interface (HCI) and Graphical User Interface (GUI) have
-become major area of study and discourse in the world of software
+become major areas of study and discourse in the world of software
 design. Yet, the word 'face' has come to signify human interaction
 unmediated by digital technologies in the common phrase 'face to face.'
 There is a great deal of discussion these days about the different
