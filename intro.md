@@ -97,6 +97,10 @@ technology, so today, bible as book is entangled in a media transition
 from the reign of print to a proliferation of interfaces in our emerging
 media age.
 
+## Bible as Container ##
+
+Perhaps a short explanation here of how container notions of bible are operative in contemporary discourse. Could we use Tim's code for twitter analysis to demonstrate the common conception of bible as container?
+
 **Medium Matters **
 
 In *Understanding Media: The Extensions of Man*,[^10] Marshall McLuhan

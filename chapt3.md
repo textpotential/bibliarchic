@@ -19,3 +19,5 @@ As indicated by the inerrancy statement, these central texts at the *beginning*
 of core biblical writings have shaped biblical interpretation and bible reading 
 practices. We can see the influence of this arche on bible reading practices
 throughout history, yet there are some examples of  
+
+I wonder if the technological affordance of non linear access offered by the codex itself was already a hint in the direction of anarchy? Materially, the roll depended on the beginning and the end of a text and a particular directionality of access. With the advent of the codex, the role of the beginning of a text needn't play the same grounding role, technologically. This could provide a concrete material illustration of the kind of anarchy I am espousing. A codex most definitely still has a beginning, yet the beginning need no longer govern the reading experience, since a reader can enter into the text at any point. 

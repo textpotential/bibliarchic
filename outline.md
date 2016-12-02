@@ -14,7 +14,7 @@ than just passive consumers of the words they read; they are also makers
 of meaning. I describe this interface as *anarchic* because the word’s
 etymology means both without a beginning and without a reign. Thus, an
 anarchic interface is a space of contact where meaning is produced
-without the reign of an original*.* So much modern biblical
+without the reign of an original*. So much modern biblical
 interpretation has been about finding the original meaning in the text,
 but such a quest is at best elusive and at worst an illusion. An
 anarchic interface provides the opportunity to think of biblical
@@ -44,7 +44,7 @@ Introduction: Translating Book
 
     a.  Without Reign of Original (Levinas)
 
-    b.  Proximity - Encounter Without Grasp ( Levinas)
+    b.  Proximity - Encounter Without Grasp (Levinas)
 
     c.  Anarchic Readings
 

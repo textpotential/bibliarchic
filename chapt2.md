@@ -1,51 +1,41 @@
 # CHAPTER 2: AFFORDING ANARCHY
 
-We have seen that book as interface provokes probabilistic production in a reading event. If part of interface design involves constructing material spaces that might encourage certain affordances, can we design toward a reading process that is anarchic?
+We have seen that book as interface provokes probabilistic production in a reading event. If part of interface design involves constructing material spaces that might encourage certain affordances, can we design toward a reading process that is anarchic? 
 
-My goal here is to connect the notions of anarchy and proximity in Levinas as a theoretical grounding for interface design that affords reading which is not primary governed by consuming the content of a container, but encourages contact without grasp. Just as Drucker offers probabilistic production as an alternative to mechanical determinism, so here, I will offer the anarchy of proximity as an alternative to consumptive mastery. 
+My goal here is to connect the notions of anarchy and proximity in Levinas as a theoretical grounding for interface design that affords reading which is not primarily governed by consuming the content of a container, but encourages contact without grasp. Just as Drucker offers probabilistic production as an alternative to mechanical determinism, so here, I will offer the anarchy of proximity as an alternative to consumptive mastery in the practice of reading. Not only does bible offer a zone of encounter for provoking probabilistic production in the practice of reading, but, I argue, bible can be an *anarchic interface*, an interface not governed by a singular original, theme, or principle. Extending Levinas's description of the pre-conscious ethical encounter in the face to face as proximity, I will operationalize this proximity in interface design as a space with depth that opens up possibility for contact without grasp, reading not governed by consumption. 
 
 As a student of bible for much of my life, in personal practice or scholarly pursuit, the reign of αρχη has dominated both my concept of textual tradition and any notion of manuscript awareness. The archic logocentrism of my evangelical exegetical training became immediately apparent in the first verse we learned to read in Greek - εν αρχη ην ο λογος (John 1.1). It is αρχη and all of its resonances with the *beginning* of LXX Genesis that signals the reign of λογος in a Christian interpretive tradition that claims to take the verbal character of *the* bible seriously as divine revelation. Couple this with the tenth article of the [1978 Chicago Statement of Biblical Inerrancy](http://library.dts.edu/Pages/TL/Special/ICBI_1.pdf), which links inspiration and "the [λογος] of God" with the *original, autographic text of Scripture*, and we can see the deep archic sensibilities of the tradition in which I was reared, even at the material manuscript level.
 
-It took David Parker's careful questioning of this αρχη or original of the manuscript tradition in [*The Living Text of the Gospels*]() to awaken me to the anarchy at work even in the materiality of bible, but without the language of anarchy. Aware of the ancient Greek semantic potential of αρχη, Emmanuel Levinas, another close reader of biblical texts and tradition, introduced me to an anarchy that was something beyond disorder an another order and something significantly more complicated than the simple absence of a beginning or origin. In his essay titled "Substitution," Levinas takes up the relationship between proximity and the αρχη. At many points in this project, we will struggle with the potential of proximity, from spatial nearness and distance to ap-proximat-ion to a notion of contact without grasp. But for now, we will focus on the anarchic.
+Add here some other examples of archic approaches to bible 
+- apostolicity in canon process
+- some church father interpretive approaches
+- reformation
+- principles guiding the construction of the Nestle-Aland
+- Jesus Seminar
 
-### without the reign of an original 
-Anarchic is a loaded term and can mean many things. 
-Contrary to some initial impressions of both my work and my
-person, I am not the least interested in a simple notion of anarchy as chaos
-or disorder. Along the lines of Levinas, I exploit the variability of the
-semantic range of αρχη in Greek and use an-archic to denote a practice of
-meaning making without recourse to the *reign* of an *original* (See Simon
-Critchley with Peter Atterton and Graham Noctor translating Levinas, [*Basic
-Philosophical Writings*](http://amzn.com/0253210798), 81). Levinasian
-proximity as an anarchic encounter with the face of the other will offer
-questions toward the role of bible in shaping nonconsumptive (ethical) meaning
-making.
+It took David Parker's careful questioning of this αρχη or original of the manuscript tradition in [*The Living Text of the Gospels*]() to awaken me to the anarchy at work even in the materiality of bible. Yet, Parker never invokes the language of anarchy. Aware of the ancient Greek semantic potential of αρχη, Emmanuel Levinas, another close reader of biblical texts and tradition, introduced me to an anarchy that was something beyond disorder as another order and something significantly more complicated than the simple absence of a beginning or origin. In his essay titled "Substitution," Levinas takes up the relationship between proximity and the αρχη. At many points in this project, we will struggle with the potential of proximity, from spatial nearness and distance to ap-proximat-ion to a notion of contact without grasp. But for now, we will focus on the anarchic.
 
-When I speak of anarchy, I mean something other than a generic absence of
-order or a simple negation of rule, origin, or principle. Insofar as chaos is
-connected to the emergent properties of complex dynamic systems, I have no
-problem with chaos as a fecund space, loaded with potential for meaning. Yet,
-shaped by my encounters with the writings of Emmanuel Levinas, something
-deeper and more subtle is at work in my sense of the gravity of anarchy.
-Exploiting the koine semantic range of αρχη, which can mean beginning and
-reign, I hear the an-archic as that which is *without the reign of an
-original*.
+### Without the Reign of an Original 
 
+I would like to move from probabilistic production to anarchy to proximity as a reading methodology demonstrated by Levinas in his Talmudic readings. Let us not lose sight of our focus here as we delve into the complicated weavings of Levinas's writing and thinking. My question is about the particular relationship between anarchy and proximity in Levinas's writings as it might influence reading interfaces. It is a coincidence that interface contains the word face, a critical material sign used by Levinas to imagine the anarchy of proximity. I also do not take for granted that Levinas's own reading practices and much of his philosophical thought emerge in his encounter with bible through his Jewish tradition.
+
+I wonder if a note here or a paragraph on the difference between face and facade in Levinas (Reality and it's Shadow) as it relates to interface. It is my experience that many address new media interfaces as a facade, partly indebted to the Frankfurt school's devaluation of mass media. I am arguing that interface as articulated with Drucker as a 'zone of encounter provoking probabilistic production' resembled more the face to face than it does the facade of art/media. Now that I think of it, thanks to Rothko, maybe the difference between face and facade is indeed proximity? Not simply a nearness such as Rothko's urging to stand close to his works to be enveloped in a way such that the viewer does not command the piece, but a spatiality that allows for contact without grasp. A facade invites consumption and tourism, while the face demands an encounter that can not be reduced to observation. The face as encounter has depth, which creates a space that allows for both distance and nearness, where the distance consistently interrupts the impulse to draw near (appear). Perhaps we could call this the space of the asymptotic relation? 
+
+Simon Critchley, in his work on the relationship between ethics and politics, "Infinitely Demanding," argues for a similar kind of spatiality in political anarchism. Tracing Levinas's use of anarchy in the "Substitution" section of OTB, Critchley moves from anarchy through obsession and persecution to "interstitial distance" (Critchley 2007, 121-23). For Critchley, this is already a move from the ethical to the political, with interstitial distance being a distance from AND within the state that consistently resists the tendency of the State^[I capitalize State here both to follow the convention used by Critchley and to signal the tendency of State to operate as an arche or governing principle.] to order all areas of life by collapsing the distance of multiplicity into the facade of unity (Critchley 2007, 112-13). 
+
+A facade as flat reminds me of the distinction N Katherine Hayles makes in her essay "Print is Flat, Code is Deep: The Importance of Media Specific Analysis" (Hayles 2004). 
+
+I will begin with a look at the role of anarchy as challenging the reign of an origin or principle in Levinas. Then I will trace the connection between anarchy and proximity. Finally, we will explore the ways in which proximity as contact without grasp offers a mode of probabilistic production in the practice of reading, thus how proximity can shape our interface design.
+
+Anarchy is a loaded term and can mean many things. Contrary to some initial impressions of both my work and my person, I am not the least interested in a simple notion of anarchy as chaos or disorder. Along the lines of Levinas, I exploit the variability of the semantic range of αρχη in Greek and use an-archic to denote a practice of meaning making without recourse to the *reign* of an *original* (See Simon Critchley with Peter Atterton and Graham Noctor translating Levinas, [*Basic Philosophical Writings*](http://amzn.com/0253210798), 81). Levinasian proximity as an anarchic encounter with the face of the other will offer questions toward the role of bible in shaping nonconsumptive (ethical) reading practices.
+
+When I speak of anarchy, I mean something other than a generic absence of order or a simple negation of rule, origin, or principle. Insofar as chaos is connected to the emergent properties of complex dynamic systems, I have no problem with chaos as a fecund space, loaded with potential for meaning. Yet, shaped by my encounters with the writings of Emmanuel Levinas, something deeper and more subtle is at work in my sense of the gravity of anarchy. Exploiting the koine semantic range of αρχη, which can mean beginning and reign, I hear the an-archic as that which is *without the reign of an original*.
 
 ### Levinas and anarchy
 
 Though the role of the anarchic in the philosophy of Emmanuel Levinas doesn't blossom until the inclusion of Substitution as the core essay in *Otherwise Than Being*, we can see anarchy at work in many of Levinas's writings. In Existents and Existence...
 
-### Totality and Infinity
-
-> The flow of time in which, according to the Kantian schema, the world is constituted is without origin. This world that has lost its principle, an-archical, a world of phenomena, does not answer to the quest for the true; it suffices for enjoyment, which is self-sufficiency itself, nowise disturbed by the evasion that exteriority opposes to the quest for the true. (Levinas 1969, 65)
-
-
-
-
-
-
-
+There is a way in which I am arguing for interface as disinterested nonindifference - disinterested in that it is not engaged in absorbing and thematizing, nonindifferent because it is participatory.^[This might be more than I want to argue, since the nonindifferent demands the face and ethics.]
 
 Levinas's essay, "Substitution," has a manuscript tradition of its own that
 offers us an object lesson in the anarchic as "without the reign of an
