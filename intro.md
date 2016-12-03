@@ -1,101 +1,43 @@
 INTRODUCTION: TRANSLATING BOOK
 
-Book is undergoing a major media transition as print wanes in its
-dominance and the internet and mobile devices transform our reading
-habits. With the ever entangled histories of bible and book, *this
-emerging media age and its transformation of reading practices begs us
-to imagine bible as an anarchic interface, a space of contact where
-meaning is produced without the reign of an original*.
+The book is undergoing a major media transition as print wanes in its dominance and the internet and mobile devices transform our reading habits. With the entangled histories of bible and book--the bible is, after all, the book of books--this emerging media age and its transformation of reading practices forces us to imagine bible as something beyond the book. I propose that digital media create the possibility to engage bible as an anarchic interface. I call it an *interface* in order to stress that bible readers are more than just passive consumers of the words they read; they are also makers of meaning. I describe this interface as *anarchic* because the word’s etymology means both without a beginning and without a reign. Thus, an anarchic interface is a space of contact where meaning is produced without the reign of an original. 
 
-Thinking of bible as an interface rather than simply as a container for
-content will allow us to explore the possibilities of emerging
-technologies to translate and transform enduring traditions of bible
-reading into the coming media age without succumbing to the temptations
-of typical media binaries of new and old, good and bad. As we consider
-the design of book interfaces that provoke probabilistic production in
-the practice of reading, I will advocate for attention to an affordance
-of anarchy that dethrones the governing role of a singular original
-without eradicating useful historical relations. Bible reading
-communities throughout history have provided some models for this
-anarchic interface and can provide important guidance and wisdom as we
-explore emerging media capacities for our relationship with books.
+So much modern biblical interpretation has been about finding the original meaning in the text, but such a quest is at best elusive and at worst an illusion. An anarchic interface provides the opportunity to think of bible and its reading practices entirely differently. Thinking of bible as an interface rather than simply as a container for content allows us to explore the way emerging technologies can translate and transform enduring traditions of bible reading into the coming media age in ways that transcend the usual media binaries of writer/reader, producer/consumer, form/content, right/wrong.
 
-Building on Johanna Drucker's work with interface theory and the
-Humanities, I will begin with a look at interface as a way of
-interrupting the container notion of book and suggesting a greater focus
-on relationality and reading practices in our discussion of media
-transitions and reading interface design. Then, based on the philosophy
-of Emmanuel Levinas, I will argue for an anarchic relationality that
-ought to shape our interface design toward creative encounter that
-resists emerging media dispositions toward consumption. With the
-possibility and value of anarchic interface established, I will then
-suggest ways to pursue bible as anarchic interface in our emerging media
-age. A look back at the performance of anarchic interface on the
-Talmudic page and in illuminated medieval manuscripts will inform our
-both the theory and design of our interfaces. Finally, I will beckon us
-forward by offering two experiments that highlight the challenges and
-possibilities of anarchic interface design and will offer some
-possibilities in light of the pervasive anxiety about human relationship
-and reading practices in today's media environment.
+As we consider the design of book interfaces that provoke probabilistic production in the practice of reading, I will advocate for attention to an affordance of anarchy that dethrones the governing role of a singular original without eradicating useful historical relations. Bible reading communities throughout history have provided some models for this anarchic interface and can provide important guidance and wisdom as we explore emerging media capacities for our relationship with books.
 
-Before we get started into our exploration of interface, why even bother
-with these questions of bible, book, and technology?
+Building on Johanna Drucker's work with interface theory and the Humanities, I will begin with a look at interface as a way of interrupting the container notion of book and suggesting a greater focus on relationality and reading practices in our discussion of media transitions and reading interface design. Then, based on the philosophy of Emmanuel Levinas, I will argue for an anarchic relationality that ought to shape our interface design toward creative encounter that resists emerging media dispositions toward consumption. With the possibility and value of anarchic interface established, I will then trace the importance of interface as media in the life of bible and its reading practices throughout history. 
+With bible as anarchic interface established, I will use N. Katherine Hayle’s “media specific analysis” to look back at the performance of anarchic interface on the Talmudic page and in illuminated medieval manuscripts. Then we will analyze a few contemporary bible interfaces in digital media -- Twible, biblegateway.com, and YouVersion’s Bible app -- to evaluate the degree to which they afford anarchy in the practice of reading. In conclusion, I will beckon us forward by offering the blueprints for an experimental bible app that highlight the challenges and possibilities of anarchic interface design and will offer some possibilities in light of the pervasive anxiety about human relationship and reading practices in today's media environment. 
+
+Before we get started into our exploration of interface, why even bother with these questions of bible, book, and technology?
 
 **Emergence of a Medium**
 
-From the birth of the codex to the fall of the bible, medium has
-mattered in the life of bible both in its necessary entanglement with
-content and in its significant social effects. In *The Birth of the
-Codex*,[^1] Roberts and Skeat give us a careful look at the storied
-material history of the technology that has come to dominate our
-cultural idea of book, the codex. Nearly half of the pages of their own
-codex are devoted to the role of early Christian practices of scripture
-in the rise of the codex to prominence as a book technology, with this
-bold claim emerging from their analysis of the manuscript data:[^2]
+This question of bible as interface emerged for me through an exploration of the material media transition from roll to codex as the dominant book technology in the early centuries of the common era. For example, we have evidence of the first century author Marshall reflecting on encountering his own writings in this new technological form in a rather suspicious manner. As recounted by ??????, Marshall says "" (). The codex form of book has been so deeply naturalized as the preeminent form of learning and knowledge for me, that this historical reminder that codex was once a novel and even questionable book technology helps contextualize the current media revolution we are experiencing with the rise of online reading practices. I have spent my formative academic years in a major media transition from the dominance of print to the proliferation of electronic book interfaces such as Print Document Format (PDF), books on the internet, and the Kindle reader on my iPhone. This present upheaval in technological mediation of book has made me more attuned to the cultural dynamics that may have been at work in the early centuries of the common era as the codex became more prevalent in literature, law, and religious writings. 
+
+Robert Kraft was an early pioneer in these questions about the relationship between our present media transition from print to internet and the shift from scroll to codex in antiquity. Focused particularly on the notion of canon, Kraft articulated the possible impacts at work in these somewhat analagous transitions, worlds apart in terms of history and culture, saying "For many years now, I have wondered whether the technological change from the scroll format to the large-scale codex influenced, at least in some situations, perceptions about 'the bible,' and especially the extent to which the classical Christian concept of a closed or exclusive 'canon' of scripture depended on that development" (Kraft 2000 - http://ccat.sas.upenn.edu/gopher/other/journals/kraftpub/Christianity/Canon). Even more impressively, Kraft challenged his colleagues and the guild to which he belonged by consistently performing these theoretical explorations of medium and bible using the tools and principles operative in the newly emerging internet medium. In the piece quoted above, we can see the attempts to translate print structures such as footnotes into the internet "page." [^Even the fact that we call web objects pages suggests the durable presence of the codex and print on our media sensibilities. Yet, as Walter Ong noted in his *Technologizing the Word* (), there is a secondary orality at work in the "scrolling" we use to navigate these "pages" of the internet. The language we use to talk about emerging technologies provides a strong reminder of the palimpsestuous nature of media translation.] Using simple notation such as "---" to separate between a paragraph and the related notes, "===" to separate between notes and the next paragraph, and "\#/" to designate a note, Kraft attempted to translate the familiar print medium into the continuous scrolled "page" of the internet. Though this notation was extremely inefficient for the editing process, I admire Kraft for having the courage to experiment with new media in ways that had the potential to translate to those who remained steeped in the more familiar medium of print. His performance of the difficulties of this new medium provided a significant object lesson for the theoretical questions he posed. He was showing and telling at the same time. 
+
+I continue in the line of questioning pioneered by Kraft, still wondering how the evolving material interfaces of bible, the technologies of bible as book, might "[affect our] perceptions about 'texts,' 'books,' 'reading,' and the like..." (Kraft 2000). My exploration here of bible as anarchic interface and the technological ramifications of bible as book will not endeavor to unpack all of the potential intersections between the emergence of the codex as a predominant medium for christian scriptures and the difficult process of Judeo-Christian differentiation, or lack thereof, during the first four centuries of the common era.[^See Daniel Boyarin's *Borderlines* for an analysis of the demarcation between Jews and Christians in early antiquity. See ] Yet, it will become clear in the conversation partners I have chosen in this project that this question of the difference between Jews and Christians and their relationships with their books is never far from my mind. 
+
+From the birth of the codex to the fall of the bible, medium has mattered in the life of bible both in its necessary entanglement with content and in its significant social effects. In *The Birth of the Codex*,[^1] Roberts and Skeat give us a careful look at the storied material history of the technology that has come to dominate our cultural idea of book, the codex. Nearly half of the pages of their own codex are devoted to the role of early Christian practices of scripture in the rise of the codex to prominence as a book technology, with this bold claim emerging from their analysis of the manuscript data:[^2]
 
 ![](media/image1.tiff){width="6.5in" height="2.765277777777778in"}
 
-Acknowledging the difficulty of firmly establishing the ‘biblical’
-category and signaling their sensitivity to the narrow provenance of
-manuscript evidence, all in Egypt, Roberts and Skeat still resoundingly
-suggest that bible as book begins exclusively as a papyrus codex. Newer
-manuscript evidence and different approaches to categories have
-challenged the ‘always’ of this conclusion. Yet, the strangeness of this
-early Christian preference for codex has been reinforced by many more
-recent explorations of this evidence.[^3]
+Acknowledging the difficulty of firmly establishing the ‘biblical’ category and signaling their sensitivity to the narrow provenance of manuscript evidence, all in Egypt, Roberts and Skeat still resoundingly suggest that bible as book begins exclusively as a papyrus codex. Newer manuscript evidence and different approaches to categories have challenged the ‘always’ of this conclusion. Yet, the strangeness of this early Christian preference for codex has been reinforced by many more recent explorations of this evidence.[^3]
 
-In a book that deeply shaped my own ideas about the adoption of codex
-technology by Christians, *Books and Readers*,[^4] Harry Gamble focuses
-more on the readerly use of early Christian texts than on their literary
-production. Though he may differ in his conclusions from Roberts and
-Skeat, there is little doubt that bible played a part in the emergence
-of a new interface.[^5] In my own work on the book as a technology for
-scripture in antiquity, I found a combination of Gamble, Epp, and
-O'Donnell provided a compelling picture of the usefulness of the
-portable notebook becoming associated with Christian leaders, and hence
-with authority.[^6]
+In a book that deeply shaped my own ideas about the adoption of codex technology by Christians, *Books and Readers*,[^4] Harry Gamble focuses more on the readerly use of early Christian texts than on their literary production. Though he may differ in his conclusions from Roberts and Skeat, there is little doubt that bible played a part in the emergence of a new interface.[^5] In my own work on the book as a technology for scripture in antiquity, I found a combination of Gamble, Epp, and O'Donnell provided a compelling picture of the usefulness of the portable notebook becoming associated with Christian leaders, and hence with authority.[^6]
 
 **Twilight of an Icon **
 
-The first chapter of Timothy Beal’s book *The Rise and Fall of the
-Bible* is titled ‘The End of the Word as we Know It,’ and he feels
-fine.[^7]
+The first chapter of Timothy Beal’s book *The Rise and Fall of the Bible* is titled ‘The End of the Word as we Know It,’ and he feels fine.[^7]
 
 ![](media/image2.tiff){width="6.5in" height="2.577777777777778in"}
 
-The cultural iconicity of 'the Bible' as 'the Book of books' that is
-undergoing deconstruction is the bible as authoritative, univocal,
-practical, accessible, comprehensive, and exclusive.[^8] As Beal also
-notes, it is not a coincidence that this transformation of the bible as
-cultural icon coincides with a major cultural translation of the book as
-a medium.[^9]
+The cultural iconicity of 'the Bible' as 'the Book of books' that is undergoing deconstruction is the bible as authoritative, univocal, practical, accessible, comprehensive, and exclusive.[^8] As Beal also notes, it is not a coincidence that this transformation of the bible as cultural icon coincides with a major cultural translation of the book as a medium.[^9]
 
 ![](media/image3.tiff){width="6.5in" height="1.7222222222222223in"}
 
-Just as in antiquity, bible played a role in the emergence of a new book
-technology, so today, bible as book is entangled in a media transition
-from the reign of print to a proliferation of interfaces in our emerging
-media age.
+Just as in antiquity, bible played a role in the emergence of a new book technology, so today, bible as book is entangled in a media transition from the reign of print to a proliferation of interfaces in our emerging media age.
 
 ## Bible as Container ##
 
@@ -103,67 +45,24 @@ Perhaps a short explanation here of how container notions of bible are operative
 
 **Medium Matters **
 
-In *Understanding Media: The Extensions of Man*,[^10] Marshall McLuhan
-points us toward the cracks in the reign of print, that illustrious
-descendent of the codex, in the face of an emerging electronic age.
-McLuhan reminds us that technologies (media) are extensions of
-ourselves and that the message of every medium is its effect on our
-social relations.[^11]
+In *Understanding Media: The Extensions of Man*,[^10] Marshall McLuhan points us toward the cracks in the reign of print, that illustrious descendent of the codex, in the face of an emerging electronic age. McLuhan reminds us that technologies (media) are extensions of ourselves and that the message of every medium is its effect on our social relations.[^11]
 
 ![](media/image4.tiff){width="6.5in" height="3.1791666666666667in"}
 
-Beyond the obvious and important entanglement of form and content,
-McLuhan emphasizes the impact of technologies on human relationship with
-the world and one another through a ‘change of scale’ not simply a
-newness of kind.[^12]
+Beyond the obvious and important entanglement of form and content, McLuhan emphasizes the impact of technologies on human relationship with the world and one another through a ‘change of scale’ not simply a newness of kind.[^12]
 
 ![](media/image5.tiff){width="6.5in" height="1.3527777777777779in"}
 
-Here, McLuhan challenges our binary tendencies between new and old and
-suggests that media emerge as a change in ‘existing processes’ that
-inevitably have social consequences. It is precisely this change in
-existing processes we find in the amplification of non-linear access
-from the emergence of the codex to the ubiquity of digital search.
-McLuhan suggests that the content of every ‘new’ medium is another
-existing medium.[^13] Just as the codex performed the multiple columns
-per page of a scroll, so internet search performs and amplifies the
-print index. I refer to this phenomenon of media building upon and
-containing its predecessors as *material media translation*. The
-language of translation is helpful here because it signals that all
-media transformations involve a negotiation between new and old with
-inevitable loss and gain. I use the phrase 'material media' to qualify
-this translation to differentiate this process from the common process
-of translation of texts into other forms of media such as sound and
-film. In material media translation, it is the materiality of the
-interface of the medium that is translated, not simply its 'content,'
-whatever that might entail.
+Here, McLuhan challenges our binary tendencies between new and old and suggests that media emerge as a change in ‘existing processes’ that inevitably have social consequences. It is precisely this change in existing processes we find in the amplification of non-linear access from the emergence of the codex to the ubiquity of digital search. McLuhan suggests that the content of every ‘new’ medium is another existing medium.[^13] Just as the codex performed the multiple columns per page of a scroll, so internet search performs and amplifies the print index. I refer to this phenomenon of media building upon and containing its predecessors as *material media translation*. The language of translation is helpful here because it signals that all media transformations involve a negotiation between new and old with inevitable loss and gain. I use the phrase 'material media' to qualify this translation to differentiate this process from the common process of translation of texts into other forms of media such as sound and film. In material media translation, it is the materiality of the interface of the medium that is translated, not simply its 'content,'whatever that might entail.
 
-My favorite material metaphor for this process of material media
-translation is a palimpsest, a manuscript that has been written on,
-erased, and then written on again. With each new medium writing over an
-existing medium (or many media) with only partial erasure, material
-media translation enacts a kind of palimpsest. Below is an image of a
-page from *Codex Ephraemi Rescriptus*,[^14] a fifth century manuscript
-of biblical texts in Greek, washed and written over in the 12th century
-with Greek translations of the fourth century Syriac writings of Ephrem
-the Syrian. This beautiful material enactment of palimpsest, two column
-miniscule Greek translations of Syriac over single column uncial Greek
-biblical texts, illustrates marvelously the process of emerging media
-building upon existing structures to make something new.
+My favorite material metaphor for this process of material media translation is a palimpsest, a manuscript that has been written on, erased, and then written on again. With each new medium writing over an existing medium (or many media) with only partial erasure, material media translation enacts a kind of palimpsest. Below is an image of a page from *Codex Ephraemi Rescriptus*,[^14] a fifth century manuscript of biblical texts in Greek, washed and written over in the 12th century with Greek translations of the fourth century Syriac writings of Ephrem the Syrian. This beautiful material enactment of palimpsest, two column miniscule Greek translations of Syriac over single column uncial Greek biblical texts, illustrates marvelously the process of emerging media building upon existing structures to make something new.
 
 ![](media/image6.tiff){width="6.5in" height="4.875in"}
 
+
 **Figure 1: Image of Codex Ephraemi Rescriptus 1v**[^15]
 
-In light of this process of material media translation as palimpsest,
-remembering bible's rich media history will provide a helpful context
-and data for imagining how bible might be practiced as interface amidst
-the changing reading dispositions of our emerging media age. The
-material media translation of book from manuscript page to mobile screen
-already has and will continue to shape our reading practices. Focusing
-on book as interface, a space for encounter, will highlight the
-importance of the materiality of these interfaces in producing our
-reading practices.
+In light of this process of material media translation as palimpsest, remembering bible's rich media history will provide a helpful context and data for imagining how bible might be practiced as interface amidst the changing reading dispositions of our emerging media age. The material media translation of book from manuscript page to mobile screen already has and will continue to shape our reading practices. Focusing on book as interface, a space for encounter, will highlight the importance of the materiality of these interfaces in producing our reading practices.
 
 [^1]: Colin H. Roberts and T. C. Skeat. *The Birth of Codex* (London:
     Oxford University Press, 1970).
