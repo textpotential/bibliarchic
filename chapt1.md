@@ -6,7 +6,7 @@ Why would I suggest that bible or book could be thought of as an interface? Ofte
 
 Turkle's more recent work has shifted focus from this earlier celebration of the fragmented self to a serious anxiety about the effects of robotics and mobile devices on our social capacities as humans.[^21] Two minutes into a 2015 NPR interview titled 'Making the Case For Face to Face in an Era of Digital Conversation,'[^22] Turkle suggests that 'face to face conversation is the most human and humanizing thing that we do, it's where we learn to put ourselves in the place of the other.' For many, this phrase, 'face to face,' as Turkle uses it has come to represent 'real' human interaction as opposed to a weak simulation or even cheap imitation that happens through internet media.
 
-Part of why the language of inter*face* compels me is because it can unsettle this binary between digital interfaces and this 'face to face'advocated by Turkle. Conversation over the coffee table and exchanges on Twitter can both be understood as interface and both are mediated by technologies if we understand language as a technology. So, this term, 'interface,' pushes beyond any digital/analog or virtual/real dichotomies and demands that we think about interface design in whatever media we find ourselves using. In a way, we could imagine 'interface,'the intersection of faces, as a useful translation of the phrase 'face to face.'
+Part of why the language of inter*face* compels me is because it can unsettle this binary between digital interfaces and this 'face to face' advocated by Turkle. Conversation over the coffee table and exchanges on Twitter can both be understood as interface and both are mediated by technologies if we understand language as a technology. So, this term, 'interface,' pushes beyond any digital/analog or virtual/real dichotomies and demands that we think about interface design in whatever media we find ourselves using. In a way, we could imagine 'interface,'the intersection of faces, as a useful translation of the phrase 'face to face.'
 
 If we look at the basic uses of 'interface' in the English language, we can see the strong indication of interaction and connection as well as the prevalent use in the computing arena.
 
@@ -45,7 +45,7 @@ As we have seen, Drucker's notion of interface already challenges binaries and e
 
 Drucker resists the strictly functional and mechanistic theories of interface design and asks humanists to imagine something more variable and responsive to the particularities of the people and the spaces involved in interface. Interface as thirdspace suggests that even these combinatorial particularities do not produce the total set of possibilities, 'there is always an-Other.'
 
-## Interface as Translation ##
+## Interface as Process and Product ##
 
 With Piotr Blumczynski's new book *Ubiquitous Translation*[^37] and the focus on the WHAT and HOW, I feel like I could link the WHAT and HOW of reading in Drucker to the WHAT and HOW of translation and suggest that interface is a kind of translational event. In a sense then, we have at least two kinds of translations going on with bible, a material media translation of book from print codex to mobile phone as well as the translational act that is interface.
 
