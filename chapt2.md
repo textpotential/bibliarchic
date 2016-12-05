@@ -1,6 +1,13 @@
 # CHAPTER 2: AFFORDING ANARCHY
 
-With the help of Johanna Drucker's call to humanities scholars to attend to interface design, we have seen that book as interface provokes probabilistic production in a reading event. If part of interface design involves constructing material spaces with possible affordances, which in turn, can then encourage probable sets of dispositions, can we imagine interfaces that afford proximity toward a reading disposition that is anarchic? 
+With the help of Johanna Drucker's call to humanities scholars to attend to interface design, we have seen that book as interface provokes probabilistic production in a reading event. Even as we have moved beyond any notion of interface as static surface or as container for content, we still have the imperative to design and analyze interfaces to encourage a set of dispositions that would support the provocation of probabilistic production in reading practice. Drucker offers several suggestions in this direction at the end of her piece on the Humanities and Interface Theory (Drucker 2011, ??). In this chapter I will advocate for one particular disposition for us to consider in our design of bible as interface. This disposition is anarchy, reading practices not governed by an original text or singular unifying principle. 
+
+How would an interface encourage such a disposition toward anarchy? Interfaces on their own, as with all technologies, do not propagate dispositions or values. Technologies do not define or determine us. Rather, it is our *relationship with* interfaces that *afford* the encouragement of dispositions. In no way do I mean to suggest that interfaces or other technologies are neutral with respect to values.[^A note here about my dissatisfaction with Richard Cohen's Levinasian analysis of the ethics of new media in conversation with Introna and Turkle.] I am simply reiterating Drucker's point that interface is a zone of encounter, where meaning is made through the indeterminate yet constrained entanglement of physical space and user participation. Affordances offer a way of talking about our relationships with and participation in the physical spaces of interface. 
+
+Exploring the overlap between Drucker's interface as a zone of encounter that provokes probabilistic production and Emmanuel Levinas's face to face as an encounter that demands anarchic proximity, I will argue for interface design principles that will afford anarchy by resisting the reign of an original. For Drucker, an interface creates a space that allows for a depth of encounter, not simply the contact of a surface. Similarly for Levinas, the face to face creates a space that allows for a 
+
+Or, would it be better to say that  
+
 
 ## Introducing Affordance 
 
