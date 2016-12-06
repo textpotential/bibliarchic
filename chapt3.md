@@ -32,10 +32,6 @@ Spending so much of my time thinking about the role of book technologies in reli
 
 Interface is this space of 'relationship with.' It is the relationship with books, the discourse of reading, that constitutes the religious sentiment for Levinas, not only the books themselves.
 
-### a heritage
-- translating the Talmudic page (Levinas and Beal)
-- Camille and Image on the Egde 
-
 As indicated by the inerrancy statement, these central texts at the *beginning*
 of core biblical writings have shaped biblical interpretation and bible reading 
 practices. We can see the influence of this arche on bible reading practices
