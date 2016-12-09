@@ -9,9 +9,9 @@ Thesis: The book is undergoing a major media transition as print wanes in its do
 **Chapter 1: Interface – How does interface theory shape the way we understand reading practices?**
 
 a. Face to Face - Recovering the human in digital interfaces
-a. Zone of Encounter (Drucker)
-b. Interface as Thirdspace (Soja and Lefebvre)
-c. Interface as Process and Product (Piotr Blumczynski)
+a. Zone of Encounter
+b. Interface as Thirdspace
+c. Interface as Process and Product
 d. Book as Interface - A Zone of Encounter that Provokes Probabilistic Production in a Reading Event
     i. Production
     ii. Probabilistic
@@ -22,10 +22,10 @@ e. Pathways
          
 **Chapter 2: Affording Anarchy – Can interface design afford reading practices not governed by an original?**
 
-a. Introducing Affordances (Gibson)
-b. Affordance and Interface (Norman)
-c. Proximity as Interface (Levinas)
-a. Without Reign of Original (Levinas)
+a. Introducing Affordances
+b. Affordance and Interface
+c. Proximity as Interface
+a. Without Reign of Original
 c. Anarchic Readings
     i. Walter Benjamin (literary montage)
     ii. Michel De Certeau (never a blank page)
@@ -34,15 +34,15 @@ c. Anarchic Readings
 **Chapter 3: Interfacing Bible – How does our changing media landscape impact the production of bible and bible reading practices?**
 
 a. Defining Bible
-a. Mediating Bible - Why Bother? (from Origen to McLuhan to Foley)
+a. Mediating Bible - From Origen to McLuhan to Foley
 a. Archic Bible
     i. Apostolicity and Canon
     ii. Reformation and Return to Original Language
     iii. Constructing a Scholarly Edition - Nestle Aland
     iv. Jesus Seminar
     v. Inerrancy Statement
-b. End of the Word as We Know It (Beal)
-c. Bible as Book of Books (Levinas)
+b. End of the Word as We Know It
+c. Bible as Book of Books
 
 **Chapter 4: Materializing Anarchy – In what ways has bible operated as an anarchic interface?**
 

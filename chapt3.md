@@ -3,6 +3,8 @@
 Add here some other examples of archic approaches to bible 
 - 
 - some church father interpretive approaches
+-- Origen? 
+-- Augustine?
 - reformation
 - principles guiding the construction of the Nestle-Aland
 - Jesus Seminar
