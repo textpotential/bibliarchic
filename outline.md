@@ -10,7 +10,7 @@ a. Face to Face - Recovering the human in digital interfaces
 a. Zone of Encounter (Drucker)
 b. Interface as Thirdspace (Soja and Lefebvre)
 c. Interface as Process and Product (Piotr Blumczynski)
-d. Book as Interface - A Zone of Encounter
+d. Book as Interface
     i. Production
     ii. Probabilistic
     iii. Provoke
