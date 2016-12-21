@@ -13,3 +13,16 @@ Marshall McLuhan, *Understanding Media: The Extensions of Man*
 
 Johanna Drucker, ‘Humanities Approaches to Interface Theory,’
     *Culture Machine* 12 (2011): 1-20.
+
+Johanna Drucker, "Entity to Event: From Literal, Mechanistic Materiality to Probabilistic Materiality" parallax, 2009, vol. 15, no. 4, 7–17.
+
+Edward W. Soja, *Thirdspace: Journeys to Los Angeles and Other
+    Real-and-Imagined Places* (Cambridge, Mass.: Blackwell, 1996).
+
+Henri Lefebvre, *The Production of Space* (Cambridge, Mass.:
+    Blackwell, 1991).
+
+Edward Soja, 'Afterword,' *Stanford Law Review* 48, no. 5 (May
+    1996): 1421.
+
+McLuhan and Fiore. *The Medium is the Massage: An Inventory of Effects*. Ginko Press, 1967. 
