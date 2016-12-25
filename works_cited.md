@@ -25,4 +25,8 @@ Henri Lefebvre, *The Production of Space* (Cambridge, Mass.:
 Edward Soja, 'Afterword,' *Stanford Law Review* 48, no. 5 (May
     1996): 1421.
 
-McLuhan and Fiore. *The Medium is the Massage: An Inventory of Effects*. Ginko Press, 1967. 
+McLuhan and Fiore. *The Medium is the Massage: An Inventory of Effects*. Ginko Press, 1967.
+
+Johnson, William A. 2010. *Readers and reading culture in the high Roman Empire: a study of elite communities.* New York: Oxford University Press. 
+
+Manguel, Alberto. 1996. A history of reading. New York: Viking.
