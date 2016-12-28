@@ -101,9 +101,11 @@ Maybe add a section here on different notions of emergence or wait and do this d
 Actually, I might throw out all of this and put a different theory of emergence in its place. 
 ```
 
-## Interface as Process and Product ##
+## Interface as Process ##
 
 With Piotr Blumczynski's new book *Ubiquitous Translation*[^37] and the focus on the WHAT and HOW, I feel like I could link the WHAT and HOW of reading in Drucker to the WHAT and HOW of translation and suggest that interface is a kind of translational event. In a sense then, we have at least two kinds of translations going on with bible, a material media translation of book from print codex to mobile phone as well as the translational act that is interface.
+
+If we look back to the computing definition of interface we began with earlier in this chapter, the idea of translation emerged even there. As Blumczynski suggests, translation is ubiquitous and I would argue that interface is a translational act. So, there are two reasons I bring in Piotr's work here. First, highlight the value of translation as a paradigm for the notion of interface we are working with here. Second, 
 
 ## Book as Interface ##
 
