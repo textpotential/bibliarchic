@@ -30,3 +30,5 @@ McLuhan and Fiore. *The Medium is the Massage: An Inventory of Effects*. Ginko P
 Johnson, William A. 2010. *Readers and reading culture in the high Roman Empire: a study of elite communities.* New York: Oxford University Press. 
 
 Manguel, Alberto. 1996. A history of reading. New York: Viking.
+
+Stanton, Graham. "Early Christian Preference for the Codex." Aland, Barbara, and Charles Horton. 2004. The earliest gospels: the origins and transmission of the earliest Christian gospels -- the contribution of the Chester Beatty Gospel Codex P⁴⁵. London: T & T Clark International. 
