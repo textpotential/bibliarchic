@@ -1,3 +1,5 @@
+Interface, like any other component of computational Systems, is an artifact of complex processes and protocols, a Zone in which our behaviors and actions take place. Interface is what we read and how we read combined through engagement. Interface is a provocation to cognitive experience.[^27]
+
 
 As she looks to Geographic Information Systems (GIS), social networking, and visualization for hints of new possibilities, we may even look back into print technologies (e.g. Talmudic page) for some suggestions toward interface design that might afford a bible textual apparatus that is "constellationary, distributed, and multi-faceted." 
 
