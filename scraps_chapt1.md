@@ -1,3 +1,11 @@
+
+As she looks to Geographic Information Systems (GIS), social networking, and visualization for hints of new possibilities, we may even look back into print technologies (e.g. Talmudic page) for some suggestions toward interface design that might afford a bible textual apparatus that is "constellationary, distributed, and multi-faceted." 
+
+A few basic examples of interface from the computing world will help illustrate what I mean by interface. There are several types of interfaces we use to relate to computers. NOT SURE WHAT LEVEL OF EXAMPLES TO GIVE HERE to best illustrate the breadth of interface operative in computing. Maybe a touchscreen, a library discovery interface, and an operating system? 
+
+After looking closely at these definitions of interface and exploring a few basic examples from the computing world, I propose a definition of interface as "a space that facilitate relationship without eradicating difference." In the definition itself, we see the operations of interface in the "and." In this coordinating conjunction, we see a space and process of holding the noun and verb functions of the word "interface" in relationship, without needing to reduce interface to one or the other. If a space facilitates relationship that does not maintain the difference brought to the relationship by the participants, then, this space is not interface.  
+
+
 particularly a space that is something other than a space 'between,' points toward a second way of theorizing interface through Edward Soja's notion of thirding. 
 
 If interface is a product of relations, not simply the material affordances of a technology, then interface is a space and a process, not simply a thing (Drucker 2011, 3). With this notion of interface as space and process, we need a way to talk about the participants in this spatial process. 
