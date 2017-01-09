@@ -4,17 +4,7 @@ The book is undergoing a major media transition as print wanes in its dominance 
 
 So much modern biblical interpretation has been about finding the original meaning in the text, but such a quest is at best elusive and at worst an illusion. An anarchic interface provides the opportunity to think of bible and its reading practices entirely differently. Thinking of bible as an interface rather than simply as a container for content allows us to explore the way emerging technologies can translate and transform enduring traditions of bible reading into the coming media age in ways that transcend the usual media binaries of writer/reader, producer/consumer, form/content, right/wrong.
 
-Looking for an alternative to the container model of interface, where the structure of a space dictates the consumptive actions of a user, Johanna Drucker provides a notion of interface as a zone of encounter. With books, this zone or space is where reader encounters text and something is made in the entanglement of contingencies and possibilities of that particular moment of encounter. Affordances are a common concept in interface design that will help us explore the ways in which physical characteristics of an interface shape and are shaped by the possible actions of a particular user to construct the possible set of relationships between a user and an interface. As we consider the design of book interfaces that provide this space of encounter where something is made in the practice of reading, I will advocate for attention to an affordance of anarchy that dethrones the governing role of a singular original without eradicating useful historical relations. Bible reading communities throughout history have provided some models for this anarchic interface and can provide important guidance and wisdom as we explore emerging media capacities for our relationship with books.
-
-## Defining Terms ##
-
-```
-technology
-digital
-media/um
-bible 
-book
-```
+Looking for an alternative to the container model of interface, where the structure of a space dictates the consumptive actions of a user, Johanna Drucker provides a notion of interface as a zone of encounter. With books, this zone or space is where reader encounters text and something is made in the entanglement of contingencies and possibilities of that particular moment of encounter. Affordances are a common concept in interface design that will help us explore the ways in which physical characteristics of an interface shape and are shaped by the possible actions of a particular user to construct the possible set of relationships between a user and an interface. As we consider the design of book interfaces that provide this space of encounter where something is made in the practice of reading, I will advocate for attention to an affordance of anarchy that dethrones the governing role of a singular original without eradicating useful historical relations. Bible reading communities throughout history have provided some models for this anarchic interface and can provide important guidance and wisdom as we explore emerging media capacities for our relationship with books.^[Add a section here, perhaps, defining a few of the basic terms I use that I will not spend a lot of time defining or will not define more fully later. Terms such as technology, digital, media/um, bible, book, etc.]
 
 ## Emergence of a Medium ##
 
@@ -51,11 +41,9 @@ The cultural iconicity of 'the Bible' as 'the Book of books' that is undergoing 
 
 > Suffice it to say that the end of print culture and the rise of a digital, networked media culture means the end of the book as we know it. And the end of the book as we know it cannot be divorced from the end of the Word, The Book of books, as we know it (Beal 2011, location 1161).
 
-Just as in antiquity, bible played a role in the emergence of a new book technology, so today, bible as book is entangled in a transition from the reign of print to a proliferation of interfaces in our emerging media age.
+Just as in antiquity, bible played a role in the emergence of a new book technology, so today, bible as book is entangled in a transition from the reign of print to a proliferation of interfaces in our emerging media age.[^book_as_container]
 
-## Bible as Container ##
-
-*Perhaps a short explanation here of how container notions of bible are operative in contemporary discourse. Could we use Tim's code for twitter analysis to demonstrate the common conception of bible as container?*
+[^book_as_container]: Maybe add a section on Bible as Container - Perhaps a short explanation here of how container notions of bible are operative in contemporary discourse. Could we use Tim's code for twitter analysis to demonstrate the common conception of bible as container?
 
 ## Medium Matters ##
 
@@ -71,7 +59,7 @@ Here, McLuhan challenges our binary tendencies between new and old and suggests 
 
 My favorite material metaphor for this process of material media translation is a palimpsest, a manuscript that has been written on, erased, and then written on again. With each new medium writing over an existing medium (or many media) with only partial erasure, material media translation enacts a kind of palimpsest. Below is an image of a page from *Codex Ephraemi Rescriptus*,^[[*http://gallica.bnf.fr/ark:/12148/btv1b8470433r*](http://gallica.bnf.fr/ark:/12148/btv1b8470433r)] a fifth century manuscript of biblical texts in Greek, washed and written over in the 12th century with Greek translations of the fourth century Syriac writings of Ephrem the Syrian. This beautiful material enactment of palimpsest, two column miniscule Greek translations of Syriac over single column uncial Greek biblical texts, illustrates marvelously the process of emerging media building upon existing structures to make something new.
 
-[**Figure 1: Image of Codex Ephraemi Rescriptus 1v**](https://en.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus#/media/File:Codex_ephremi.jpg)^[[Codex Ephraemi Rescriptus 1v view 15](http://gallica.bnf.fr/ark:/12148/btv1b8470433r/f15.item), http://gallica.bnf.fr/ark:/12148/btv1b8470433r/f15.item taken from the iOS app Gallica by Bibliothèque nationale de France [https://appsto.re/us/FhPFH.i](https://appsto.re/us/FhPFH.i).]
+![**Figure 1: Image of Codex Ephraemi Rescriptus 1v**](https://en.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus#/media/File:Codex_ephremi.jpg)^[[Codex Ephraemi Rescriptus 1v view 15](http://gallica.bnf.fr/ark:/12148/btv1b8470433r/f15.item), http://gallica.bnf.fr/ark:/12148/btv1b8470433r/f15.item taken from the iOS app Gallica by Bibliothèque nationale de France [https://appsto.re/us/FhPFH.i](https://appsto.re/us/FhPFH.i).]
 
 In light of this process of material media translation as palimpsest, remembering bible's rich media history will provide a helpful context for imagining how bible might be practiced as interface amidst the changing reading dispositions of our emerging media age. This material media translation of book from manuscript page to mobile screen already has and will continue to shape our reading practices. A closer look at the cultural operations of interface as a zone of encounter that provokes probabilistic production will help us continue to resist the unhelpful dichotomies of new and old,  medium and message. 
 

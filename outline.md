@@ -6,23 +6,24 @@ Thesis: The book is undergoing a major media transition as print wanes in its do
 
 **Chapter 1: Interface – How does interface theory shape the way we understand reading practices?**
 
-a. Face to Face - Recovering the human in digital interfaces
-a. Zone of Encounter (Drucker)
-b. Interface as Thirdspace (Soja and Lefebvre)
-c. Interface as Process and Product (Piotr Blumczynski)
+a. Defining Interface
+a. Interface as Event
+b. Interface as Space
 d. Book as Interface
-    i. Production
-    ii. Probabilistic
-    iii. Provoke
-e. Pathways
+    i. Reader as User
+    ii. Spaces Provoking Probabilistic Production
+        * Production
+        * Probabilistic
+        * Provoke
+e. Paving the Way
     i. John Miles Foley's Pathways Project
     ii. The Academic Book of the Future Project
          
 **Chapter 2: Affording Anarchy – Can interface design afford reading practices not governed by an original?**
 
-a. Introducing Affordances
+a. Introducing Affordance
 b. Affordance and Interface
-c. Proximity as Interface
+c. Interface and Proximity
 a. Without Reign of Original
 c. Anarchic Readings
     i. Walter Benjamin (literary montage)

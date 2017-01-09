@@ -83,7 +83,7 @@ So, both Drucker's move away from the term "user" and my embrace of the term her
 
 [^OOO]: What if we leveled the playing field philosophically here and instead of leaning back toward the well trodden interplay of subject and object, even constructivist subject, in this space that is interface, we considered all participants as objects? One of the aims stated at the beginning of this chapter was to challenge the tendency toward an original text or a singular governing principle as the arbiter of meaning in the act of reading. If we rearticulate a subject as part of interface, how does this subject not become the singular governing principle? What if human participants in an interface are simply one type of object interacting with other objects to produce an event?  
 
-### Spaces provoking probabilistic production ###
+### Spaces Provoking Probabilistic Production ###
 
 Returning to our discussion of book as interface, near the end of her exhortation to humanities scholars to take seriously the task of building a theory of interface, Drucker reminds us that book has always been an interface.
 
