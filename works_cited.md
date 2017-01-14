@@ -1,5 +1,7 @@
 ## Works Cited ##
 
+Blitz, Mark. 2014. “Understanding Heidegger on Technology.” The New Atlantis. http://www.thenewatlantis.com/publications/understanding-heidegger-on-technology.
+
 Colin H. Roberts and T. C. Skeat. *The Birth of Codex* (London: Oxford University Press, 1970).
 
 Harry Y. Gamble, Books and Readers in the Early Church: A History of Early Christian Texts (New Haven, Yale University Press, 1995).
