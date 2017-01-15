@@ -13,6 +13,9 @@ Timothy K. Beal, The Rise and Fall of the Bible: The Unexpected
 Marshall McLuhan, *Understanding Media: The Extensions of Man*
     (New York: McGraw-Hill, 1964).
 
+Manovich, Lev. 2002. The Language of New Media. Cambridge, Mass.: MIT Press.
+
+
 Johanna Drucker, ‘Humanities Approaches to Interface Theory,’
     *Culture Machine* 12 (2011): 1-20.
 
