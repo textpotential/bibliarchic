@@ -1,5 +1,7 @@
 Saying offers a more accessible (pun intended) way to get at the operation of proximity in both Levinas and in my theory of interface. Hand quotes Levinas saying - "Saying is 'the commitment of an approach, the one for the other, the very signifyingness of signication, prior to being a communication in which a truth is manifested" (Hand Reader, 6). Already, we can see the entanglement of proximity and language in this connection with the saying...
 
+Once this notion of technology as revealing, one mode of revealing that is being, is established, Heidegger moves toward a discussion of the nature of this kind of revealing as Gestell, which is where he returns to the concern about the collapse of distance without the encouragement of nearnesss that he began the lecture series with.  
+
 MORE ON DISTANCE IN Bremen LECTURES...
 
 ** Need to at least mention the more recent work by Silverstone on Proper Distance
