@@ -37,3 +37,16 @@ Johnson, William A. 2010. *Readers and reading culture in the high Roman Empire:
 Manguel, Alberto. 1996. A history of reading. New York: Viking.
 
 Stanton, Graham. "Early Christian Preference for the Codex." Aland, Barbara, and Charles Horton. 2004. The earliest gospels: the origins and transmission of the earliest Christian gospels -- the contribution of the Chester Beatty Gospel Codex P⁴⁵. London: T & T Clark International. 
+
+Sherry Turkle, *Reclaiming Conversation: The Power of Talk in a
+    Digital Age* (New York: Penguin Press, 2015).
+
+Richard A. Cohen, 'Ethics and Cybernetics: Levinasian
+    Reflections,’ *Ethics and Information Technology* 2, no. 1 (March
+    2000): 27-35.
+
+Sherry Turkle, *Life on the Screen: Identity in the Internet Age*
+    (New York: Simon & Schuster, 1995).
+
+Sherry Turkle, *Alone Together: Why We Expect More From
+    Technology and Less from Each Other* (New York: Basic Books, 2011)

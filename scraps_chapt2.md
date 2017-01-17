@@ -1,3 +1,21 @@
+My goal here is to connect the notions of proximity and anarchy in Levinas to interface design that affords reading which is not primarily governed by consuming the content of a container, but encourages a space of interaction that supports difference. Just as Drucker offers probabilistic production as an alternative to mechanical determinism, so here, I will offer the anarchy of proximity as an alternative to consumptive mastery in the practice of reading. Not only does bible offer a zone of encounter for provoking probabilistic production in the practice of reading, but, I argue, bible can be an *anarchic interface*, an interface not governed by a singular original, theme, or principle. Extending Levinas's description of the pre-conscious ethical encounter in the face to face as proximity, I will operationalize this proximity in interface design as a space with depth that opens up possibility for contact without grasp, thus reading not governed by an original (an-arche). 
+
+As I mentioned in the beginning of my chapter on interface, it was in part the simple semantic correlation between inter-face and the face to face in Levinas that raised my curiosity about the possible relationship between the proximity at work in the face to face and bible as interface. One way to parse this process in Levinas's writings is that the face initiates a proximity, a zone of encounter (recall Drucker's discussion of interface) that is both near and distant, which in turn affords anarchic relations, relations not governed by one subject's ability to comprehend, understand, or categorize another subject. So, in the ethical relation, the proximity of the face creates an interface, a particular kind of zone of encounter that demands contact without grasp. Here, I am suggesting a close relationship between the provocation of probabilistic production characteristic of interface and the proximity of the face in the ethical encounter.
+
+At this point, I need to make a few comments about the tenuous connections between proximity and the kind of space we discussed in relationship to interface in chapter 1. Cite the explicit place Levinas says that proximity can not be reduced to geographic nearness or distance and point out that this suggestion does NOT mean that proximity is not spatial, simply that proximity as a relationship of responsibility can not be reduced to typical notions of physical coincidence or contiguity. In his reflections on Celan, Levinas calls the language of his poetry a non-place...can the common distinction between space and place be helpful here, even if we do need to stay mindful of the work that proximity does to precede or ground the cultural practices that make up space. Space as a process can allow for encounter without an already established meaning....
+
+I am not sure what to do with this yet, but here is a connection between sensibility, materiality and proximity - 
+
+> The immediacy of the sensibility is the for-the-other of one's own materiality; it is the immediacy or the proximity of the other. The proximity of the other is the immediate opening up for the other of the immediacy of enjoyment, the immediacy of taste, materialization of matter, altered by the immediacy of contact (Levinas 1971, 75).
+
+And another very juicy one on materiality and proximity
+
+Might just want to put this in a note as to the analogy I sometimes use for proximity, which is asymptote - 
+
+> But it is also distinguishable from the Soilen, for proximity is not a simply asymptotic approach of its "term." Its term is not an end. The more I answer the more I am responsible; the more I approach the neighbor with which I am encharged the further away I am. This debit which increases is infinity as an infinition of the infinite, as glory.34
+
+I wonder if we could offer a modified asymptote visualization that might depict this approach that moves me further away?
+
 If Levinas describes the encounter of the face to face using proximity, and if proximity is contact without grasp, then we can see the analogy between proximity and the probabilistic production involved in interface. Further, Drucker helpfully reminds us that interfaces "provoke" this other kind of encounter that resists mechanistic (i.e. determinative) consumption of content in a container and opens to a making that involves the possibility of surprise. Though the language is stronger in Levinas, the face too "provokes" a kind of encounter that is other than deterministic consumption, this material encounter, Levinas describes as proximity. Proximity, then, is another way of describing the probabilistic production at work in a reading event in the space that is interface.
 
 Saying offers a more accessible (pun intended) way to get at the operation of proximity in both Levinas and in my theory of interface. Hand quotes Levinas saying - "Saying is 'the commitment of an approach, the one for the other, the very signifyingness of signication, prior to being a communication in which a truth is manifested" (Hand Reader, 6). Already, we can see the entanglement of proximity and language in this connection with the saying...
@@ -22,21 +40,34 @@ Part of why the language of inter*face* compels me is because it can unsettle th
 
 [^16]: https://storify.com/textpotential/turkle-face-to-face
 
-[^17]: Sherry Turkle, *Reclaiming Conversation: The Power of Talk in a
-    Digital Age* (New York: Penguin Press, 2015).
-
-[^18]: Richard A. Cohen, 'Ethics and Cybernetics: Levinasian
-    Reflections,’ *Ethics and Information Technology* 2, no. 1 (March
-    2000): 27-35.
-
-[^19]: Sherry Turkle, *Life on the Screen: Identity in the Internet Age*
-    (New York: Simon & Schuster, 1995).
-
-[^20]: Cohen, 'Ethics and Cybernetics,' 27, n. 2.
-
-[^21]: e.g. Sherry Turkle, *Alone Together: Why We Expect More From
-    Technology and Less from Each Other* (New York: Basic Books, 2011)
+[^17]: 
     and Sherry Turkle, *Reclaiming Conversation: The Power of Talk in a
     Digital Age* (New York: Penguin Press, 2015).
 
 [^22]: http://www.npr.org/2015/09/26/443480452/making-the-case-for-face-to-face-in-an-era-of-digital-conversation
+
+In his essay titled "Substitution," Levinas takes up the relationship between proximity and the αρχη. At many points in this project, we will struggle with the potential of proximity, from spatial nearness and distance to ap-proximat-ion to a notion of contact without grasp. But for now, we will focus on the anarchic.
+
+I wonder if a note here or a paragraph on the difference between face and facade in Levinas (Reality and it's Shadow) as it relates to interface. It is my experience that many address new media interfaces as a facade, partly indebted to the Frankfurt school's devaluation of mass media. I am arguing that interface as articulated with Drucker as a 'zone of encounter provoking probabilistic production' resembled more the face to face than it does the facade of art/media. Now that I think of it, thanks to Rothko, maybe the difference between face and facade is indeed proximity? Not simply a nearness such as Rothko's urging to stand close to his works to be enveloped in a way such that the viewer does not command the piece, but a spatiality that allows for contact without grasp. A facade invites consumption and tourism, while the face demands an encounter that can not be reduced to observation. The face as encounter has depth, which creates a space that allows for both distance and nearness, where the distance consistently interrupts the impulse to draw near (appear). Perhaps we could call this the space of the asymptotic relation? 
+
+A facade as flat reminds me of the distinction N Katherine Hayles makes in her essay "Print is Flat, Code is Deep: The Importance of Media Specific Analysis" (Hayles 2004). 
+
+this of proximity, "Here what is essential is a refusal to allow oneself^[This seems like a slippage of language. At the level of the ethical relation as proximity in Levinas, there is no allowing oneself] to be tamed or domesticated by a theme...
+
+Here we find a restatement of the earlier resistance to the kerygmatic logos as the ground of subjectivity and human sociality. The connection between kerygmatic logos and arxh is all too familiar to me given my own history of conservative evangelical biblical training. 
+
+When I speak of anarchy, I mean something other than a generic absence of order or a simple negation of rule, origin, or principle. Insofar as chaos is connected to the emergent properties of complex dynamic systems, I have no problem with chaos as a fecund space, loaded with potential for meaning. Yet, shaped by my encounters with the writings of Emmanuel Levinas, something deeper and more subtle is at work in my sense of the gravity of anarchy. 
+
+>that I am also struck by the potential poetic movement of *délire de lire* in our exploration of the cultural production of bible.
+
+Simon Critchley, in his work on the relationship between ethics and politics, "Infinitely Demanding," argues for a similar kind of spatiality in political anarchism. Tracing Levinas's use of anarchy in the "Substitution" section of OTB, Critchley moves from anarchy through obsession and persecution to "interstitial distance" (Critchley 2007, 121-23). For Critchley, this is already a move from the ethical to the political, with interstitial distance being a distance from AND within the state that consistently resists the tendency of the State^[I capitalize State here both to follow the convention used by Critchley and to signal the tendency of State to operate as an arche or governing principle.] to order all areas of life by collapsing the distance of multiplicity into the facade of unity (Critchley 2007, 112-13). 
+
+### Michel De Certeau - Never a Blank Page ###
+
+If we look at the basic uses of 'interface' in the English language, we can see the strong indication of interaction and connection as well as the prevalent use in the computing arena. Here in these definitions,[^23]
+
+HAND on Proximity - So the term proximity indicates something excessive for Levinas. It signi fi es a community that exists before any established fact, where the other ’ s singularity is experienced by me as unparalleled, overwhelming, extreme, exclusive and pre-assigned. There is simply no choice in the matter.
+Hand, Seán. Emmanuel Levinas, edited by Seán Hand, Taylor and Francis, 2008. ProQuest Ebook Central, .
+Created from du on 2017-01-01 08:41:43.
+-- This excessiveness is highlighted nicely in Ethics as First Philosophy from Hand reader 82-83 - "The proximity of the other is the face's meaning, and it means from the very start in a way that goes beyond those plastic forms which forever try to cover the face like a mask of their presence to perception. But always the face shows through these forms."
+-- This is a direct reflection on Introna's discussion of community and proximity in the SEP article. Here, Hand suggests that proximity does indicate a kind of community for Levinas, but not a community dependent upon any pre-existing horizon. I wonder if community here is a helpful term? Here, I think the phrase contact without grasp fits proximity well. Before even our perceptual faculties are constructed in the relational act, there is an encounter that precedes and exceeds my ability to grasp or make sense of or choose it and demands a response, a responsibility, that then provides the conditions of possibility for a relationality. Introna helps greatly in seeing where the notion of proximity may come from Heidegger's notion of disclosure and close at hand. Yet, and critically yet, for Levinas, proximity is not reducible to disclosure or shared horizon. It is contact without grasp or even contact that is being grasped? As Hand suggests, proximity exceeds horizon and disclosure. 
