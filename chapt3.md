@@ -2,6 +2,10 @@ We have seen how a Levinasian notion of proximity can shape our theory of interf
 
 I have suggested interface as a space that demands difference and proximity as a way of imagining this demand as an anarchic relationship that can not be reduced to mastery. Levinas, in his own reflections on bible, finds this proximate interface there. 
 
+** Maybe in this chapter I could just layout the different user encounters with different bible interfaces to demonstrate the usefulness of bible as interface. So, user interface in roll, user interface in codex, and user interface with bible in medieval times, maybe to Luther. Even further to bielo on words upon the word and contemporary bible studies.
+
+Then move to bible as anarchic interface.
+
 ##book of books ##
 
 The transcripts of these interviews were my introduction to the ideas, thought, and methodology of Levinas and as I continue to encounter more of his work, I come back to these interviews and hear them with deeper resonance and richness each time. If anyone were to question why a bible project like *a proximate bible* would be so interested in a continental philosopher such as Levinas, even a cursory glance at these interviews would clarify. In the first question of the first interview transcribed in *Ethics and Infinity*, which is titled 'Bible and Philosophy,' Levinas connects thinking to reading books as a 'modality' of humanness and suggests that for him, the Bible is 'the book par excellence' (Cohen translating Levinas, *Ethics and Infinity*, 22). The conversation continues toward questions about the relationship between bible, philosophical writings and the Russian literary classics. At one point, Nemo asks Levinas about the ways he has 'harmonized' biblical and philosophical thinking, to which Levinas responds:
@@ -14,6 +18,9 @@ A close read of this response could take us on a journey through much of Levinas
 Spending so much of my time thinking about the role of book technologies in religious identity, I have often missed the importance of the '*relationship with* books' in this discussion of bible. If we follow this passage further, we find this *relationship* with books restated in the commentators, the hermeneutic glimpsing, and the place of interpretation. We find here hints toward bible as exceeding any reduction to container, bible as relationship with, bible as a proximate interface. But let us take a closer look at the relationship of bible and book. 
 
 Should I put a version of my paper from MJP class here?? I need to look.
+
+Maybe even note here that this notion of bible
+Is Jewish and not how I read the Christian notion of bible throughout most of history. Levinas offers bible as anarchic and xian history is archic.
 
 ## Bible as Book
 
