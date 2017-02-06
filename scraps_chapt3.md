@@ -1,1 +1,26 @@
 It is not bible as a recipe book for determinate beliefs that signaled transcendence, rather the possibilities found in its infinite process of reading as meaning making. This process of reading as meaning, interpretation, Levinas suggests bible and philosophy may have in common.
+
+We have seen how a Levinasian notion of proximity can shape our theory of interface. Levinas also helps us with a transition to bible as interface in his reflections on the way bible shaped his own philosophical thinking. One of the wonderful things about Levinas is the way in which his writings and thinking on Judaism are so entangled with his philosophical explorations. 
+
+I have suggested interface as a space that demands difference and proximity as a way of imagining this demand as an anarchic relationship that can not be reduced to mastery. Levinas, in his own reflections on bible, finds this proximate interface there. 
+
+** Maybe in this chapter I could just layout the different user encounters with different bible interfaces to demonstrate the usefulness of bible as interface. So, user interface in roll, user interface in codex, and user interface with bible in medieval times, maybe to Luther. Even further to bielo on words upon the word and contemporary bible studies.
+
+Then move to bible as anarchic interface. - maybe not, I wonder if actually, chapter 3 could be simply the articulation of bible as interface (multilayered as I have argued). Then chapter 4 could use anarchy as one affordance to look for accross material mediations of bible, much like Hayles does with literary hypertext in Print is Flat? So, the structure of chapter 3 would be:
+
+- Book of Books
+- Bible as Book
+-- archic bible and a focus on WHAT is in the container
+- Bible as interface
+-- material focus on use and 
+
+The conversation continues toward questions about the relationship between bible, philosophical writings and the Russian literary classics. At one point, Nemo asks Levinas about the ways he has 'harmonized' biblical and philosophical thinking, to which Levinas responds:
+
+What we will find is that bible and the process of reading it encourages, provides an interface with religion, thus with the face of the other. The bookishness he mentions in his initial response to Nemo about where thinking begins now gets wrapped into what Levinas calls 'the religious sentiment.' We have to remember here that Levinas often uses words in ways that are unfamiliar. Curiously, I have been working with this passage for several years and it wasn't until just recently that the role of religion gained amplitude. My contentious background as an evangelically trained biblical exegete always drew me toward his correlation of mystery, possibility, exegesis, and transcendence in the underlined section above. I hadn't even taken the time to consider this response as an articulation of Levinas's theory of religion, or at least a statement about the practices that stimulated his religious imagination.
+
+Spending so much of my time thinking about the role of book technologies in religious identity, I have often missed the importance of the '*relationship with* books' in this discussion of bible. If we follow this passage further, we find this *relationship* with books restated in the commentators, the hermeneutic glimpsing, and the place of interpretation. We find here hints toward bible as exceeding any reduction to container, bible as relationship with, bible as a proximate interface. But let us take a closer look at the relationship of bible and book. 
+
+Should I put a version of my paper from MJP class here?? I need to look.
+
+Maybe even note here that this notion of bible
+Is Jewish and not how I read the Christian notion of bible throughout most of history. Levinas offers bible as anarchic and xian history is archic.
