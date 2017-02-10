@@ -24,3 +24,14 @@ Should I put a version of my paper from MJP class here?? I need to look.
 
 Maybe even note here that this notion of bible
 Is Jewish and not how I read the Christian notion of bible throughout most of history. Levinas offers bible as anarchic and xian history is archic.
+
+
+The Greek word used most often for this roll book is biblon. So, as I said before, before bible became Bible, it was book.
+
+I need to say something here about my choice of a Jewish thinker to introduce a chapter on bible when I am headed in a direction of a more focused critique of Christian notions of bible as archic. Seems to fit here because the rise of the codex is not taken up by Non-Jesus Jews in the same way it is taken up by Jesus Jews. Perhaps here I return to my musing about the tablets as bible? Either way, I at least need to admit in a note that I have a hunch that Jewish notions of bible don't perform the same archic tendencies that we find in the Christian tradition. Of course, theses traditions are both polyvalent and have a wide range of expressions of bible. Our look at the Talmudic page in chapter 4 will point to some material manifestations of this hunch I have. For now, I will focus on a Christian concept of bible that is deeply embedded in codex as a form and arche as a disposition. 
+
+This would be mostly the Roberts and skeat stuff and turner and some specific book history work on the emergence of the codex.
+- find some non bible focused works recently on history of book and see how they trace transition of dominance from roll to codex. 
+
+### the Christian book ###
+Begin here with the image of the mosaics of the gospel writers in Ravenna, with a basket of rolls And a codex on the desk. The New Testament writings were not simply a theological translation of Jewish writings, they were also a material media translation of the notion of scripture from roll to codex. 
