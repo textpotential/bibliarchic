@@ -1,4 +1,6 @@
-It is not bible as a recipe book for determinate beliefs that signaled transcendence, rather the possibilities found in its infinite process of reading as meaning making. This process of reading as meaning, interpretation, Levinas suggests bible and philosophy may have in common.
+We have now considered interface as a way of thinking about our relationship with books. We have articulated a multilayered theory of interface based on Levinasian proximity that accounts for the entangled interfaces of human-machines-human. Now, we can turn to bible and explore how this proximate theory of interface might help us imagine bible as interface. Why focus on bible as interface here and not some other literary tradition that has had a lasting impact on culture? One of the reasons I ever began considering proximity as a way of describing our relationship with bible was due to a moment in Philip Nemo's interviews with Levinas that hinted at the deep role bible had played in the development of his philosophical thinking. 
+
+
 
 Use the mosaic image of of gospel writers to start telling the story of bible as book.
 
@@ -39,3 +41,6 @@ This would be mostly the Roberts and skeat stuff and turner and some specific bo
 
 ### the Christian book ###
 Begin here with the image of the mosaics of the gospel writers in Ravenna, with a basket of rolls And a codex on the desk. The New Testament writings were not simply a theological translation of Jewish writings, they were also a material media translation of the notion of scripture from roll to codex. 
+
+I provide this long introduction to affordance theory as a way toward imagining the proximity of the face in Levinas as an interface which affords anarchy. First, we need to consider the possibility of proximity as interface, a zone of encounter that provokes probabilistic production. 
+I wonder if I should go back to introducing affordances here as a way to look at the relationship of user with interface, a relationship which also constitutes the process of interface. 
