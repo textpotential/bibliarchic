@@ -14,6 +14,18 @@ Overall, I am arguing for ??
 - chapter 3 argues for bible as a proximate interface 
 - chapter 4
 
+A Proximate Bible: Interfacing the Book of Books
+
+Maybe instead of affording anarchy, i am really talking about interfaces that afford proximity and maybe proximity is an extension of the provocation of probabilistic production introduced by Drucker. One of the characteristics of these proximate interfaces or maybe even dispositions shaped by these interfaces is anarchic textual processing, processing that is not ruled by an original text, a singular author, or a governing thesis. Not all interfaces afford proximity to same degree. Maybe in roll and codex, form facilitates nearness at risk of irradicating distance, but the content of bible resists this collapse and remains distant. As the conent of bible becomes over familiar OR becomes merely a prop for interface with bible as cultural icon, how can we conceptualize bible as still proximate? In emerging interfaces, do we see both form and content entangle to promote the affordance of proximity in new and interesting ways, or does new media just heighten our addiction to nearness? 
+
+- chapter 1 Reading Interfaces: argues for interface as a relationship of user with environment that provokes probabilistic production and for book as interface 
+- chapter 2 Affording Proximity: argues for proximity as a valuable affordance for interfaces such that interface affords both nearness (responsibility) and distance (resistance to mastery), care without consumption, contact without grasp. 
+- chapter 3 Bible as Book: argues that bible as book has the potential to offer a proximate interface, but use seems to consolidate toward a distancelessness without nearness. Trace affordance of proximity through roll, codex and DBL.
+-- maybe connect affordance of nonlinear access to proximity in this analysis
+-- make argument for why DBL is basically a new media translation of a codex in database form. 
+- chapter 4 Unbinding Non-Linear Access: argues that imagining bible beyond book, as a proximate interface can leverage some of the possibilities that were latent in book, but can be exploited more fully in interface beyond book once non-linear access comes unbound.
+-- I used to argue here for book to cover (ha!) technologies from before codex and after, but here perhaps we reserve book for the technology that is a container for texts and begin to use the more open language of interface (of which book is one example) to talk about use of bible. 
+
 **Introduction: Translating Book**
 
 **Chapter 1: Interface – How does interface theory shape the way we understand reading practices?**
