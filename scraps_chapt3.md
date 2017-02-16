@@ -44,3 +44,5 @@ Begin here with the image of the mosaics of the gospel writers in Ravenna, with 
 
 I provide this long introduction to affordance theory as a way toward imagining the proximity of the face in Levinas as an interface which affords anarchy. First, we need to consider the possibility of proximity as interface, a zone of encounter that provokes probabilistic production. 
 I wonder if I should go back to introducing affordances here as a way to look at the relationship of user with interface, a relationship which also constitutes the process of interface. 
+
+Gaver extends Norman's use of affordances into 3 categories, perceived, hidden and false (Gaver 1991). Though Gaver seems to move back toward affordances as properties rather than relationships, he does offer some insights into using affordances to evaluate the suitability of interfaces, which may help us later on as we use N. Katherine Hayles's media specific analysis to evaluate a few interfaces and their affordance of anarchy or lack thereof. FINISH THIS STRAND...
