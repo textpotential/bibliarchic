@@ -23,9 +23,10 @@ Maybe instead of affording anarchy, i am really talking about interfaces that af
 - chapter 3 Bible as Book: argues that bible as book has the potential to offer a proximate interface, but use seems to consolidate toward a distancelessness without nearness. Trace affordance of proximity through roll, codex and DBL.
 -- maybe connect affordance of nonlinear access to proximity in this analysis
 -- make argument for why DBL is basically a new media translation of a codex in database form. 
+-- use critical edition and master bible from UBS as examples of a distancelessness in interface, an archic sensibility 
 - chapter 4 Unbinding Non-Linear Access: argues that imagining bible beyond book, as a proximate interface can leverage some of the possibilities that were latent in book, but can be exploited more fully in interface beyond book once non-linear access comes unbound.
 -- I used to argue here for book to cover (ha!) technologies from before codex and after, but here perhaps we reserve book for the technology that is a container for texts and begin to use the more open language of interface (of which book is one example) to talk about use of bible. 
-
+-- same content in DBL can provide a proximate interface through API. Look closely at bible app here.
 **Introduction: Translating Book**
 
 **Chapter 1: Interface – How does interface theory shape the way we understand reading practices?**
