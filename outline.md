@@ -47,48 +47,61 @@ e. Paving the Way
 
 a. Introducing Affordance
 b. Affordance and Interface
-c. Interface and Proximity
-- nearness and distance in technological advance
--- Heidegger 
--- introna
-- nearness and distance in levinasian proximity
--- nearness as approach and responsibility
--- distance as resistance to mastery
--- an alternative to distancelessness without nearness in Heidegger 
-D. affording proximity 
--- contact without grasp
--- anarchy
--- McLuhan global village silver stone proper distance
+c. Problem of Nearness and Distance
+    i. what do we mean by nearness and distance here?
+    i. Anxieties about emerging technologies (Carr, Turkle, etc.) 
+    ii. Plato - writing and memory
+    ii. Heidegger - distancelessness without nearness 
+d. Responses to Nearness and Distance
+    i. Introna/Drucker - ethics of nearness and distance in ICTs
+    i. Levinasian Proximity
+        * not about tech per se, but useful nonetheless
+        * proximity as increase in both nearness and distance
+        * nearness as approach and responsibility
+        * distance as resistance to mastery
+        * a proximate relationship: two resonances of the term
+e. Affording Proximity: contact without grasp
+    i. proximity beyond human-human interface? 
+        * bible as face in Levinas
+        * poetry as proximate
+    ii. characteristics of proximate interface
+        * nearness - other terms 
+        * distance - other terms
+        * anarchic - 
+    ??ii. Combining McLuhan global village and silverstone proper distance
+    iii. Proximate Interfaces
+        * Walter Benjamin - Arcades Project and literary montage
+        * Gospel manuscripts (David Parker)
 
-**chapter 3: Interfacing Bible as Book: affording Asymptote
-argues that bible as book has the potential to offer a proximate interface, but use seems to consolidate toward a distancelessness without nearness. 
-A. Proximity is not asymptote
-B. Nearness and distance in bible as book - Trace affordance of proximity through interfaces
-    i. roll: Isaiah roll from Qumran (could leave out and just have a few paragraphs leading up to codex reminding readers that bible has not always been codex)
+**Chapter 3: Interfacing Bible as Book: Binding Proximity
+argues that bible as book has hints of a proximate interface, but use seems to consolidate toward a distancelessness without nearness due to the affordances of closure and totality.
+a. Codex as Mashup
+    i. roll
+    ii. wax tablet
+    iii. codex as book  
+        * I used to argue that book transcended codex, but perhaps not. Instead, bible needs to exceed book
+        * affording non-linear access
+b. Nearness and distance in bible as book - Trace affordance of proximity through interfaces
     ii. codex: Siniaticus
     iii. print: critical edition
     iv. kindle: The Holy Bible
 
--- maybe connect affordance of nonlinear access to proximity in this analysis
--- make argument for why DBL is basically a new media translation of a codex in database form. 
--- use critical edition and master bible from UBS as examples of a distancelessness in interface, an archic sensibility 
-
-**Chapter 4: Bible as Interface: Beyond the Book
--- return to codex sinaiticus project
--- SBL GNT and OSIS
--- DBL with Bible app and API
-
-**Chapter 4: Materializing Anarchy – In what ways has bible operated as an anarchic interface?**
-
-a. Evaluating Affordances
-    i. N. Katherine Hayles and media specific analysis
-    ii. Case Study - Codex and Non-Linear Access
-b. Anarchy on the Page
-    i. A Talmudic Page
-    ii. Illuminated Bible Manuscripts
-c. Anarchy Beyond the Page
-    i. Bible Gateway - an internet bible interface
-    ii. Twible - a bible version on Twitter
-    iii. YouVersion's bible app - a mobile bible interface
+**Chapter 4: Cracking the Binding: Bible as a Proximate Interface
+a. Translating Sinaiticus
+    i. return to codex sinaiticus project
+    ii. digital access to manuscript with zoom and selection
+    iii. entangled web interface
+    iv. underlying ideologies - archic dispositions
+b. Society of Biblical Literature GNT
+    i. lacking covers and binding
+    ii. OSIS and TEI - a value on interoperability?
+    iii. What about intertext??
+    iii. users and uses
+c. Digital Bible Library
+    i. ETEN and consolidating translations
+    ii. Bible app
+        * YouVersion is the name
+        * 
+    iii. Bible API
 
 **Conclusion**
