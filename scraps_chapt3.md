@@ -46,3 +46,17 @@ I provide this long introduction to affordance theory as a way toward imagining 
 I wonder if I should go back to introducing affordances here as a way to look at the relationship of user with interface, a relationship which also constitutes the process of interface. 
 
 Gaver extends Norman's use of affordances into 3 categories, perceived, hidden and false (Gaver 1991). Though Gaver seems to move back toward affordances as properties rather than relationships, he does offer some insights into using affordances to evaluate the suitability of interfaces, which may help us later on as we use N. Katherine Hayles's media specific analysis to evaluate a few interfaces and their affordance of anarchy or lack thereof. FINISH THIS STRAND...
+
+** Add here both Eusebian canons and Hexapla as new interfaces based on the emergence of codex as a technology. 
+
+** Also add here a paragraph on print as basically an extension and consolidation of codex as an interface. No doubt print offered new affordances as an interface, but we can look at these affordances as expansions of the codex that may have shaped even deeper dispositions toward fixicity, stability and comprehensiveness/totality. In fact, I could mention Tim's definition of bible as cultural icon here as a product of print affordances. 
+
+Here, I'll need to push at least until the Eusebius requested codex bibles of the 4th-5th century. But start closer to my old argument about the intersecting demands of portability, authority, and usefulness as a way of imagining the rise of this medium for book in Christian scripture. 
+- again, when do we see this bound collection of scriptural writings referred to as a whole as bible?
+- key here is to demonstrate that bible is bound to book (use Tim here and then follow his argument into another media transition. 
+
+I think I will drop the defining bible section and merely begin here, with bible as book. Part of me wants to push all the way back to tablets as bible, but may have to save that for a note somewhere. Instead, here, I will use kugel and others who have traced the history of bible and begin with the biblos in Paul's writings, perhaps. 
+- I'd like to know where biblos occurs in LXX and In What contexts
+- I'd like to know when/how Jewish scriptures get called bible
+- refer to rise of codex business and role of bible from intro 
+

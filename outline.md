@@ -60,35 +60,23 @@ D. affording proximity
 -- anarchy
 -- McLuhan global village silver stone proper distance
 
-**chapter 3: Bible as Book: affording Asymptote
+**chapter 3: Interfacing Bible as Book: affording Asymptote
 argues that bible as book has the potential to offer a proximate interface, but use seems to consolidate toward a distancelessness without nearness. 
 A. Proximity is not asymptote
-B. Nearness and distance in bible as book - Trace affordance of proximity through roll, codex and kindle/bible app??
-- roll
-- codex
-- kindle
+B. Nearness and distance in bible as book - Trace affordance of proximity through interfaces
+    i. roll: Isaiah roll from Qumran (could leave out and just have a few paragraphs leading up to codex reminding readers that bible has not always been codex)
+    ii. codex: Siniaticus
+    iii. print: critical edition
+    iv. kindle: The Holy Bible
 
 -- maybe connect affordance of nonlinear access to proximity in this analysis
 -- make argument for why DBL is basically a new media translation of a codex in database form. 
 -- use critical edition and master bible from UBS as examples of a distancelessness in interface, an archic sensibility 
 
-c. Proximate Readings
-    i. Walter Benjamin (literary montage)
-    ii. Michel De Certeau (never a blank page)
-    iii. David Parker (living text of Gospels)
-
-**Chapter 3: Interfacing Bible – How does our changing media landscape impact the production of bible and bible reading practices?**
-
-a. Defining Bible
-a. Mediating Bible - bible as book
-a. Archic Bible
-    i. Apostolicity and Canon
-    ii. Reformation and Return to Original Language
-    iii. Constructing a Scholarly Edition - Nestle Aland
-    iv. Jesus Seminar
-    v. Inerrancy Statement
-b. End of the Word as We Know It - bible as library
-c. Bible as Book of Books - bible as interface
+**Chapter 4: Bible as Interface: Beyond the Book
+-- return to codex sinaiticus project
+-- SBL GNT and OSIS
+-- DBL with Bible app and API
 
 **Chapter 4: Materializing Anarchy – In what ways has bible operated as an anarchic interface?**
 
