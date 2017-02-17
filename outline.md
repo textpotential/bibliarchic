@@ -57,6 +57,7 @@ c. Interface and Proximity
 -- an alternative to distancelessness without nearness in Heidegger 
 D. affording proximity 
 -- contact without grasp
+-- anarchy
 -- McLuhan global village silver stone proper distance
 
 **chapter 3: Bible as Book: affording Asymptote
