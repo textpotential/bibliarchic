@@ -20,10 +20,9 @@ Maybe instead of affording anarchy, i am really talking about interfaces that af
 
 - chapter 1 Reading Interfaces: argues for interface as a relationship of user with environment that provokes probabilistic production and for book as interface 
 - chapter 2 Affording Proximity: argues for proximity as a valuable affordance for interfaces such that interface affords both nearness (responsibility) and distance (resistance to mastery), care without consumption, contact without grasp. 
-- chapter 3 Bible as Book: argues that bible as book has the potential to offer a proximate interface, but use seems to consolidate toward a distancelessness without nearness. Trace affordance of proximity through roll, codex and DBL.
--- maybe connect affordance of nonlinear access to proximity in this analysis
--- make argument for why DBL is basically a new media translation of a codex in database form. 
--- use critical edition and master bible from UBS as examples of a distancelessness in interface, an archic sensibility 
+-- introduce affordance
+
+- 
 - chapter 4 Unbinding Non-Linear Access: argues that imagining bible beyond book, as a proximate interface can leverage some of the possibilities that were latent in book, but can be exploited more fully in interface beyond book once non-linear access comes unbound.
 -- I used to argue here for book to cover (ha!) technologies from before codex and after, but here perhaps we reserve book for the technology that is a container for texts and begin to use the more open language of interface (of which book is one example) to talk about use of bible. 
 -- same content in DBL can provide a proximate interface through API. Look closely at bible app here.
@@ -44,13 +43,35 @@ e. Paving the Way
     i. John Miles Foley's Pathways Project
     ii. The Academic Book of the Future Project
          
-**Chapter 2: Affording Anarchy – Can interface design afford reading practices not governed by an original?**
+**Chapter 2: Affording Proximity – Can interface design afford reading practices not governed by an original?**
 
 a. Introducing Affordance
 b. Affordance and Interface
 c. Interface and Proximity
-a. Without Reign of Original
-c. Anarchic Readings
+- nearness and distance in technological advance
+-- Heidegger 
+-- introna
+- nearness and distance in levinasian proximity
+-- nearness as approach and responsibility
+-- distance as resistance to mastery
+-- an alternative to distancelessness without nearness in Heidegger 
+D. affording proximity 
+-- contact without grasp
+-- McLuhan global village silver stone proper distance
+
+**chapter 3: Bible as Book: affording Asymptote
+argues that bible as book has the potential to offer a proximate interface, but use seems to consolidate toward a distancelessness without nearness. 
+A. Proximity is not asymptote
+B. Nearness and distance in bible as book - Trace affordance of proximity through roll, codex and kindle/bible app??
+- roll
+- codex
+- kindle
+
+-- maybe connect affordance of nonlinear access to proximity in this analysis
+-- make argument for why DBL is basically a new media translation of a codex in database form. 
+-- use critical edition and master bible from UBS as examples of a distancelessness in interface, an archic sensibility 
+
+c. Proximate Readings
     i. Walter Benjamin (literary montage)
     ii. Michel De Certeau (never a blank page)
     iii. David Parker (living text of Gospels)
