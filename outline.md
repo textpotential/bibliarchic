@@ -1,10 +1,11 @@
 **Title: A Proximate Bible: Interfacing the Book of Books**
 
-Thesis: The book is undergoing a major media transition as print wanes in its dominance and the internet and mobile devices transform our relationship with books. With the entangled histories of bible and book--the bible is, after all, the book of books--this emerging media age and its transformation of reading practices forces us to imagine bible as something beyond the book. In my dissertation, I propose that bible, at its best, is an interface that affords proximity. I call bible an *interface* to stress that it is more than a container of content to be consumed. Bible is more than a book to be read, it is a space to be used. I suggest that bible can afford proximity in a Levinasian sense, such that bible as interface facilitates an approchableness (nearness) that resists mastery (distance).
+Thesis: The book is undergoing a major media transition as print wanes in its dominance and the internet and mobile devices transform our relationship with books. With the entangled histories of bible and book--the bible is, after all, the book of books--this emerging media age and its transformation of reading practices forces us to imagine bible as something beyond the book. In my dissertation, I propose that bible, at its best, is an interface that affords proximity. I call bible an *interface* to stress that it is irreducible to the content it contains. Bible is more than a book to be read, it is a space to be used. Based on the notion of proximity in the philosophy of Emmanuel Levinas, I argue for proximity as a relationship between user and platform that provides for both nearness as a realtionship of responsibility and distance as a resistance to mastery. Capitalizing on the multiple nuances of the word proximate, I will show that bible as book and beyond can offer a close encounter that is always ap-proximate. This entanglement of nearness and distance in proximity provides bible an ongoing robust interface amidst the prevalent anxieties regarding the emergence of new media technologies. Translating and expanding this affordance of proximity into new media interfaces will offer bible a mechanism to remain connected to its rich traditon as interface as it comes unbound from the book. 
 
 **Introduction: Translating Book**
 
-**Chapter 1: Interface – How does interface theory shape the way we understand reading practices?**
+**Chapter 1: Interface **
+Interface, a relationship between user and platform, provides a way to conceptualize bible as irreducible to the content it contains.
 
 a. Defining Interface
 a. Interface as Event
@@ -19,7 +20,8 @@ e. Paving the Way
     i. John Miles Foley's Pathways Project
     ii. The Academic Book of the Future Project
          
-**Chapter 2: Affording Proximity – Can interface design afford reading practices not governed by an original?**
+**Chapter 2: Affording Proximity **
+Proximity is a valuable affordance that helps negotiate the familiar anxiety of changing notions of nearness and distance as new technologies emerge. 
 
 a. Introducing Affordance
 b. Affordance and Interface
@@ -44,13 +46,13 @@ e. Affording Proximity: contact without grasp
         * nearness - other terms 
         * distance - other terms
         * anarchic - 
-    ??ii. Combining McLuhan global village and silverstone proper distance
-    iii. Proximate Interfaces
+    iii. Examples of Proximate Interfaces
         * Walter Benjamin - Arcades Project and literary montage
         * Gospel manuscripts (David Parker)
 
-**Chapter 3: Interfacing Bible as Book
-argues that bible as book has hints of a proximate interface, but use seems to consolidate toward a distancelessness without nearness due to the affordances of closure and totality.
+**Chapter 3: Interfacing Bible as Book **
+Bible as book has the potential to provide a proximate interface. 
+
 a. Codex as Mashup
     i. roll
     ii. wax tablet
@@ -62,7 +64,9 @@ b. Nearness and distance in bible as book - Trace affordance of proximity throug
     iii. print: critical edition
     iv. kindle: The Holy Bible
 
-**Chapter 4: Cracking the Binding: Bible as a Proximate Interface
+**Chapter 4: Cracking the Binding: Bible as a Proximate Interface **
+The affordance of proximity can help bible remain a robust interface even as book wanes in its dominance.
+
 a. Translating Sinaiticus
     i. return to codex sinaiticus project
     ii. digital access to manuscript with zoom and selection
