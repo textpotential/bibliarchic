@@ -60,7 +60,7 @@ a. Codex as Mashup
         * I used to argue that book transcended codex, but perhaps not. Instead, bible needs to exceed book
         * affording non-linear access
 b. Nearness and distance in bible as book - Trace affordance of proximity through interfaces
-    ii. codex: Siniaticus
+    ii. manuscript: Siniaticus
     iii. print: critical edition
     iv. kindle: The Holy Bible
 

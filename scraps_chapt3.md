@@ -60,3 +60,57 @@ I think I will drop the defining bible section and merely begin here, with bible
 - I'd like to know when/how Jewish scriptures get called bible
 - refer to rise of codex business and role of bible from intro 
 
+Will have to at least mention hurtado here and perhaps I can compare his stats with those of Roberts and skeat, etc.
+
+## Archic Bible
+
+One of the arguments I am promoting here is that a move to consider bible as interface can encourage concepts and practices around books like bible that are anarchic. As I mentioned when introducing anarchy in the last chapter, the tradition of bible had been deeply infused with archic tendencies along the way. 
+As indicated by the inerrancy statement, these central texts at the *beginning*
+of core biblical writings have shaped biblical interpretation and bible reading 
+practices. We can see the influence of this arche on bible reading practices
+throughout history and here some examples of archic approaches to bible 
+
+- reformation - return to original languages
+- principles guiding the construction of the Nestle-Aland
+- Jesus Seminar
+- would be interesting to explore the Buber rosenzwrig translation as a problematization of this arche binary. They did promote a return to an original as the governing principle, but this return was to speech and sound. Here again we have a levinasian theme emerge around the difference between speech and both writing and seeing. In his Jewish sensibility sound has a way of eluding mastery that is much more difficult with sight and words.
+
+
+### Apostolicity in Canon Discussions
+
+Though our awareness of the complicated history of canon consciousness is growing, one place we can see the reign of an original in the production of bible is in the conversations around acceptable scriptures and canon in early Christian communities.[^Recall my brief explanation of the difference between scripture and bible as I use them here. Scripture is a broader category that denotes a writing that is deemed authoritative for a particular religious community (Wimbush 2008 - Theorizing Scriptures, ??). Bible is a specific expression of scripture by Judeo-Christians traditions and denotes a collection of authoritative writings in a book for use by a particular community.] As noted in other places, I am more interested here in the *process* of evaluation of writings that should or should not be considered as bible than in any final or definitive product. One of the common criteria we find used by early Christian church communities to decide whether to consider a writing as scripture is apostolicity. 
+
+For a writing to be apostolic, it had to be written by an apostle or by a near associate of an apostle. For example, in his 39th Festal Letter in the year 362, often considered the earliest full list of the 27 New Testament writings as we have them in contemporary versions of bible, Athanasius follows the archaeological historical method of the Gospel according to Luke and says, 
+> It being my intention to mention these matters, I shall, for the commendation of my venture, follow the example of the evangelist Luke and say [cf. Luke 1:1-4]: Since some have taken in hand to set in order for themselves the so-called apocrypha and to mingle them with the God-inspired scripture, concerning which we have attained to a sure persuasion, according to what the original eye-witness and ministers of the word have delivered unto our fathers, I also, having been urged by true brethren and having investigated the matter from the beginning, have decided to set forth in order the writings that have been put in the canon, that have been handed down and confirmed as divine, in order that every one who has been led astray may condemn his seducers, and that every one who has remained stainless may rejoice, being again reminded of that (Cite traditional translation).
+There are two archic moments worth mentioning in this early witness to the discussions around writings deemed "God-inspired scripture." Athanasius sets up his listing as that which is handed down from the "original eye-witness and ministers of the word have delivered unto our fathers." This is a direct statement of the apostolic criterion, writings which originate from the direct teaching of Jesus through the authorship of original eye-witnesses. There is a positive correlation in this tradition between the arche and logos of John 1:1 and the impulse to use the origin of Jesus's words passed down through his apostles as a governing criteria for deciding what constitutes bible. The second archic moment is found in the statement of historical method borrowed from the Gospel according to Luke, "Having investigated the matter from the beginning." Here again we find recourse to a beginning or origin as the governing principle for determining what is meaningful. 
+
+Now, as Harry Gamble and Lee Martin McDonald have highlighted, the canonization process is and has always been complicated and the archic impulse of the criterion of apostolicity was not sufficient alone for consideration nor was it the only variable operative in these conversations (Gamble 1985, ; McDonald 2002, ). Yet, some of the other criteria also lend themselves to the archic impulse, governed by an origin or a singular principle, such as antiquity (earliest writings) and orthodoxy (fits accepted principles of faith).
+
+Interestingly, the majority of writings considered for this category come from the first or second century of the common era (criteria of antiquity) and have no internal identification of authorship at all, they are anonymous or even pseudepigraphic.[^List here the writings that have textual authorial identification, those that do not, and those considered pseudepigraphic with a citation for more info on pseudepigraphy.] Thus, considerations of authorship by early Christian communities were based on passed down tradition about the origin of these writings as much as the writings themselves.
+
+## reimagining bible ##
+
+Taking a very different approach, Tim Beal in *The Rise and Fall of the Bible*, also raises some questions that challenge the cultural notions of bible and book. Driven in part by a curiosity around the continued rise in bible production and sales alongside what seems to be a decline in biblical literacy in America (QUOTE), Beal questions our typical ingrained notions of the relationship between literary production and consumption. He suggests that the meaning and value of the bible in America may have little to do with the accessibility and relevance of the texts inside these books that carry on the ancient manuscript tradition. Instead, it is the cultural iconicity of the bible that generates its value and meaning. Perhaps this cultural iconicity is akin to the reality principle that Baudrillard talks about in Disneyland? People buy bibles not because they actually think they will find some original meaning in these ancient texts that will be relevant to their contemporary life, but because the cultural idea of bible offers a promise that "truth" or "reality" still exist. 
+
+No doubt, Beal is on to something when he suggests that this cultural idea of bible as a locus of singular and univocal truth is bound up in the codex technologies that came to hold in one volume the entire libraries that constituted the various community collections that were called scrolls but came to be know as bible (Beal, Rise and Fall, Kindle location, 2032-46). In so far as this cultural idea of bible prevails, the bible as stable truth or "the real," the cultural value of the bible is married to the the cultural vlaue placed on the codex. Yet, the codex is losing its grip on the reality principle with the advent of e-books, cloud collections, and searchability that gives us new "books" made up of fragments from many sources and with little regard for their location in their "original" narratives. How will the cultural iconicity of the bible fare in this new marketplace?
+
+Like Parker, Beal too problematizes the dominant conception of the bible as a singular book with a stable original. Interestingly, both authors make this argument using the cultural capital valued in the bible context, antiquity, which can easily slide into a sense of recovering an original. Nonetheless, Beal describes the early manuscript tradition of the bible as a collection of texts from many sources and many contexts that "were not the same from copy to copy. There was no beginning and no end to them, no first and last page. They did not have one author or one voice. They were not read in a linear way, but they were read around in. And they grew through interpretation" (Beal, Rise and Fall, 2046). Beal offers this imagination of the bible as a multivocal, polyvalent and dynamic library to challenge the doxa of the bible as "the literal Word of God and closed book of answers" (Beal, Rise and Fall, 2032). Just before this quote, Beal suggests that this cultural imagination of bible as reality principle is already dead, so he goes on to articulate an alternative imagination of the bible as "a space that hosts accidental revelation" (Beal, Rise and Fall, Kindle location 2060), an infinite cycle of production littered with intrigue and surprise as meaning is made in practice.
+
+Some more specifics on book in particular and the growing cultural transition of book beyond the medium of codex.
+
+## Bible as Interface
+
+In this time of media transition for book, thus for bible as well, our theory of interface embedded in a framework of proximity as the increase of both nearness and distance paves a way for bible to transform along with the cultural artifact that gave it its name. 
+Interface is this space of 'relationship with.' It is the relationship with books, the discourse of reading, that constitutes the religious sentiment for Levinas, not only the books themselves.
+
+## What is Bible? ##
+
+Walk through concept of bible here from Greek word for scroll to early concepts of Judeo-Christian scripture to Tim Beal's bible as cultural icon.  In one sense, bible is a collection of writings that function as scripture for a Jewish of Christian community. Scripture denotes, in this case, a writing that has significant religious value for a community. Religious values are... 
+
+Taking seriously the material scripture movement, I will talk more narrowly about bible as a material artifact that is utterly bound up in books, as Levinas so nicely suggests for us above. 
+
+
+
+## Anarchic bible ##
+
+I wonder if the technological affordance of non linear access offered by the codex itself was already a hint in the direction of anarchy? Materially, the roll depended on the beginning and the end of a text and a particular directionality of access. With the advent of the codex, the role of the beginning of a text needn't play the same grounding role, technologically. This could provide a concrete material illustration of the kind of anarchy I am espousing. A codex most definitely still has a beginning, yet the beginning need no longer govern the reading experience, since a reader can enter into the text at any point.
