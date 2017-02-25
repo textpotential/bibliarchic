@@ -25,7 +25,7 @@ Attracted most readily by cognitive science, Norman looks to concepts in the bra
 
 c. Problem of Nearness and Distance
 
-Throughout the history of technological change, one of the consistent questions that arises is how to deal with shifts in the affordances of nearness and distance offered by new technologies. Typically, in the context of interface, nearness and distance operate as two directions on a continuum mapping the spatial or relational closeness afforded by an interface. A near interface offers an intimate knowledge of that which the interface
+Throughout the history of technological change, one of the consistent questions that arises is how to deal with shifts in the affordances of nearness and distance offered by new technologies. Typically, in the context of interface, nearness and distance operate as two opposite directions on a continuum mapping the spatial or relational closeness afforded by an interface. A near interface offers an intimate knowledge and experience of the participants in an interface, be they content, platforms, other people, or a combination of all of these. 
 
     i. what do we mean by nearness and distance here?
     i. Anxieties about emerging technologies (Carr, Turkle, etc.) 
