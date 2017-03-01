@@ -78,7 +78,7 @@ d. A Proximate Nearness - Responses to Nearness and Distance
         * proximity as increase in both nearness and distance
         * nearness as approach and responsibility
         * distance as resistance to mastery
-        * a proximate relationship: two resonances of the term
+        * a proximate relationship: two resonances of the term - contact (proximate) without grasp (approximate)
 e. Affording Proximity: contact without grasp
     i. proximity beyond human-human interface? 
         * bible as face in Levinas
