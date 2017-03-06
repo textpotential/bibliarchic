@@ -3,6 +3,8 @@
 Thesis: The book is undergoing a major media transition as print wanes in its dominance and the internet and mobile devices transform our relationship with books. With the entangled histories of bible and book--the bible is, after all, the book of books--this emerging media age and its transformation of reading practices forces us to imagine bible as something beyond the book. In my dissertation, I propose that bible, at its best, is an interface that affords proximity. I call bible an *interface* to stress that it is irreducible to the content it contains. Bible is more than a book to be read, it is a space to be used. Based on the notion of proximity in the philosophy of Emmanuel Levinas, I argue for proximity as a relationship between user and platform that provides for both nearness as a realtionship of responsibility and distance as a resistance to mastery. Capitalizing on the multiple nuances of the word proximate, I will show that bible as book and beyond can offer a close encounter that is always ap-proximate. This entanglement of nearness and distance in proximity provides bible an ongoing robust interface amidst the prevalent anxieties regarding the emergence of new media technologies. Translating and expanding this affordance of proximity into new media interfaces will offer bible a mechanism to remain connected to its rich traditon as interface as it comes unbound from the book. 
 
 **Introduction: Translating Book**
+a. Introduce Affordances
+    i. relationship of terms, not property of an object
 
 **Chapter 1: Interface **
 Interface, a relationship between user and platform, provides a way to conceptualize bible as irreducible to the content it contains.
@@ -23,8 +25,6 @@ e. Paving the Way
 **Chapter 2: Affording Proximity **
 Proximity is a valuable affordance that helps negotiate the familiar anxiety of changing notions of nearness and distance as new technologies emerge. 
 
-a. Introducing Affordance
-b. Affordance and Interface
 c. Problem of Nearness and Distance
     i. what do we mean by nearness and distance here?
     i. Anxieties about emerging technologies (Carr, Turkle, etc.) 
