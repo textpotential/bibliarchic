@@ -79,3 +79,46 @@ Introna's reflections on ethics in internet communication technologies demonstra
  These historical philosophical discussions in Heidegger and Levinas still speak loudly to the concerns about intimacy and the digital in Sherry Turkle's work, the questions of community and the internet pursued by Introna, and the role of subject in interface explored by Drucker.^[One of the most explicit expressions of this focus on distance and the human in emerging technologies, particularly related to Levinasian proximity, is Roger Silverstone's suggestion of a "proper distance" as the possibility for ethical/moral human relationships in cyberspace (2003).] As we will see below, proximity in Levinas can be read, in part, as a response to Heidegger's reflections on nearness, distance, and human encounter.
 
  Though we have seen the use of terms shift from nearness to distancelessness in this tracing of the persistent anxiety about emerging technologies throughout history, there is a consistent worry about the change in scale of nearness and distance with the emergence of new technologies.
+
+ Interfaces that afford the nearness of proximity will demand a response from users. This response of proximity does not necessitate spatial or even relational contiguity, but it does demand high surface area and collaboration. High surface area allows for more points of contact in interface, which in turn, can increase the likelihood of interaction. I have often used the process of making coffee as an example for the benefits of surface area in interface. 
+
+Interfaces that afford the distance of proximity will resist mastery of the participants in the interface. Two ways which an interface can resist mastery are through anarchy and excess. The first of these, anarchy, is a loaded and technical term that I have borrowed from Levinas to use in a very particular manner. Certainly, chaos in interface could offer one mechanism to resist a kind of mastery. Yet, this chaos can easily become a mastery of its own, allowing nothing other than the absence of order. 
+
+d. A Proximate Nearness - Responses to Nearness and Distance
+    i. Introna describes 3 main approaches to human relationship with technology, functional, co-constructed, and phenomenological - role of nearness/distance in ethics of ICTs (SEP entry)
+    -- NOTE SURE I WANT TO INTRODUCE THE WHOLE DISCIPLINE OF ETHICS HERE, I WONDER IF I CAN MOVE TO SILVERSTONE AS AN INTRODUCTION TO LEVINAS TO SIMPLIFY?
+    i. Drucker interface theory is an example of the co-constructive approach
+    i. Silverstone and Proper Distance provides an excellent starting place 
+    i. Levinasian Proximity
+        * not about tech per se, but useful nonetheless
+        * falls loosely into the phenomenological approach advocated by Introna
+        * proximity as increase in both nearness and distance
+        * nearness as approach and responsibility
+        * distance as resistance to mastery
+        * a proximate relationship: two resonances of the term - contact (proximate) without grasp (approximate)
+e. Affording Proximity: contact without grasp
+    i. proximity beyond human-human interface? 
+        * bible as face in Levinas
+        * poetry as proximate
+    ii. characteristics of proximate interface
+        * nearness - other terms - participation, collaboration (facilitates dialog ala Plato), communal (even when reading alone), connection, annotation (glossa ordinare - leaving gaps for engagement), surface area 
+        * distance - other terms - interruption, anarchy, excess
+        * Use small and simple examples when 
+    GONE - iii. Examples of Proximate Interfaces
+        * Walter Benjamin - Arcades Project and literary montage
+        * Gospel manuscripts (David Parker)
+
+Drucker asks humanists to do more theorizing of interface to push design toward principles that take into account the values and practices of the humanities. In this chapter, I take up this call by bringing the  to bear on a theory of interface and the affordances possible in interface. Drucker's primary concern is to bring the ambiguity of the constructivist subject to bear on the conceptions of reading interfaces in our emerging media landscapes. For her, the concept of subject interrupts the static and over determined operations of user and interface in the software industry. I have already argued for a focus on reader as user, to interrupt our embedded assumptions about the relationship between reader and bible. Even if I do not take up the explicit subject language advocated by Drucker, I follow her lead in exploring how a different paradigm of subjectivity might shape our theorizing about interface and even our practices of interface design.
+
+
+c. Closer and Closer - Problem of Nearness and Distance
+    i. what do we mean by nearness and distance here?
+    i. Anxieties about emerging technologies (Carr, Turkle, etc.)
+    ii. Plato - writing and memory - Plato is nervous that the nearness offered by writing will atrophy the operations of memory. A certain distance
+    ii. Heidegger - distancelessness without nearness
+
+After a long analysis instrumental definitions of technology in relation to the Aristotelean causes, Heidegger writes, "Technology is therefore no mere means. Technology is a way of revealing. If we give heed to this, then another whole realm for the essence of technology will open itself up to us. It is the realm of revealing, i.e., of truth" (Heidegger 1977, 12).^[The translators note to the last word of this quote gives an explanation of the relationship between *Wahrheit* and the *bergen* stem words Heidegger uses to talk about revealing and its related terms (Heidegger 1977, 12, n. 12.). After a short discussion of the etymology of *techne*, Heidegger restates this claim emphatically, saying, "Technology is a mode of revealing. Technology comes to presence [West] in the realm where revealing and unconcealment take place, where *aletheia*, truth, happens."] This particular revealing that is the essence of technology presents a danger, the tendency to turn all things, humans and nature included, into interchangeable units of resources (standing-reserve). This revealing that homogenizes, Heidegger calls *Gestell*. Before he introduces the term, he describes this process that produces the world as interchangable units as 
+
+> The revealing that rules throughout modern technology has the character of a setting-upon, in the sense of a challenging­ forth. That challenging happens in that the energy concealed in nature is unlocked, what is unlocked is transformed, what is transformed is stored up, what is stored up is, in turn, distributed, and what is distributed is switched about ever anew (Heidegger 1977, 16).^[It is not lost on me that this description of the enframing and standing reserve at work in Heidegger's notion of the essence of technology has some incredible similarities with Lev Manovich's articulation of new media objects, particularly in their property of transcoding (Manovich 2002).]
+
+Through this *Gestell*, enframing or positionality,^[See Blitz 2014 for an extended discussion of the role of QCT in the Bremen lectures and for the difference in translation choice here between enframing and positionality to render Gestell. Blitz suggests that both are unable to contain all of the nuances of Gestell in QCT and seems to elect for a focus on the idea of "challenging."], a technological kind of revealing, all things, including humans, are reduced to interchangeable resources that can be leveraged as needed for efficiency and production. Even in the realm of science, according to Heidegger, technology has made nature into "standing reserve," simply a set of resources ready for use. In his own questioning of Heidegger's questions about technology, Don Ihde suggests that this idea of Technology as Gestell (Ihde capitalizes Technology here to signal that we are not talking about technologies) marks the signature of Heidegger's unique approach to these questions (Ihde 2010, 18-19). The danger, which happens to be the title of the third lecture in the Bremen series, of technology as enframing, lies in the transformation of all things into standing-reserve, distanceless without nearness (Heidegger 2012, 44). In standing-reserve, everything is so close at hand that difference is erased in the name of efficiency and consumption. For Heidegger, this lack of distance afforded by the rise of machines without facilitating a nearness of authentic relationship threatens the very being of humans.
