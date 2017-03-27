@@ -3,6 +3,11 @@ We have now considered interface as a way of thinking about our relationship wit
 
 ** Maybe Add some bits from Johnson on bookrolls and scribes at Oxyrhyncus and Bagnall 2009 on books and readers in Eqypt.
 
+Sinaiticus is the oldest known manuscript of the "complete" New Testament as it is known today and a large portion of the Septuagint, the Hebrew Bible in Greek.  As I noted above in the general description of codex as interface, manuscripts at this time still lacked most of the reference markers with which we have become so familiar today. So, Codex Sinaiticus most definitely demonstrates the affordance of non-linear access, because any of the writings in this vast collection in one volume could be accessed immediately, without having to process through each column of text to get there, either backward or forward. Yet, we see no evidence of expanded capacities for non-linear access as would be provided by page numbers, chapter and verse markings, indexes, etc.
+
+perhaps could we even suggest the EUsebian apparatus as a collaborative capacity between the voices of the text?
+
+
 
 Use the mosaic image of of gospel writers to start telling the story of bible as book.
 
