@@ -22,3 +22,7 @@ These reflections from Levinas on the role of bible as book beyond and before th
 
 
 It is not bible as a recipe book for determinate beliefs that signaled transcendence, rather the possibilities found in its infinite process of reading as meaning making. This process of reading as meaning, interpretation, Levinas suggests bible and philosophy may have in common.
+
+In another nod to the fragmentary nature of the digital, the method used by the web interface of Codex Sinaiticus to afford user interaction with the digital images involves putting together several small selections of a page image in a grid. Instead of simply loading the entire page image  
+
+higher surface area because one page at time instead of two open across binding and two different lighting images. The ability to navigate by book, chapter, verse offers slightly more surface area via more granular navigation. Interestingly though, the zoom and navigation afforded on the website is not significantly different than what would be possible with codex interface. 
