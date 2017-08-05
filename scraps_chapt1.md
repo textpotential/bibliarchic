@@ -150,3 +150,32 @@ As we begin to consider specific interfaces, it is important to remember that bo
 [//]: # maybe provide one example of how digital search affords attention to intertextuality in ways that are not nearly as possible/probable in manuscript technologies (roll or codex). Such as similar language in Jeremiah and 2 Corinthians.
 
 [//]: # make sure to mention Hutchings, Morgan, and Kirschenbaum's introduction of affordances as a valuable concept for studying materiality. 
+
+[^27]: Drucker, 'Interface Theory,’ 9.
+
+[^28]: Drucker, 'Interface Theory,’ 9.
+
+[^29]: Drucker, 'Interface Theory,' 10.
+
+[^30]: Interesting that this structure of page persists into the
+    internet ecosystem. Perhaps more evidence of the palimpsestuous
+    nature of media translations
+
+[^31]: Edward W. Soja, *Thirdspace: Journeys to Los Angeles and Other
+    Real-and-Imagined Places* (Cambridge, Mass.: Blackwell, 1996).
+
+[^32]: Henri Lefebvre, *The Production of Space* (Cambridge, Mass.:
+    Blackwell, 1991).
+
+[^33]: Soja, *Thirdspace*, 1.
+
+[^34]: McLuhan, *Understanding Media*, 8.
+
+[^35]: Edward Soja, 'Afterword,' *Stanford Law Review* 48, no. 5 (May
+    1996): 1421.
+[^36]: Drucker, ‘Interface Theory,’ 12.
+
+[^37]: Piotr Blumczynski, *Ubiquitous Translation* (New York: Routledge,
+    2016).
+
+[^49]: http://www.pathwaysproject.org/
