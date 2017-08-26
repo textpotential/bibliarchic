@@ -13,5 +13,18 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings":
+	{
+		"on_pre_save_project": 
+		[
+		    {
+		      // Runs `replace` command
+		      "command": "reg_replace",
+		  
+		      // make each sentence a line
+		      "args": {"replacements": ["New Line at Sentence End"]}
+		    }
+	  	]
+	  }
 }
