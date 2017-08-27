@@ -1,76 +1,83 @@
 # INTERFACING BIBLE: MOVING BEYOND THE BOOK #
 
-In the previous chapter, we looked at the possibility of the affordances of high surface area, collaboration, and anarchy in book interfaces of bible.
-For our purposes, I limited the concept of book to a reading and writing technology that involved combining pages of material together in a sequence to create a discrete interface for a specific text or collection of texts.
-Even if these book interfaces have dominated the cultural imagination of bible throughout most of its history, bible has always exceeded the book through aural/oral interfaces such as storytelling and preaching as well as artistic interfaces like music and art.
-Emerging technologies such as manuscript digitization, extensible markup language (XML), and application programming interfaces (API) continue to push bible as interface beyond the book.
-Though these emerging interfaces are changing user relationships with bible through new affordances and expansions of scale in familiar affordances, our characteristics of a proximate interface--high surface area, collaborative capacities, and anarchic tendencies--can provide a means of translating the values of proximity from our cherished interface of the book into technological realms we can't yet imagine.
-If bible as interface is more than simply the consumption of the content in a container, then we need to continue attending to the affordances made possible in the relationships of bible and user in emerging interfaces.
+In the previous chapter, we looked at the operation of the affordances of high surface area, collaboration, and anarchy in book interfaces of bible.
+I limited the concept of book to a reading and writing technology that involved combining pages of material together in a sequence to create a discrete interface for a specific text or collection of texts.[^always_interface]
+Emerging technologies such as manuscript digitization, extensible markup language (XML), and the internet continue to push bible as interface beyond the book.
+Though these emerging interfaces are changing user relationships with bible through new affordances and expansions of scale in familiar affordances, the affordances of high surface area, collaboration, and anarchy can provide a means of translating the values of interface from our cherished book technologies into technological realms we can't yet imagine.
+In this chapter, I will look closely at one bible interface that begins to extend beyond the book without eradicating it in the use of internet technologies to enable user relationship with bible.
 
-
-
-In this chapter, I will look closely at two interfaces of bible that push beyond the book without eradicating it in the use of internet technologies to afford relationships of bible and user.
-First, the Codex Sinaiticus Project provides a direct material media translation of the codex interface we explored in the previous chapter into a web interface.
-Second, we will look at the entanglement of interfaces involved in the Digital Bible Library project, which looks to provide the definitive global repository for bible as data.
-In each of these interfaces, I will look for the possibility of proximity in the consistent tension of a nearness that demands user participation in the interface and a distance that resists mastery and closure.
-
+[^always_interface]: Even if these book interfaces have dominated the cultural imagination of bible throughout most of its history, bible has always exceeded the book through aural/oral interfaces such as storytelling and preaching as well as artistic interfaces like music and art.
 
 ## Consolidating a Legacy: The Codex Sinaiticus Project ##
 
-As I have mentioned before in relationship to the materiality of interfaces and in our detailed look at Codex Sinaiticus in the previous chapter, one of the earliest and most comprehensive attempts to bring an ancient bible interface into a new scale of user relationships through digitization and the internet was the Codex Sinaiticus Project.[^0] The collaborative nature of this project is evident immediately when you encounter the website.
-The rare four columns per page of the Sinaiticus manuscript are matched by the four institutional partners and the corresponding four interface languages available on the site.[^1]  This kind of international collaboration was necessary given the goal of the project to restitch together the pieces of Codex Sinaiticus that are still extant into a single interface again.
-Over the years, the remains of the codex have been spread across the British Library, the library of the University of Leipzig, the National Library of Russia in Saint Petersburg, and Saint Catherine's Monastery.[^2] Before we even begin talking about the details of the emerging technologies that have shaped these new bible interfaces in the Codex Sinaiticus Project, we can see here an expansion of the codex's affordance of collectability at work in the gathering together of these disparate parts of the manuscript into a single interface through digitization and web delivery.
-In its time, Sinaiticus itself was a marvel in its capacity for collecting together texts into one interface and the Codex Sinaiticus Project has continued this legacy in new media forms by working with political and spatial limits to bring four collections at four different institutions together into one bible interface.
+The Codex Sinaiticus Project was a collaborative project to digitize, transcribe, and make available on the internet, the entire remains of the fourth century codex manuscript of bible known as Codex Sinaiticus.
 
+Launched on July 6, 2009, The Codex Sinaiticus Project website provides a direct material media translation of the codex interface explored in the previous chapter into a web interface, one of the earliest and most comprehensive attempts to bring an ancient bible interface into a new scale of user relationships through digitization and the internet.[^0]
+The collaborative nature of this project is evident immediately when you encounter the website.
+The rare four columns per page of the Sinaiticus manuscript are matched by the four institutional partners and the corresponding four interface languages available on the site.[^1] 
+This kind of international collaboration was necessary given the goal of the project to restitch together the pieces of Codex Sinaiticus that are still extant into a single interface again.
+Over the years, the remains of the codex have been spread across the British Library, the library of the University of Leipzig, the National Library of Russia in Saint Petersburg, and Saint Catherine's Monastery.[^2] 
+Even without a detailed analysis of the emerging technologies that enable the new interfaces of the Codex Sinaiticus Project, one can see here an expansion of the codex's affordance of collectability at work in the gathering together of these disparate parts of the manuscript into a single interface through digitization and web delivery.
+In its time, Sinaiticus itself was a marvel in its capacity for collecting together texts into one interface, and the Codex Sinaiticus Project has continued this legacy in new media forms by working with political and spatial limits to bring four collections at four different institutions together into one bible interface.
 
-The Codex Sinaiticus Project imagined itself as a multiple interface project from the beginning, with the driving values of conservation and dissemination of this historical manuscript.
+The Codex Sinaiticus Project imagined itself as a multiple interface project from the beginning, with the driving values of conservation and dissemination of this historical manuscript.[^purpose]
 The conservation efforts of the project included the preparation and care of the manuscript leaves in each location as well as the digitization of each page of the manuscript for use in the multiple aspects of study and dissemination at work in the project.
-Given the values of consolidation at work in the Codex Sinaiticus Project, I find the language of access to be a better fit than dissemination in describing the construction of interfaces for the project.
 I admire the project team's openness to both traditional and emerging technologies as means of providing access to the manuscript.
-Along with the web interface we will explore closely, the project has produced a traditional print facsimile of the manuscript, a conference, an interactive library and museum exhibition, a popular level book discussing the history of the manuscript and the project itself, and an academic collection of essays from the conference analyzing interesting findings made available by the new interfaces of the project and detailing the technical procedures operative in developing the interfaces.
+Along with the web interface we will explore closely, the project has produced a traditional print facsimile of the manuscript,[^facsimile] a major international conference,[^conference] a popular level book discussing the history of the manuscript and the project itself,[^parker] and an academic collection of essays from the conference[^essays] analyzing interesting findings made available by the new interfaces of the project and detailing the technical procedures operative in developing the interfaces.
 This proliferation of interfaces for the project participates in some of the high surface area and collaborative capacities we found in the ancient codex itself.
 
+[^purpose]: See pp.
+xvii-xviii of Amy Myshrall, David C.
+Parker, and Scot McKendrick, *Codex Sinaiticus: New Perspectives on the Ancient Biblical Manuscript* (London: The British Library Publishing Division, 2015) for an account of the multiple facets or products of the project.
+See "About The Project," http://www.codexsinaiticus.org/en/project/, accessed August 26, 2017, for an outline of the main aims of the project and "Participants," http://www.codexsinaiticus.org/en/project/participants.aspx, accessed on August 26, 2017, for a full list of the participating institutions, scholars and funders.
+[^facsimile]: *Codex Sinaiticus: A Facsimile*, (London: British Library, 2010).
+[^conference]: For details about the conference, see "Codex Sinaiticus Conference," http://www.codexsinaiticus.org/en/project/conference.aspx, accessed on August 26, 2017.
+There was a second conference held at the National Library of Russia, St Petersburg, in November of 2009.
+[^parker]: David C.
+Parker, *Codex Sinaiticus: The Story of the World’s Oldest Bible* (London: The British Library, 2010).
+[^essays]: Amy Myshrall, David C.
+Parker, and Scot McKendrick, *Codex Sinaiticus: New Perspectives on the Ancient Biblical Manuscript* (London: The British Library Publishing Division, 2015).
 
-I can sympathize with the enthusiasm of the hyperbolic marketing of the project with language such as "Experience the oldest bible" as the tagline on the main home page of the website and statements like "The Project gives everyone the opportunity to connect directly with this famous manuscript."[^3] It is important to remember that Codex Sinaiticus is only the oldest extant manuscript of what most consider to be the whole New Testament, not the oldest bible interface at all.
-The project has done wonderful cutting edge work to make Codex Sinaiticus accessible to a public audience without necessitating travel to four different locations around the world.
+The project has done cutting edge work to make Codex Sinaiticus accessible to a public audience without necessitating travel to four different locations around the world.
 Yet, the web interface of Codex Sinaiticus is not a simple reproduction of the parchment codex in digital form.
 The web interface of Codex Sinaiticus is a *different* bible interface built upon the data of the manuscript, which has involved media translations at several levels.
-So, though this wonderful web interface provided by the Codex Sinaiticus Project definitely increases the opportunity for people to "connect with this famous manuscript," this interface has different affordances than turning the parchment pages of a fragment of the codex in the rare book reading room at the British Library.
+So, though this wonderful web interface provided by the Codex Sinaiticus Project definitely increases the opportunity for people to "connect with this famous manuscript," this interface has created new affordances that go beyond the turning of parchment pages of the codex in the rare book reading room at the British Library.
 Just like the physical materialities of the giant book provide possibilities and limits for how a user might relate to this bible, so too the digital materialities of the Codex Sinaiticus Project web interface create a particular set of possible relationships of user with bible.
-One quick example of these material differences.
-If I were to participate in the codex interface of Codex Sinaiticus at Saint Catherine's Monastery Library, as a user, I would experience the binding of the codex as one of the material characteristics shaping the space of that interface.
+One quick example of these material differences: If one were to participate as a user in the codex interface of Codex Sinaiticus at Saint Catherine's Monastery Library, they would experience the binding of the codex as one of the material characteristics shaping the space of that interface.
 After all, the binding at one edge of the quires of the codex is one of the crowning aspects of book as we know it.
 In the web interface of Codex Sinaiticus, the images of the leaves show the marks of binding, but there is no user experience of the boundedness of the quires, except for the small glimpses of the folded pages seen in the margins of the photographs.
 Thus, in this web interface, we experience a kind of rebinding of the codex by bringing all of the leaves of Sinaiticus together in one interface again, yet the user contact with binding is minimized in the interface.
 These material differences impact user relationship with bible, so it is important to attend to the differences at work in these new interfaces of bible.
 
 
-As an example of bible interface beyond book, I will look closely at the web interface created by the Codex Sinaiticus Project to see how it might afford proximity through the performance of high surface area, collaborative capacities and anarchic tendencies.
-Along the way, you will find mention of the other interfaces of the Codex Sinaiticus project, but my focus will be on how the website crafts possible relationships between user and bible in interface.
-I am deeply indebted to the Codex Sinaiticus Project for providing access to a treasure that has shaped my own scholarly work in significant ways and I cherish the opportunity to reflect on the challenges and possibilities of the materialities of this particular digital bible interface.
+As an example of bible interface beginning to move beyond book, I will look closely at the web interface created by the Codex Sinaiticus Project to see if and how high surface area, collaboration, and anarchy continue to be afforded in this particular bible interface.[^debt]
 At its simplest, the web interface of the Codex Sinaiticus Project is basically a material media translation and expansion of a print facsimile edition of an ancient manuscript into the medium of the web.
 Like a facsimile, this web bible interface affords broader access to the manuscript without increasing the numbers of hands touching the fragile ancient material.
-Often, in print facsimiles, the photography constrains what can be seen of the characteristics of the artifact, so physical descriptions and transcriptions may accompany the photographs to help users have more data to work with in the interface.
+Often, in print facsimiles, the photography constrains what can be seen of the characteristics of the artifact, so physical descriptions and transcriptions accompany the photographs to help users have more data to work with in the interface.
 The web Sinaiticus interface consists of four main parts, the digital images of the manuscript, a physical description of each page, a transcription, and a translation where available.
 Using the advantages of internet technologies, the web Sinaiticus interface has linked the images to the transcription in a detailed fashion, so a user can choose a discrete location either in the transcription or the image of the page and the interface will highlight that same location in the other.
 These connected layers are one of the distinct advantages of the web technologies used by the Codex Sinaiticus Project.
+After some initial analysis of the important material processes of digitization that undergird the Codex Sinaiticus Project, I will focus my attention on the image and transcription portions of the web Sinaiticus interface to examine the possibility of high surface area, collaboration, and anarchy as affordances.
 
+[^debt]: I am deeply indebted to the Codex Sinaiticus Project for providing access to a treasure that has shaped my own scholarly work in significant ways and I cherish the opportunity to reflect on the challenges and possibilities of the materialities of this particular digital bible interface.
 
 ## Barely Beyond Book ##
 
-Though this chapter is about interfaces beyond book, The Codex Sinaiticus Project is barely beyond book as an interface.
+The Codex Sinaiticus Project is barely beyond book as an interface.
 First of all, the project outcomes include two print books as interfaces with this ancient bible, *Codex Sinaiticus: The Story of the World's Oldest Bible* and *Codex Sinaiticus: New Perspectives on the Ancient Biblical Manuscript*.[^4]  In so many ways, the project continues to perform codex in a web platform.
 It is still primarily oriented around the codex page, with linear and non-linear navigation affordances much like the Kindle bible interface.[^5] The extant leaves of the codex are actually better bound together in this web interface than they are in the four sets of remains spread around the world.
 Even the different layers of the web interface, the image, the transcription, and the translation, are bound together in this interface by the synchronous focus when a user clicks on any one of the layers.
 The reason I have chosen to consider the web interface of the Codex Sinaiticus Project as a bible interface beyond book is because the interface seeks to afford a relationship with the ancient manuscript that is beyond manually handling its pages, while still providing users access to the materiality of the physical manuscript in some ways.
-More specifically, the ability to navigate and zoom the digital images in two different lightings pushes beyond affordances we would typically find in a book.
+More specifically, the ability to navigate and zoom the digital images in two different lightings, standard and raking,[^lightings] pushes beyond affordances we would typically find in a book.
 Finally, because the web interface is not a static product, changes could continue to be made to the transcriptions and translations or to the design of the interface without necessitating a new edition of the interface.[^6] This affordance of ongoing adjustments to the design and content of the interface extends even beyond what we saw possible in the Kindle bible interface, which offered a static platform upon which the user could add dynamism in participation in the interface.
 
+[^lightings]: For a detailed description of the different lighting techniques used in the project to provide two different images for each manuscript page, see "Digitisation," http://www.codexsinaiticus.org/en/project/digitisation.aspx, accessed on August 26, 2017.
+For a discussion of different illumination techniques, including raking light, in the digitization of ancient materials, see Lindsay MacDonald, *Digital Heritage: Applying Digital Imaging to Cultural Heritage* (Amsterdam: Elsevier, 2006), 44-45.
 
 ## Digitization as Translation ##
 
 Though the Codex Sinaiticus Project pushes us slightly beyond the book, the interface remains largely oriented around the pages of the manuscript.
-At the core of both the conservation and access aims of the project was the digitization of the pages of this massive codex spread across four different locations.
+At the core of both the conservation and access aims of the project was the digitization of the pages of this massive codex.
 The conservation efforts operated at more than one material level.
 First, the physical aspects of the codex such as the parchment and the binding were assessed, repaired, fortified, and cared for to prolong the life of this magnificent historical codex bible interface for users.[^7] This first form of conservation could be called the preservation of the physical artifact.
 Second, each leaf was carefully photographed using high resolution digital imaging techniques to make a collection of new material artifacts related to Codex Sinaiticus.[^8] This second form of conservation could be thought of as the preservation of access.
@@ -86,16 +93,25 @@ The process of making discrete digital image artifacts from a page of the codex 
 This new digital image interface will carry on some of the affordances of the parchment codex, will also erase others, and will introduce new possibilities in interface.
 In this process of translation, digitization affords many things including storage, access, disassembly, recombination, and new perspectives.
 
-
 ### Storage and Access ###
 
-Though it seems strange to question the long term preservation and storage of an artifact that has remained largely in tact for well over 1500 years, capturing and storing high definition digital images of Codex Sinaiticus on redundant hard disk media that are not subject to the same long term environmental effects as parchment provides a diversified preservation plan to promote opportunities for engaging this codex even as the parchment and ink become more fragile with time.
+Remaining largely intact for well over 1500 years, Codex Sinaiticus has benefited from rather successful preservation and storage techniques throughout its lifetime.
+Yet, parchment decays with use.
+Capturing and storing high definition digital images of Codex Sinaiticus on redundant hard disk media that are not subject to the same long term environmental effects as parchment provides a diversified preservation plan to promote opportunities for engaging this codex even as the parchment and ink become more fragile with time.
 This storage on disk preserves access to one particular interface with Codex Sinaiticus, the digital image.
 There is careful work being done in all four locations that house portions of the parchment codex interface to provide appropriate storage facilities and practices to minimize the environmental impact of light, skin oils, and humidity on the ancient book.
 Similarly, the storage of the digital artifacts produced by the imaging process have to take into consideration the environmental conditions that might compromise the long term integrity of this particular interface of Codex Sinaiticus.
-With the emergence of distributed storage solutions, redundant copies of the digital image files can be stored in several locations all around the world to protect from any accidental damage or loss due to unplanned environmental events in one location, such as a fire, an earthquake, or a tsunami.[^9] The continuities in the storage and preservation demands for both the parchment interface and the digital image interface reinforce that digitization is a material media translation, not a virtual copy of a material original.
+With the emergence of distributed storage solutions, redundant copies of the digital image files can be stored in several locations all around the world to protect from any accidental damage or loss due to unplanned environmental events in one location, such as a fire, an earthquake, or a tsunami.[^9] 
+Digital storage solutions also have to take into consideration the environmental conditions of the storage facilities, such as temperature and humidity, so that the electronics holding the digital files are not damaged.
+Digital image files themselves can also degrade over time, so whatever storage solutions are used for digital artifacts such as the high resolution images of Codex Sinaiticus must involve checking and repairing degradations in the digital files.[^preservation]
+The continuities in the storage and preservation demands for both the parchment interface and the digital image interface reinforce that digitization is a material media translation, not a virtual copy of a material original.
 Both interfaces have important materialities that shape their preservation and their use.
 
+[^preservation]: The Codex Sinaiticus Project has not publicized any details regarding their digital preservation techniques.
+A great example of this kind of material preservation at the digital scale can be found in the preservation process used by the USC Shoah Foundation to monitor and maintain the integrity of its massive collection of digitized testimonies of Holocaust survivors.
+For details on the technologies involved in this digital preservation, see the Foundation's video about preservation at http://sfi.usc.edu/vha/preservation.
+For another detailed account of the factors considered in a digitization project, see Diane Bockrath et al., “Parchment to Pixel: The Walters Islamic Manuscript Digital Project,” *Art Documentation: Bulletin of the Art Libraries Society of North America* 29, no.
+2 (Fall 2010): 14–20.
 
 One of the main differences between the materiality of physical storage and digital storage is the means of access.
 In the case of the physical parchment manuscript, access simply demands being spatially collocated with the manuscript, having the appropriate permissions to handle the manuscript, and the sensory capacities to see, touch, smell, or hear this particular bible interface.
@@ -105,7 +121,7 @@ Technically, all a user needs is hands to open this codex interface.
 This is not the case with the digitized interface of these codex pages.
 The digital image files are composed of a series of binary strings that can be read by a computer processor, translated into a series of pixels with RGB (Red, Green, Blue) color values and displayed on the screen as a bitmap, a rectangular grid of these pixels.
 An additional layer of access software is required for a user to open these digital images of the pages of Codex Sinaiticus to view them, having access to the files themselves is not enough.
-With the rapid rate of change of file storage formats and software to interpret them in our contemporary technological landscape, this demand for an additional layer of software to access digital artifacts has become a major concern for archivists.[^10] While digitization affords an expansion in potential access by making the digital images of the codex pages available to a larger audience using internet technologies, this expansion in access also adds some complexity to the ongoing preservation task by demanding continued attention to changes file storage and image rendering standards.
+With the rapid rate of change of file storage formats and software to interpret them in our contemporary technological landscape, this demand for an additional layer of software to access digital artifacts has become a major concern for archivists.[^10] While digitization affords an expansion in potential access by making the digital images of the codex pages available to a larger audience using internet technologies, this expansion in access also adds some complexity to the ongoing preservation task by demanding continued attention to changes in file storage and image rendering standards.
 
 ### Disassembly and Recombination ###
 
@@ -118,25 +134,26 @@ Yet, the Codex Sinaiticus Project team worked hard to provide metadata for these
 In fact, one of the main aims of the project was to reassemble the codex into one single interface from the four different locations, to allow users to encounter the manuscript (in its digital translation) in its entirety.
 Though digitization of the pages of Codex Sinaiticus performed a disassembling of the book, the use of these digital artifacts by the Codex Sinaiticus Project to construct a singular online interface with the entire manuscript has enacted a kind of rebinding that exceeds the material limits of the parchment codex spread across four physical locations.
 
-## The Structure of a Web Bible Interface ##
+## Navigating a Web Bible Interface ##
 
 One major component of the online interface of Codex Sinaiticus as designed and delivered by the Codex Sinaiticus Project in 2009 is public access to high resolution images of each extant fragment of this ancient bible without need for any additional permission and needing only a web browser.
-Making these images available to a much larger audience through the capacities of the internet is a radical expansion of an affordance offered by a print facsimile edition.
+Making these images available to a much larger audience through the capacities of the internet is a radical expansion of an affordance offered by a print facsimile edition, namely access.
 This fantastic accomplishment must be acknowledged, even if I will have some critiques of the interface itself.
 Codex Sinaiticus is one of our most important extant bible manuscripts and the collaborative effort put in by all of the project teams to make this web interface has afforded many the opportunity to study and engage the tradition of this manuscript and the history of bible in heightened ways.
 This increased exposure to these interfaces has the potential to invite new and different voices into the discussion of antique book making and bible as interface.
 
-
-The web interface of Codex Sinaiticus contains four main components--image, transcription, translation, and physical description--plus navigation of the bible interface and global project site navigation.[^12] The reason I mention both the global project site navigation and the bible interface navigation is to highlight that the web bible interface I am focusing on here is only one part of the larger Codex Sinaiticus Project web site.
+The web interface of Codex Sinaiticus contains four main components--image, transcription, translation, and physical description-- with robust navigation of the bible interface and global project site navigation.[^12] To provide a general picture of the shape and structure of the web Sinaiticus interface, I will begin with a close look at the materialities of navigation available in the site.
+The reason I mention both the global project site navigation and the bible interface navigation is to highlight that the web bible interface I am focusing on here is only one part of the larger Codex Sinaiticus Project web site.
 The global site navigation offers access to more information about the history of Codex Sinaiticus and the project itself, along with a quick link to any biblical book in the bible interface.
 The part of the project site we are focused on here is the bible interface, which the global site navigation links to with the phrase "See the Manuscript," highlighting the focus of the bible interface on the digitized images.[^13] The structure of the web bible interface is consistent throughout, with a few user options along the way.
 The page is basically broken into two columns, with a header section that spans both columns and holds most of the navigational elements and user options.
 The header of the interface holds two primary forms of navigation and a set of user options to control what shows in the left hand column of the page.
-Users can navigate the bible interface by biblical book, chapter, and verse, or by page identifier, which is combination of quire number, folio number, and recto or verso.[^14] As I mentioned above, this navigation by page identifier continues to perform the materiality of codex and it remains the primary organizational scheme for the entire web bible interface.
+Users can navigate the bible interface by biblical book, chapter, and verse, or by page identifier, which is combination of quire number, folio number, and recto or verso.[^14]
+
+As I mentioned above, this navigation by page identifier continues to perform the materiality of codex and it remains the primary organizational scheme for the entire web bible interface.
 For example, navigating the interface by book, chapter, and verse takes a user to the image of the page that contains the verse selected in the navigation, but does not indicate where the verse is on the page or focus the viewable area on the verse.
 Both of these header navigation options are simply ways of selecting an image of a page based on its order in the codex.
 This navigational section of the interface has no affordance for search, only selection of a page and arrows for navigating linearly through the text, page by page or first and last page.
-
 
 The last item in the header of the interface is a "display options" selector, which allows the user to select what content is displayed in the columns below.
 The selector does not affect positioning on the page, but operates as a set of on/off switches that show or hide the manuscript image, the detailed physical description, the transcription, and the translation.
@@ -148,22 +165,19 @@ The transcription and translation blocks fill the right column of the page when 
 The transcription block is approximately twice the height of the one containing the translation, which can be an indicator of the heightened value of the transcription with respect to the translation in this bible interface.
 The user has no control of the size or position of these blocks when enabled together.
 
-
 The physical description can only be displayed in the right column alongside the image of the manuscript page and if turned on, the transcription and translation blocks are hidden automatically and disabled.
 Given the two column design of the web interface and the rich amount of data provided in the physical description block, these limits make sense.
 As the small info box, indicated by a small lowercase "i" in the top left corner of each of the content blocks available on the page, suggests, the physical description has many items that are linked to specific locations on the image of the manuscript page.
 This linkability makes it useful to require the image to display alongside the physical description, even though both blocks can still be engaged on their own.
  
-
-This kind of user driven selection differentiates this web interface from its ancestor, the print facsimile of the codex,[^15] yet we have seen this kind of user agency in shaping the structure of the interface already in the Kindle bible.
+This kind of user driven selection differentiates this web interface from its ancestor, the print facsimile of the codex.[^15]
 Like the facsimile, this web interface has a fixed structure oriented around the image of the page of the manuscript.
-Yet, similarly to the Kindle bible interface, the user selections of displayed items afford a kind of collaborative capacity in this web bible interface, explicitly involving the user in the making of the space of the interface.
-The key difference here between the Kindle interface and the web Sinaiticus interface is that in this web interface, the user does not define the boundaries of the bible page as they did in the Kindle bible interface.
+Yet, similarly to the Kindle bible interface, the user selections of displayed items in the web Sinaiticus interface afford a kind of collaborative capacity in this web bible interface, explicitly involving the user in the making of the space of the interface.
+The key difference between the Kindle interface and the web Sinaiticus interface is that in this web interface, the user does not define the boundaries of the bible page as they did in the Kindle bible interface.
 In the Kindle interface, a user can select the font size, color, orientation, and columnar structure of the page, effectively deciding the boundaries and physical characteristics of the reading environment, defining the size and structure of the page.
 Here in the web Sinaiticus interface, the structure of the bible page is stable even as the content of the web page shifts based on user selections.
 This entanglement of the bible page with the web page in the Codex Sinaiticus bible interface signals a move beyond book as the affordances of the internet and the digital images of the manuscript page combine to construct this particular web bible interface.
-A close look at each of the four main areas of the interface and the way in which they are connected will highlight the degree to which this Codex Sinaiticus web interface exhibits the characteristics of a proximate interface--high surface area, collaborative capacities, and anarchic tendencies.
-
+A close look at each of the four main areas of the interface and the way in which they are connected will highlight the degree to which this Codex Sinaiticus web interface exhibits the affordances of high surface area, collaboration, and anarchy.
 
 ## Image of/on the Page ##
 
@@ -293,16 +307,14 @@ It will take the work of a new generation of users to imagine the proximity stil
 
 [^0]: To learn more about the project and to participate in the interface, see http://www.codexsinaiticus.org.
 To read more about this great manuscript and the process undertaken to make this digitization project possible, see the chapter on "The Virtual Codex Sinaiticus" in David Parker's popular level book on the history of this manuscript, *Codex Sinaiticus: The Story of the World's Oldest Bible*, 167-184.
-He even discusses the use of XML and provides a sample of the transcription.
-For a more detailed account of the project, see the collection of essays in Amy Myshrall, David C Parker, and Scot McKendrick, *Codex Sinaiticus: New Perspectives on the Ancient Biblical Manuscript* (London: The British Library Publishing Division, 2015).
+As I will explore in detail later, Parker includes a discussion of the use of XML to construct the transcription portion of the interface.
+For a more detailed account of the project as a whole, see the collection of essays in Amy Myshrall, David C Parker, and Scot McKendrick, *Codex Sinaiticus: New Perspectives on the Ancient Biblical Manuscript* (London: The British Library Publishing Division, 2015).
 
 [^1]: The interface languages available on the site reflect the four main partners, including English (British Library), German (Leipzig University Library), Greek (St.
 Catherine's Monastery), and Russian (National Library of Russia).
 
 [^2]: One of the principles of the project as agreed to by all parties was to reconstruct a modern history of the manuscript upon which all partners could agree and to publish this history along with access to the documents themselves.
 See http://www.codexsinaiticus.org/en/codex/history.aspx and Section 4 in the chapter in Amy Myshrall, David C Parker, and Scot McKendrick, *Codex Sinaiticus: New Perspectives on the Ancient Biblical Manuscript* (London: The British Library Publishing Division, 2015).
-
-[^3]: See the subtitle for the website and the home page blurb under "The Codex Sinaiticus Project" heading at http://www.codexsinaiticus.org/ for these two examples.
 
 [^4]: David C.
 Parker, *Codex Sinaiticus: The Story of the World’s Oldest Bible* (London: The British Library, 2010 and Amy Myshrall, David C.
@@ -323,15 +335,10 @@ For a detailed report from the conservation team of the project, see http://www.
 [^8]: For details on the digital imaging process and a picture of the imaging apparatus, see http://www.codexsinaiticus.org/en/project/digitisation.aspx.
 
 [^9]: Since 1844, the parchment interface of Codex Sinaiticus already began a kind of distributed storage approach as visitors to St.
-Catherine's Monastery took portions of the codex to Russian and Germany and later selling to Great Britain.
-Though this kind of distributed storage of the codex does provide some protection from catastrophic loss of the whole manuscript, it still risks complete loss of each portion.
+Catherine's Monastery, such as biblical scholar Constantine Tischendorf and Russian Archimandrite Porfirij Uspenskij, took portions of the codex to Germany and Russia, respectively.
+For a detailed reconstruction of the history of the codex, see "History of Codex Sinaiticus," http://www.codexsinaiticus.org/en/codex/history.aspx, accessed August 26, 2017.
+Though this kind of distributed storage of the codex among different physical locations does provide some protection from catastrophic loss of the whole manuscript, it still risks complete loss of each portion.
 The digital distributed storage solutions provide redundant copies of all of the images in multiple locations.
-Digital storage solutions also have to take into consideration the environmental conditions of the storage facilities, such as temperature and humidity, so that the electronics holding the digital files are not damaged.
-Digital image files themselves can also degrade over time, so whatever storage solutions are used for digital artifacts such as the high resolution images of Codex Sinaiticus must involve checking and repairing degradations in the digital files.^[The Codex Sinaiticus Project has not publicized any details regarding their digital preservation techniques.
-A great example of this kind of material preservation at the digital scale can be found in the preservation process used by the USC Shoah Foundation to monitor and maintain the integrity of its massive collection of digitized testimonies of Holocaust survivors.
-For details on the technologies involved in this digital preservation, see the Foundation's video about preservation at http://sfi.usc.edu/vha/preservation.
-For another detailed account of the factors considered in a digitization project, see Diane Bockrath et al., “Parchment to Pixel: The Walters Islamic Manuscript Digital Project,” *Art Documentation: Bulletin of the Art Libraries Society of North America* 29, no.
-2 (Fall 2010): 14–20.
 
 [^10]: See Laura Carroll et al., “A Comprehensive Approach to Born-Digital Archives,” *Archivaria* 72 (2011): 61–92, for the emerging challenges and practices related to archiving and accessing digital artifacts.
 
