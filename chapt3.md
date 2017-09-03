@@ -565,4 +565,3 @@ This article demonstrates the continued influence of the codex on the design of 
 [^55]: https://conversionxl.com/the-effects-of-typography-on-user-experience-conversions/ is a good starting place to begin exploring the impact of typography on reading in digital interfaces.
 
 [^56]: Sharing is another affordance offered in the Kindle interface that provides opportunities for collaborative engagement between the interface user and others in their community who may or may not have access to the interface itself.
-[Finished in 0.2s]
