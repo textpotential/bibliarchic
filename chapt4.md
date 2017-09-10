@@ -11,7 +11,6 @@ In this chapter, I will look closely at one bible interface that begins to exten
 ## Consolidating a Legacy: The Codex Sinaiticus Project ##
 
 The Codex Sinaiticus Project was a collaborative project to digitize, transcribe, and make available on the internet, the entire remains of the fourth century codex manuscript of bible known as Codex Sinaiticus.
-
 Launched on July 6, 2009, The Codex Sinaiticus Project website provides a direct material media translation of the codex interface explored in the previous chapter into a web interface, one of the earliest and most comprehensive attempts to bring an ancient bible interface into a new scale of user relationships through digitization and the internet.[^0]
 The collaborative nature of this project is evident immediately when you encounter the website.
 The rare four columns per page of the Sinaiticus manuscript are matched by the four institutional partners and the corresponding four interface languages available on the site.[^1] 
