@@ -21,14 +21,14 @@ I am interested in the layers of structure that produce digital technologies and
 This is a digital materiality.
 In the previous chapter, the digital materiality of the web Sinaiticus interface was visible to the user through the four structured sections of the web page and the limited navigation options.
 On a different level, typically not visible to most users, the HTML of the page and the XML of the transcription also play a role in the materiality of the interface, structuring the possible uses available in interface.[^forensic] Awareness of and facility with these often hidden materialities of digital interfaces and their relationship to the other layers of materiality involved in the production and use of digital interfaces is quickly becoming a necessary set of skills demanded of biblical scholars who wish to study bible in the emerging technological landscape.
-To explore the kinds of capacities that might be needed to work closely with the materialities of bible interfaces at the programming and database level, I will analyze one digital bible interface, Digital Bible Library that functions as the database for two additional bible interfaces, Bible App and BibleSearch API, and pay attention to how their materialities interact.
+To explore the kinds of capacities that might be needed to work closely with the materialities of bible interfaces at the programming and database level, I will analyze two digital bible interfaces, the Digital Bible Library and the BibleSearch Application Programming Interface (API), the latter of which is built upon the former.
 
 [^forensic]: For a thorough outline of the scholarship on digital materiality in the last decade, see Sydney J.
 Shep, "Digital Materiality," in Susan Schreibman, Raymond George Siemens, and John Unsworth, eds., *A New Companion to Digital Humanities* (Malden, MA, USA: John Wiley & Sons, Ltd, 2016), 386-396.
 There are four main categories of digital materiality that emerge from the current scholarship.
 Matthew Kirschenbaum offers the terms forensic and formal materiality, the former addressing the "evidence" of physical traces left by a digital artifact in processes such as storage and the latter describing the material aspects of a digital artifact that allow for its symbolic transmission, such as the HTML code underlying a web page.
 In his best attempt to summarize the relationship between these two materialities, Kirshenbaum, *Mechanisms*, 15, writes, "Forensic and formal materiality are perhaps better brought to rest on the twin textual and technological bases of inscription
-(storage) and transmission (or multiplication)." Building on Kirschenbaum's two pronged materiality and Jean-François Blanchette's notion of distributed materiality, Johanna Drucker, “Performative Materiality and Theoretical Approaches to Interface,” Digital Humanities Quarterly 7, no.
+(storage) and transmission (or multiplication)." Building on Kirschenbaum's two pronged materiality and Jean-François Blanchette's notion of distributed materiality, Johanna Drucker, “Performative Materiality and Theoretical Approaches to Interface,” *Digital Humanities Quarterly* 7, no.
 1 (2013), section 8, suggests a performative materiality for digital artifacts.
 Much like her work with interface, here Drucker is shifting the focus of materiality from physical properties of a particular artifact to the process of producing materialities in the event that is interface.
 Drucker's performative materiality is also close to Hayles's redefinition of an emergent materiality as "the interplay between a text’s physical characteristics and its signifying strategies" in “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis,” *Poetics Today* 25, no.
@@ -47,15 +47,15 @@ The sign with the verse gets photographed, tweeted, and discussed on the interne
 
 [^exemplar]: Wachtel, "The Corrected," 99-100.
 
-One of the characteristics of the interfaces dealt with in this chapter is that they all participate in an ecosystem that is designed to facilitate the ongoing proliferation of bible interfaces as much as to facilitate particular user encounters with bible.
+One of the characteristics of the interfaces dealt with in this chapter is that they participate in an ecosystem that is designed to facilitate the ongoing proliferation of bible interfaces as much as to facilitate particular user encounters with bible.
 This value on enabling the ongoing construction of interfaces also points out that emerging digital bible interfaces may have both human users and machine users at different layers of the interface.
 For example, the XML of the web Sinaiticus interface was designed for both human users (programmers had to be able to produce, read, and understand the XML) and machine users (their site generator software had to read the XML to produce HTML for the web page).
-In this chapter we will see two examples of a bible interface (BibleSearch API, Bible App) built upon another bible interface (Digital Bible Library), one of which is built explicitly to afford the design of additional bible interfaces by users around the world.
+In this chapter we will see an example of a bible interface (BibleSearch API) built upon another bible interface (Digital Bible Library) explicitly to enable the design of additional bible interfaces by users around the world.
 
 ## The Bible of Bibles ##
 
 One bible interface that decidedly moves into a digital materiality is a recently emerging project called the Digital Bible Library (DBL).
-At its simplest, The Digital Bible Library (DBL) operates as a giant storage container that can hold any item related to bible.[^iconicity]
+At its simplest, the DBL operates as a giant storage container that can hold any item related to bible.[^iconicity]
 At the time of their public April 2017 Content Update, DBL contained 1508 text entries in 1145 unique languages and 444 audio entries in 374 unique languages.[^2]
 The governing impulse behind this bible repository is to make the content of the bible, "Scripture translation content," available in "every language spoken on earth."[^eten] 
 For all of the language of validation, safeguarding, and authorizing in the DBL mission and vision statement, there is little awareness of the impact of interface on the relationship between users and content.[^3]
@@ -68,11 +68,11 @@ The fact that DBL is funded and managed primarily by an aggregation of bible tra
 
 There are two reasons why I am considering DBL a bible interface even though it may seem more like simply a repository of bibles.
 First, DBL provides the backend data interface for one of the most widely used bible interfaces in the world, YouVersion's Bible App.
-As a database that provides structured bible translations for the Bible App, DBL is a part of the materiality of the Bible App that goes largely unnoticed or even considered by users or scholars of bible.
+As a database that provides structured bible translations for the Bible App, DBL is a part of the materiality of this ubiquitous bible interface that goes largely unnoticed or even considered by users or scholars of bible.
 Second, DBL provides a platform for proliferation, allowing others to create any number of bible interfaces using the artifacts and data available in the library.
 In fact, DBL itself is a proliferation of interfaces with a web interface for participants to manage their licenses,[^web] an interface with the primary bible translation management software used by translators around the world, ParaText,[^paratext] and their application programming interface that allows users to download translations for use in building other interfaces.[^api] 
 While the licensing and distribution aspects of DBL still operate in a paradigm primarily governed by the ideologies of book production, the interfaces enabled by DBL are pushing bible beyond its long history oriented around the page.
-After an introduction to the technological and cultural situatedness of DBL, I will look closely at two interfaces that interface with DBL, the incredibly successful and popular mobile bible app from YouVersion and the American Bible Society's BibleSearch API.
+After an introduction to the technological and cultural situatedness of DBL, I will look closely at one interface that interfaces with DBL, the American Bible Society's BibleSearch API.
 In different ways, these two bible interfaces provide a definitive move beyond the book for bible, while continuing to afford high surface area, collaboration, and anarchy through their use of emerging technologies.
 
 [^web]: DBL user login, https://app.thedigitalbiblelibrary.org/user/login?_next=/, accessed on September 9, 2017.
@@ -81,12 +81,12 @@ In different ways, these two bible interfaces provide a definitive move beyond t
 
 ## Bible in XML ##
 
-On a closer look at the workflow and data structures of DBL, the release bundle is what becomes part of the interfaces we will discuss below and is the primary bible interface of DBL.[^8]
+On a closer look at the workflow and data structures of DBL, the release bundle, a collection of XML files, is what becomes part of the interfaces we will discuss below and is the primary bible interface of DBL.[^8]
 A sample from a DBL bible interface looks like this,
 
 ~~~
     <para style="p"> ...
-Large crowds followed him from Galilee and the Ten Towns, from Jerusalem, Judea,
+	Large crowds followed him from Galilee and the Ten Towns, from Jerusalem, Judea,
     and the land on the other side of the Jordan.</para>
     <chapter number="5" style="c" />
     <para style="s">The Sermon on the Mount</para>
@@ -102,22 +102,19 @@ In syntax, XML is similar to HyperText Markup Language (HTML), the more familiar
 Two important differences between HTML and XML are 1) HTML is used to display data, while XML is used to describe data and 2) HTML tags are fixed and standard, while XML tags are flexible and defined as they are used.
 Although any XML document can define its own structure and tags, there are often advantages to using a standard encoding practice to allow for predictable processing across multiple documents.
 The XML used by DBL is a specialized encoding standard designed specifically for digitizing biblical texts called Unified Scripture XML (USX).[^9] This particular USX standard holds together the versification needs of bible data and continues to contain encoding for structural and style definitions that might be useful for producing print versions of the digitized text.
-Given ICAP's history of making software to assist in print production of bibles and the continued high demand for print bibles in the world, this print based encoding makes sense.
 This is another example of how new interfaces reproduce features of their predecessors.[^10] The smallest textual unit of this USX encoding is the biblical verse, not the word like we saw in the Codex Sinaiticus Project transcription XML.[^11] 
 
 The way the XML of a DBL bible works is through a hierarchical structure of tagged entities with attributes and content.
-In the example above, the tags are designated by the brackets "<>," which define "paragraph," "chapter," and "verse" tags in this particular selection.
+In the example above, the tags are designated by the brackets "<>," which define "paragraph," "chapter," and "verse" tags in this particular selection.[^12]
 As I mentioned above, XML allows for developers to create any tag they need, so the naming and structuring of tags can tell us something about the assumptions and values of an interface.
-All tags in XML have some form of opening and closing.
-The simplest form of this open/close syntax is demonstrated by the \<para\> tags in this sample.
-You will notice that each \<para\> tag in the code is followed somewhere later in the code by a \</para\> tag, these mark the opening and the closing of a paragraph, respectively, with the forward slash indicating a closure.[^12] Everything contained between these tags is a part of that paragraph element, which can include text as well as other tags, specifically tags to indicate verses.
-Given the typical difference between XML and HTML I mentioned above, where HTML deals with displaying data and XML with describing data, the presence of \<para\> tags in this DBL XML is surprising.
+Given the typical difference between XML and HTML I mentioned above, where HTML deals with displaying data and XML with describing data, the presence of paragraph(\<para\>) tags in this DBL XML is surprising.
 Chapter and verse tags make sense, since these would be describing and labeling the kind of data in the interface.
-A paragraph tag has more to do with display than with type of data.
-In fact, one of the core tags used in most HTML standards is a paragraph tag, \<p\> instead of \</para\>.
+A paragraph tag has more to do with display than with type of data.[^para]
 Yet, in the DBL bible interface, paragraph operates as a data descriptor at the same level in the hierarchy as book and chapter elements.
 The prominence of the paragraph element in the XML of the DBL bible interface suggests that though this interface has made a move away from the dominance of the page as the primary unit of encounter for a user, the structural and stylistic demands of organizing text on a page remain a part of the dataset that constitutes bible.
 
+[^para]: One of the core tags used in most HTML standards is a paragraph tag, \<p\> instead of \<para\>.
+So, paragraph is most definitely a part of the encoding for data display.
 
 If we look at the style attribute values of the paragraph element in this USX standard used by DBL, we can see the demands of print production of bibles at work.[^13] In XML, attributes are additional data that indicate specific details about a given element defined by a tag to offer additional data to describe this element.
 In the example above, each \<para\> element has a style attribute indicated by the keyword "style" inside the brackets that define the tag followed by an equals sign and a value, such as \<para style="p"\>.
@@ -138,7 +135,7 @@ Including such explicit encoding for display and presentation in the XML of DBL 
 
 [^also]: This detailed attention to stylistic and structural elements in the XML of DBL also reinforces that bible as interface continues to exceed simply the content a bible contains.
 
-## The Demands of the Page Remain ##
+## Remnants of the Page ##
 
 In terms of data description elements, the smallest unit in USX, the DBL XML standard, is the verse.
 There are a few smaller elements in the USX hierarchy, such as the character element (\<char\>), the table cell element (\<cell\>), and the optional break element (\<optbreak\>), but as I noted with the paragraph (\<para\>) tag, these elements are focused on the display of data, not on its description.[^15] Since a verse element is always contained within a paragraph element in the USX hierarchy, the words of verses are functionally content of a paragraph, with the verse element simply indicating where a verse number should be inserted in the paragraph element.[^empty]
@@ -170,7 +167,23 @@ There are explicit suggestions and demands for how a DBL bible is to be used in 
 Yet, the attempted persuasive language of "should" used by the documentation for the elements of the DBL XML standard highlights the collaborative and anarchic affordances of this DBL bible interface.[^19] Because the XML of DBL does not contain explicit HTML code or complete print layout definitions, the DBL bible interface demands a user to participate in the construction of the bible.
 This complicated relationship between users and an interface that seeds the development of new interfaces also points to the inability of the DBL XML to govern entirely how users will participate in constructing the next layer of interface, an anarchic affordance.
 
-As we have seen with a close look at the XML of DBL bibles, DBL can not be reduced to simply a data or content source for bible interfaces, it is an interface of its own.
+One example of a bible interface built upon and shaped by the digital materiality of the DBL bible interface is the popular mobile bible interface produced by Life.Church called YouVersion.[^22] It's utter dominance in the mobile bible market has allowed the YouVersion app to take on the more generic name of simply "the Bible App."[^23] At the time of this writing, the Bible App offers a user just over 1500 bible versions in over 1000 different languages and some of these versions include both audio and text.
+Shaped by the digital materiality of the Digital Bible *Library*, the Bible App also functions as a library of bibles in a consolidated interface.[^27]
+As we saw above, the XML of the DBL interface has verse as its smallest structural unit.
+Unsurprisingly then, the smallest unit of text a user can select in the reader area of the Bible App is a verse.
+A user can select multiple verse objects on the screen, but can not select a single word or phrase within a verse.
+Here again is an example of the digital materiality of the DBL shaping the material affordances of bible interfaces built upon it.
+
+Leveraging the anarchic affordances of the DBL, the Bible App goes beyond the XML DBL interface and adds high surface area and collaborative affordances through the "Related" feature of the reading area of the app.
+Once a user has selected a verse, a menu appears with several options for the user to participate in the interface with this particular verse.
+The "Related" option in this menu opens a verse beyond simply the words contained in the version file loaded from DBL.
+Through the Bible App, a user can add a note to a verse and mark this note private, for friends only, or public.
+If a note is marked public, then any other user can select the same verse and choose the "Related" menu item and see this note.
+On an iPhone 7, this list of related notes loads in a new screen so the text of the selected verse isn't visible anymore.
+Instead, the user is presented with a reverse chronological, most recent first, list of notes added to this particular verse by users all over the world.
+This list of notes on a given verse gives a user a point of contact with the larger community of users engaging in the interface, and extends the interface beyond the material limits of the XML of the DBL interface.
+
+As we have seen with a close look at the XML of the DBL, DBL can not be reduced to simply a data or content source for bible interfaces, it is an interface of its own that enacts a digital materiality that shapes the possibilities for interface proliferation.
 Yet, the vast collaborative capacities afforded by the myriad ways to translate DBL XML into different media interfaces, working with the structural elements of the DBL interface, resists the ability of DBL to dictate or determine use of this bible interface.
 One of the ways in which DBL attempts to mitigate these anarchic affordances of its bible interface is to closely control who can be a library card holder, hence to have a high level of control over users of the interface.
 The DBL bible interface is decidedly not public.
@@ -187,102 +200,20 @@ The need for such a process of approval likely has to do with the sensitive copy
 The four terms listed under the tag line for the DBL on the main page of their website are, in order, "Security," "Uniformity," "Availability," and "Accountability."[^21] The positioning of these terms is important.
 Availability, the value that connects most closely to the anarchy of the DBL interface, is bracketed by security and accountability.
 Only in the context of these kinds of controls does the DBL interface champion availability and the close attention to criteria for attaining a library card in DBL supports this kind of minimization of anarchy.
+
 Technologically, DBL affords a reasonably high surface area interface, though lower than some others we have seen, that has expansive affordances for collaboration and anarchy.
 The collaborative affordances are most evident in the fact that users, Library Card Holders, determine what is available to use in the DBL by ingesting their bible translations and specifying possible licensing options.
 DBL's capacities for proliferation, providing a platform upon which users can develop new bible interfaces shaped by the materialities of the the DBL interface without being entirely determined by them affords anarchy.
-
 In practice, there are logistical processes in place that could limit the affordances of collaboration and anarchy in the DBL interface.
-To see how this negotiation plays out in practice, we will look at two of the early and significant users of the DBL bible interface, YouVersion bible app[^bible_app] and American Bible Society's Bible Search API[^bible_api].
+To see how this negotiation plays out in practice, we will look at one of the early and significant users of the DBL bible interface, American Bible Society's Bible Search API[^bible_api].
 
-[^bible_app]: You Version, "Bible App," https://www.bible.com/, accessed on September 10, 2017.
 [^bible_api]: American Bible Society, "Bible Search API," http://webtools.bible/api.html, accessed on September 10, 2017.
-
-## Bible Goes Mobile ##
-
-One of the main users of the DBL bible interface is the incredibly popular bible interface produced by Life.Church called YouVersion.[^22] It's utter dominance in the mobile bible market has allowed the app to take on the more generic name of simply "The Bible App."[^23] In the app store on Apple's iOS, the name of the app is simply "Bible" and their own language in the description of the app simply refers to it as The Bible App.[^24] Although this bible interface most definitely pushes far beyond the book in many ways, the icon for The Bible App is a cartoon representation of a leather bound print codex with a red silk bookmark and the title "Holy Bible" in gold letters on the cover.[^25] The iconicity of bible as book still has a role to play even in these emerging interfaces that seem to crack its binding.[^26] Though the Bible App works in a web browser and on any internet capable mobile device on the market today, I will focus on the operation of the Bible App on an iPhone 7 running iOS 10.3.
-As I have mentioned before, each different device interface offers different affordances in concert with the Bible App interface, yet the basic insights about the possibility for high surface area, collaboration, and anarchy in interface would apply to all of the possible devices.
-
-## Our Daily Bread ##
-
-At the time of this writing, the Bible App offers a user just over 1500 bible versions in over 1000 different languages and some of these versions include both audio and text.
-Much like the codex bible was as much a library as a book, collecting together different writings from different contexts together in one interface, the Bible App too functions as a library of bible content in a consolidated interface.[^27] The home page of the app presents a user with an array of messages signaling things that can be done with the app or ways to get involved in the communities who use the app, such as downloading bible versions for offline use or participating in reading plans.
-One of the predominant structures found in the Bible App interface is the Verse of the Day functionality, which also appears on the home page when users access the app.
-Every day, a verse is selected and presented in text and in text over image form and offered to users across the platform.[^28] The text of the bible is broken into verse size bits and offered as a different surface each day of the year.
-These daily bits are also gathered together in an aggregated Verse of the Day view in the interface to provide a calendrical navigation through the bible in image and text.
-By breaking the text into verse sized bits, delivering them to a user out of context, and creating an ongoing emerging aggregation of these bits that need not reflect the organization of any original text, the Verse of the Day function in the Bible App demonstrates affordances of both high surface area and anarchy.
-The collaborative affordances of the Bible App interface are also on display in the Verse of the Day functionality, by allowing a user to attach their own image to the verse of the day and easily share this out through social media channels.
-In the settings associated with the Verse of the Day, a user can elect to have the text and/or image verse of the day sent to their email or sent to the screen notifications of their mobile device (push notifications).
-Though these settings offer efficient ways for users to contact the content provided by the Bible App interface, they could have an effect of disincentivizing user participation in the interface and thus lowering the surface are and collaborative affordances of the Bible App.
-Surface area as an affordance increases user involvement, it does not simply enable more efficient consumption of content.
-
-## Reading as Participation ##
-
-Moving from left to right along the global navigation of the Bible App interface, the next user option after Home is "Read."[^29] The primary reading interface does not require an account and offers a simple and accessible set of features for a user.
-The textual area shows one chapter of scrollable text at a time including in-line verse numbers and copyright information at the bottom of each chapter.
-A user can enable or disable options to show red letters, cross references, and footnotes when available in the text.[^30] Much like we saw in the Kindle bible interface, additional collaborative affordances allow user construction of the space including choice of font size, font type, and a light or dark background.
-Unlike the Kindle bible interface, user selection of a larger font in the Bible App does not change the amount of text displayed on a single page, if we consider a page the scrollable text available at one time without having to navigate using the next page or previous page icons.
-A Kindle user, by choosing a font size, actually determines the size of a page, requiring more page turns for larger fonts and vice versa.
-In the Bible App, font size does impact how much text is on the viewable screen at a time and can increase or decrease the amount a user needs to scroll to get through the text.
-Yet, structurally, in the Bible App, chapter defines the "page," not amount of text, and page numbers are not present anywhere within the interface.
-In this way, the Bible App has made a decisive move beyond the book as an interface, no longer allowing the page to govern its material structure.
-
-The basic navigation of the Bible App interface reinforces this chapter based structure.
-There are simple forward and backward arrow icons at the bottom of the screen that allow the user to easily move linearly through the bible chapter by chapter.
-At the top of the reader view, there are two selection menus that display the current book, chapter and version being displayed.
-Clicking on the chapter selector menu allows a user to browse through the content of this bible version and choose a book and chapter to display.
-The books in this selection list can by ordered by "traditional" canonical order, as they typically appear in print bibles, or alphabetically.
-Changing bible versions is made simple by the version selector, which allows for filtering the list by language and offers a search function to locate a particular version by name or abbreviation.
-Finally, the basic reading interface of the Bible App also offers search as a navigational option.
-This exponential expansion of non-linear access to text affords a user an incredible amount of agency in participating in the interface.
-A search for keywords, names, references, etc.
-will return an aggregated list of verses from throughout the text that have some mention of or relationship to the search terms.
-Clicking on any one of the verses returned will show that single verse alone in the interface, with an option to see the full chapter from which the verse comes.[^31] By default, these search results are returned in order of relevance, but a user can elect to have them listed in the order in which they appear in a print edition of the text, which they label as "traditional." Either sort order of a search result has the potential to bring pieces of the bible text near to one another that usually exist at a great distance.
-For example, I just ran a search on the word "death" and the first two verses returned by relevance were 2 Kings 1:1 and 1 Corinthians 15:55.
-These verses have no explicit connection within the typical structuring of the text, but the interests of the user articulated in the search function of the interface have constructed an emergent relationship.
-This collaborative affordance of the Bible App that allows the user to construct new relationships between text in the interface leverages the nearness of the many points of contact with the bible and reinforces the distance of an inability to master the interface, since new combinations can be crafted all the time.
-
-The collaborative affordances of the Bible App interface are most prevalent in the ways in which a user can interact with the text of bible versions in the interface.
-By simply tapping on a verse in the text, the verse is underlined to identify that it is the focus and a user is presented with anew set of menu options at the bottom of the screen.
-A user can select a single verse or many verses at the same time, with a second tap on a verse deselecting it.
-A user can not select a smaller unit of text than an entire verse, which is much lower surface area than a Kindle bible or the Codex Sinaiticus web bible interface, which both allow selection at the word level.
-Given that the source of the bible versions in the Bible App is the DBL bible interface, which encoded verse as the smallest unit of text in the XML of the release bundle, it is not a surprise to see verse as the smallest unit in the Bible App.
-Here we see the digital materiality of one interface shaping the material possibilities of another, such that a user can not select a single word in a verse to engage in the Bible App interface.
-The menu that appears when selecting a verse or group of verses allows a user to highlight the selection, share the selection with any channel available in the iOS sharing system, associate an image with the selection, compare the selection with other bible versions, bookmark the selection, add a note to the selection, copy the text of the selection, and see a list of related items attached to this selection by users from the Bible App community.
-
-The two most interesting collaborative affordances in this verse selection menu are the "compare" and the "related" features.
-The compare feature allows the user to look at the selected verse or verses in different versions together on the screen.
-Using the version selector, I can pick any of the 1500 versions to include in the comparison.
-There are 50 English language versions alone that could be read side by side to see the variability of translation and the semantic potential of a given verse just in a single language, let alone through comparison with other language systems.
-This compare feature gives the user another way in the Bible App to construct the interface by choosing texts that are displayed together in an organization scheme decided upon by the user.
-More importantly, the ability to see a verse in several different versions, some of which a user may not even be able to read fully, challenges the notion of a single text that governs all versions and can awaken the user to difference and ambiguity in the interface.
-The anarchic affordance of this compare feature can resist attempts by a user to master the interface by not allowing reduction of bible to a singular governing version.
-Instead, the compare feature and the ever growing versions available can interrupt any tendency toward mastery and open users up to the emerging polyvocality of the text.[^beal]
-
-[^beal]: Already anticipating bible as interface in his connection of emerging digital technologies with the changing cultural conception of bible, Timothy Beal, *Rise and Fall of the Bible*, Kindle location 2030, points to polyvocality even within a single version of bible as an interruptive mechanism that resists reduction of bible to any simple consumptive use.
-So, this affordance of anarchy in the search functionality of the Bible App is not a new phenomenon for bible, but more of an expansion of an affordance already latent in bible interfaces due to the composition of the collection.
-
-In concert with the note facility, the "related" feature of the Bible App opens a text beyond simply the words contained in the version file loaded from DBL.
-A user can add a note to a verse and mark this note private, for friends only, or public.
-If a note is marked public, then any other user can select the same verse and choose the related menu item and see this note.
-On an iPhone 7, this list of related notes loads in a new screen so the text of the selected verse isn't visible anymore.
-Instead, the user is presented with a reverse chronological, most recent first, list of notes added to this particular verse by users all over the world.
-This list of notes on a given verse gives a user a window into the larger community of users engaging in the interface, much like we saw in the popular highlights feature of the Kindle bible.
-There is not a reply or conversation mechanism in this part of the Bible App interface to facilitate in-line or ongoing dialog, but a user can request to "friend" another user and then contact them through the app.
-This functionality of the Bible App enacts two layers of collaborative affordances.
-First, it allows users to participate in shaping the interface with their own highlights and notes.
-Second, this annotative and sharing feature provides the scaffolding for users to locate themselves within a reading community and has the potential to make connections between users.
-
-There are many additional features offered by the Bible App that continue to push bible beyond book including that these features continue to evolve as the app matures.
-The Verse of the Day and search features heighten the surface area of the interface by creating many points of encounter with the interface and resisting total mastery of all the interface contains.
-The compare functionality provides a possibility for anarchy as different versions challenge a consolidation of the text of bible to any single expression.
-The annotative capacities, particularly the "related" list of community notes on a verse expand the collaborative affordances of the Bible App interface by involving the user in constructing the space and encouraging connection with other users through sharing and friending.
-Even if not always realized in use, the Bible App's affordances of high surface area, collaboration, and anarchy can problematize the tendency to focus on bible interfaces beyond the book as doomed to distraction.[^32] 
 
 ## Bible API ##
 
-The last interface I will consider is another user of the DBL, but with a very different interface than the highly developed mobile interface of the Bible App.
 American Bible Society (ABS) is a Library Card Holder in the DBL and one of the founding partners.
-As a Library Card Holder, ABS has built a bible interface called BibleSearch at bibles.org using data from DBL to provide a public web search engine for bible and an application programming interface (API) for bible content.[^33] The web search engine of BibleSearch is clean and simple and offers a great deal of the same functionality as the Bible App in a browser, without the multimedia capacities of the mobile app.
+As a Library Card Holder, ABS has built a bible interface called BibleSearch at bibles.org using bibles from DBL to provide a public web search engine for bible and an application programming interface (API).[^33] The web search engine of BibleSearch is clean and simple and offers a great deal of functionality for reading and interacting with the textual content of bible.
+
 The more interesting interface offered by BibleSearch is their BibleSearch Application Programming Interface (API), which allows developers to build new bible interfaces using the data BibleSearch has remediated from the DBL interface.
 Much like a graphical user interface makes it easier for a user to navigate a software application through interaction with graphical representations of objects and functions, rather than resorting to the obtuse syntax of a command line prompt, an API makes it easier for one software application to interface with another.
 APIs are zones of contact where two software systems interact and negotiate a relationship based on rules and processes defined by the API.
@@ -352,7 +283,6 @@ So, if a user wanted to request a JSON response for the sixth verse of the third
     GET https://bibles.org/v2/verses/eng-ESV:2Cor.3.6.js?include_marginalia=true
 
 This API based verse request interface is essentially the same as a verse picker browse function in a web browser, where a user would select a version, book, chapter and verse from a list and select the option to display footnotes.
-The passage selection mechanism of the Bible App we explored earlier could use the graphical user interface of the mobile app to construct this very kind of API request to send to a server and return the results, formatted for reading on a screen, to a user.
 The BibleSearch web interface does just this, taking the user input from the version and chapter selections at the top of the page and constructing an API request much like we have seen above.[^46] Here we see BibleSearch itself building layers of interface upon the interface of DBL.
 The BibleSearch web bible interface is a user of the BiblSearch API, which is a user of DBL bible interface.
 Bible interfaces in this emerging technological landscape continue to challenge any stark boundaries between user and interface as interfaces become users and users construct new interfaces on the fly.
@@ -395,7 +325,7 @@ Interestingly, these cross reference objects are not formatted in such a way to 
 Providing linkability by formatting the references using syntax that could easily be passed back to the API would increase the surface area and collaborative affordances of this interface even further by providing avenues for the user to construct different pathways through the text.
 Cross reference objects are just one example of the many points of contact provided by this API bible interface.
 
-As we saw with DBL and the Bible App, the verse is the smallest unit in the API bible interface, yet the JSON results contain many distinct access points for the verse beyond just the content of the text of the verse, as demonstrated by the keys list in the sample above.
+As we saw with DBL, the verse is the smallest unit in the API bible interface, yet the JSON results contain many distinct access points for the verse beyond just the content of the text of the verse, as demonstrated by the keys list in the sample above.
 The JSON structure of a verse object makes it clear that a verse has many more properties than simply the words it contains.
 Although each verse object contains data contextualizing it within the larger textual framework, such as next, previous and parent attributes, the sheer fact of constructing verses as objects that a user can engage and use individually foregrounds the typical role of bible as an aggregation of distinct objects rather than a homogeneous whole.
 
@@ -480,10 +410,11 @@ Here we see the anarchic affordances of the API bible interface on display as I 
 
 ## Demanding New Literacies ##
 
-In all of the layers of interface from the DBL to the interfaces constructed by users of DBL, the Bible App and the BibleSearch API, we find the affordances of high surface area, collaboration, and anarchy.
+In all of the layers of interface from the DBL to the interfaces constructed by users of DBL, such as the BibleSearch API, we find the affordances of high surface area, collaboration, and anarchy.
 As bible evolves beyond the technological and cultural categories of book, there is undoubtedly a progression toward higher surface area in bible as interface, even though there is a tendency toward the verse as the smallest unit of the bible instead of the word or character as we found in some earlier book interfaces.
 The collaborative affordances of book bible interfaces were embedded in the ability of a user to mark the surfaces of the interface through a scribal note or a public user highlight.
 As bible emerges into a technological landscape that pushes beyond book, its collaborative affordances move toward the ability for users to participate in constructing the interface and make more layers of interfaces, which both DBL and the BibleSearch API demonstrate exquisitely.
+
 The technologies of these emerging interface ecosystems will continue to expand the anarchic affordances of bible by allowing users to build new interfaces that challenge the rule of any original text or intention.
 At the same time, with the increasing abilities to track usage in internet interfaces, the institutions running the platform bible interfaces like DBL and BibleSearch API will have the ability to police and curtail the extent of experimentation and shape the nature of collaboration based on their perceptions of proper use.
 Just as biblical scholars have invested in the layers of linguistic interface involved in bible, as bible moves beyond book into emerging technological interfaces, biblical scholars will need to develop the skills to analyze and critique the myriad layers of interface at work in each surface of encounter that is bible.
@@ -513,7 +444,11 @@ See https://thedigitalbiblelibrary.org/about/ visited on April 25, 2017, for mor
 
 [^11]: The XML of the SBLGNT also encodes all the way to the word level.
 
-[^12]: This open and close syntax is identical to HTML.
+[^12]: All tags in XML have some form of opening and closing.
+The simplest form of this open/close syntax is demonstrated by the \<para\> tags in this sample.
+You will notice that each \<para\> tag in the code is followed somewhere later in the code by a \</para\> tag, these mark the opening and the closing of a paragraph, respectively, with the forward slash indicating a closure.
+Everything contained between these tags is a part of that paragraph element, which can include text as well as other tags, specifically tags to indicate verses.
+This open and close syntax is identical to HTML.
 
 [^13]: For a detailed description of all of the available style attributes in the \<para\> element, see https://app.thedigitalbiblelibrary.org/static/docs/usx/parastyles.html.
 
@@ -543,29 +478,10 @@ Of course, this number is always expanding, but at the time of writing this sent
 
 [^23]: I will refer to YouVersion's app as the "Bible App" from now on to indicate the dominance this particular bible interface has garnered in the mobile application space.
 
-[^24]: The web address for the bible app is http://www.bible.com.
-
-[^25]: In her recent book on translation and bible, Sarah Ruden insightfully describes bible as book using an exact description of the icon used by the Bible App, writing, "To the eye, the book typically offers a pebbly black vinyl cover (like nothing on a book you'd yearn to open up and explore), gold–colored insert title ("The Holy Bible," which to a lot of people says, "I think I'm too holy for you to touch"), and a withered–looking ribbon bookmark attached at the spine (as if it would be a big problem to lose your place in the ordinary way, and stray from the prescribed devotional verses)." Sarah Ruden, *The Face of Water: A Translator on Beauty and Meaning in the Bible* (New York: Pantheon Books, 2017), xv-xvi.
-
-[^26]: This bound print bible icon is what identifies this bible app among other apps on a user's mobile device and is the favicon (image that shows in the tab for the site) and centered at the top of bible.com.
-The primary visual brand of the bible app is this bound print bible icon.
-
 [^27]: These version statistics are presented to the user of the Bible App at the top of the Versions view in the mobile app.
 These versions come from the DBL interface I discussed above.
 Comparing the May 2017 statistics from DBL to the number of versions available in the Bible App, we find that DBL holds 1535 text entries in 1154 languages, slightly higher numbers than included in the Bible App.
 See http://thedigitalbiblelibrary.org/2017/05/01/may-2017-content-update/#more-917 for the report, accessed on May 8, 2017.
-
-[^28]: At present, I am unable to find any information regarding the selection algorithm used for which verse is presented to users on which day.
-
-[^29]: This global navigation menu is only available in portrait mode on a device the size of an iPhone 7.
-When the phone is turned horizontally into landscape mode in the reader view of the Bible App, the global navigation goes away to make as much readable area on the screen as possible.
-
-[^30]: The red letter and footnotes are set to on by default, while the cross references are turned off.
-A decision to leave cross references off by default could decrease the surface area of an interface by eliding other points of contact related to the current verse in view.
-
-[^31]: As is customary practice, the copyright information for the version used to display the verse is also included on the page.
-
-[^32]: See Siker, *Liquid Scriptures*, 98, for an example of the anxiety around distraction with bibles on screen.
 
 [^33]: BibleSearch also has a widget tool that embeds a search engine in another site and a highlighter tool that will read a site for bible references and link to BibleSearch content from the reference.
 For mode details on any of these tools, see http://webtools.bible.
