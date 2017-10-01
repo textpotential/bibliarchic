@@ -1,40 +1,46 @@
 # CHAPTER 1: INTERFACE #
 
-Because books and reading have been so instrumental in the typical focus on exegesis and interpretation driving the study of religion and bible, it is helpful to have a different way to speak of the material practices that constitute the rich history of bible.
+In this study I am not focused on the questions of exegesis and interpretation that typically inform the study of the bible, and of religion more generally.
+Rather, my focus is on the material practices that constitute the rich history of bible.
 Looking at bible in terms of interfaces and users instead of simply books and readers offers us four primary advantages.
 First, thinking of bible as interface rather than book can unsettle the unquestioned binding of bible and codex, which coincides with the dominant cultural reduction of book to codex.
 By looking back at the bible roll as an interface and forward to kindle reader as an interface for bible, we can imagine better what constitutes bible for users beyond our current limited conception of book.
 Second, a focus on bible as interface highlights the material affordances operative in different user relationships with bible that extend beyond typical modes of reading, such as annotation and illumination in margins, organizational schemes, and use of bible as artifact.
 Third, exploring bible as interface can challenge us to conceptualize bible through its use rather than reducing definitions of bible to the content it contains.
 Fourth, tracing moments in the history of bible as interface allows us to see the continuities and discontinuities involved in media transitions/translations brought on by emerging technologies.
-One of the key things to remember as we explore the many interfaces of bible throughout history is that these interfaces all borrow from each other and technological transitions are never total transformations.
+Bible has always been interface and one of the key things to remember as we explore the many interfaces of bible throughout history is that these interfaces all borrow from each other and technological transitions are never total transformations.
 
 ## Why Interface? ##
 
-As I mentioned in my introduction, one of the aims of this project is to focus our attention on the materiality of bible even beyond the book as we know it.
+As I mentioned in my introduction, one of the aims of this project is to focus our attention on the materiality of bible.
 This bent toward materiality stems from two main convictions that I bring to this work.
 First, I begin with the assumption that the material characteristics of the technologies we use shape our relationship with texts and with one another.
 Second, I affirm that the digital is decidedly material.
 A shift to talking about bible as interface foregrounds a user's interaction with the particular material technologies of bible and connects the pre-digital materialities of bible, such as roll and codex, to a participatory construct and language that is ubiquitous in digital environments today.
 
 Brent Plate has helped promote the importance of materiality in the study and practice of religion.
-More specifically, Plate calls those who study religion to attend to the role of the senses in religion.[^senses] In his work with religion and the senses in *A History of religion in 5 1/2 objects*, Plate foregrounds the role and importance of material objects such as stones, drums, and bread by suggesting that "Religious people are not *believers* so much as *technologists*."[^believers] Rather than articulating a notion of religion absent of belief, Plate is simply suggesting that the *craft* of practicing religion entangled with material objects--what Plate calls "know-how" derived from the ancient Greek word *techne*--carries at least as much weight as what a religious person "knows" about what they are practicing.[^know-how] Plate hints toward the role of interface and users in religion when he defines technology as "human connections to and uses of natural and human-made materials...
+More specifically, Plate calls those who study religion to attend to the role of the senses in religion.[^senses] In his work with religion and the senses in *A History of religion in 5 1/2 objects*, Plate foregrounds the role and importance of material objects such as stones, drums, and bread by suggesting that "Religious people are not *believers* so much as *technologists*."[^believers] Rather than articulating a notion of religion absent of belief, Plate is simply suggesting that the *craft* of practicing religion entangled with material objects--what Plate calls "know-how" derived from the ancient Greek word *techne*--carries at least as much weight as what a religious person "knows/believes" about what they are practicing.[^know-how] Plate hints toward the role of interface and users in religion when he defines technology as "human connections to and uses of natural and human-made materials...
 ."[^tech] Though Plate is using an ancient and broad definition of technology to highlight the importance of material objects and their use without pointing toward specific examples of interfaces that we might call technological today, he is setting the stage within the material religion discourse for a more particular technological analysis of bible.
-Just as Plate argues for religion as technology irreducible to belief, I am arguing for bible as interface irreducible to text.
+Just as Plate argues for religion as technology irreducible to belief, I am arguing for bible as interface irreducible to text.[^text]
  
 [^senses]: At several points in his book, *A History of Religion in 5 1/2 Objects*, Plate cleverly articulates his aim with the turn of phrase, "bringing the spiritual to its senses." See p.
 19-22 for some examples.
 [^believers]: Plate, *5 1/2 Objects*, 22.
 In a personal conversation with Jeffrey Mahan, he mentioned that in teaching Plate's methodologies, some students assume Plate is articulating a notion of religion that is absent of God or belief.
 I can see how this quote could be taken in such a binary or exclusionary fashion, even if not necessarily Plate's intention.
-For our purposes here, I will use language of religion as technology, which is irreducible to belief, in order to dethrone the role of belief in the study and practice of religion without a need to eradicate it as a part of religious phenomena.
-
+For our purposes here, I will use language of religion as technology, which is *irreducible* to belief, in order to dethrone the role of belief in the study and practice of religion without a need to eradicate it as a part of religious phenomena.
 [^know-how]: Plate, *5 1/2 Objects*, 22.
 [^tech]: Plate, *5 1/2 Objects*, 22.
 As Hutchings notes in "Augmented graves and virtual Bibles," 88, Plate's approach is closely connected to the physicality of the human senses and often doesn't explicitly deal with the materialities of the digital.
 With Hutchings, I am taking a more technical (pun intended) approach to technology than Plate by focusing on what we more readily imagine as technological platforms for accessing Judeo-Christian sacred texts through books, websites, mobile devices, and APIs.
 Yet, Plate signals his attention to the religious ramifications of the extended materialities of emerging technologies in his treatment of media in the skinscape of religion and his articulation of the soul as technology.
-In *5 1/2 Objects*, 23, Plate writes, "Religion in a high-tech, media-saturated, global-economic age is as reliant on objects as it is in smaller scale societies."
+In *5 1/2 Objects*, 23, Plate writes, "Religion in a high-tech, media-saturated, global-economic age is as reliant on objects as it is in smaller scale societies." For more on skinscape and the skin of religion, see Plate, “The Skin of Religion : Aesthetic Mediations of the Sacred,” *Cross Currents* 62, no.
+2 (June 2012): 162–80.
+For more on soul as technology, see Plate, *5 1/2 Objects*, 184-192.
+[^text]: Both belief and text are complicated and rich categories that are not always reducible to content.
+For example, see David Morgan's treatment of belief in "The Matter of Belief" in *Religion and Material Culture: The Matter of Belief*, David Morgan, ed.
+(London ; New York: Routledge, 2010), 1-18.
+In this study, conceptualizing the text of bible as content simply points out the typical propensity toward focus on exegetical and interpretive practices without close attention to the material relationship between bible and user.
 
 ## Bible as Irreducible to Text ##
 
@@ -66,16 +72,15 @@ The meaning of the words, the performance of reading, and the materiality of the
 
 ## Interface as Irreducible to Consumption ##
 
-At its most basic, interface denotes some kind of relationship of interaction between entities.
+At its most basic, interface denotes some kind of relationship of interaction between entities.[^0]
 With this generic definition, we can imagine countless examples in everyday life, such as the the relationship of interaction between my son and his dog, or the relationship between neurotransmitters and receptors in a chemical synapse in your brain, or the relationship between my fingers and the beautifully designed butterfly keyboard I am using right now to type this sentence.
-Though I find a great deal of beauty in the ubiquitous relationality this broad imagination of interface offers, we need a narrower definition of interface as we consider the relationship between bible and users.
+Though I find a great deal of usefulness in the ubiquitous relationality this broad imagination of interface offers, we need a narrower definition of interface as we consider the relationship between bible and user.
 Even a quick glance at a dictionary entry for "interface" will highlight its relationaility and its importance in the realm of technology.
-
 
 The Oxford English Dictionary (OED) has entries for "interface" as both a noun and a verb.
 Interestingly, both noun and verb entries in the OED figure Marshall McLuhan, of "medium is the message" fame, prominently as the first quotation in the non-scientific definitions of the term.
 In fact, the OED credits McLuhan as the first user of "interface" in the verbal form in a 1967 collaborative effort with Quentin Fiore.[^early_interface] Although I will not use any of the OED definitions as a basis for my own elaboration of interface, the OED provides a historical backdrop for the term and the categories of the term's use.
-In both parts of speech, noun and verb, the google search algorithm for definition requests and the freely available Oxford Dictionaries online include a specific definition for interface related to computing, which signals that the term "interface" has taken on special significance in the area of technology.[^googledef] 
+In both parts of speech, noun and verb, the google define algorithm and the freely available Oxford Dictionaries online include a specific definition for interface related to computing, which signals that the term "interface" has taken on special significance in the area of technology.[^googledef] 
 
 [^googledef]: If I were working with a medium other than print here, I would embed the results from my google search for "define 'interface.'" The google search algorithm for definitions draws on many sources to provide a quick look at the main definitions of a term, its etymology, its frequency over time, and gives you the ability to translate the term into other languages.
 Due to the demands and customs of the print genre and related citation tendencies, I have chosen to reference a combination of OED and other useful definitions, particularly because the OED entries for this term are vastly outdated.
@@ -83,8 +88,8 @@ Given my experience with this particular word, "interface," I can't help but que
 
 [^early_interface]: Marshall McLuhan and Quentin Fiore, *The Medium is the Massage* (New York: Bantam Books, 1967).
 
-The first noun definition in the OED is the scientific definition, which denotes the boundary between two portions or phases of matter.[^interface_n] Though this earliest use of the term is not our primary focus here, it is worth noting that even this scientific definition foregrounds the irreducibility to consumption operative in interface.
-Whether the interface identifies a boundary surface (the OED actually uses the term "face" here) within the same substance or between substances, the interface signals the interaction of two entities without one being consumed by the other.
+The first definition of interface in the OED is a scientific definition, which denotes the boundary between two portions or phases of matter.[^interface_n] Though this earliest use of the term is not our primary focus here, it is worth noting that even this scientific definition foregrounds the irreducibility to consolidation operative in interface.
+Whether the interface identifies a boundary surface (the OED actually uses the term "face" here) within the same substance or between substances, the interface signals the interaction of two entities without either being eradicated.
 Even in these early technical uses of the idea of interface in the late nineteenth century, we hear the relationality of interaction and the resistance to reduction into one entity or the other at work in interface.
 
 [^interface_n]: "interface, n.".
@@ -93,22 +98,12 @@ December 2016.
 Oxford University Press.
 http://www.oed.com.du.idm.oclc.org/view/Entry/97747?isAdvanced=false&result=1&rskey=QjGVLf& (accessed December 21, 2016).
 
-As I mentioned above, the noun definition of "interface" is "A point where two systems, subjects, organizations, etc.
-meet and interact."[^0] This basic noun definition also encompasses the historical scientific definition if we add substances to the list of things that can meet and interact.
-Even though we often see the word "between" used with "interface," such as "the interface between religion and science," the simple noun definition of interface I have quoted above highlights that interface is a "point" or space or surface of meeting.
-This space of meeting is mutually constructed by the contact of the differing systems.
-Interface, in this sense, is not necessarily a space "between" two systems, but the space created by the entangled "interaction" of two systems.
-Since our definition states that systems must meet *and* interact, contact alone is not sufficient for interface, there must be some interaction among the systems.
-
-
-These processes of interaction irreducible to consumption are maintained in the computing focused definition of interface, which is "A device or program enabling a user to communicate with a computer"[^1] or "a device or program for connecting two items of hardware or software so that they can be operated jointly or communicate with each other."[^2] Here we see that interface has become a technical term in the technological realm to describe the piece of technology that is needed to allow two systems to meet and interact.
+These processes of interaction that sustain relationality without the collapse of one entity into another are maintained in the computing focused definition of interface, which is "A device or program enabling a user to communicate with a computer"[^1] or "a device or program for connecting two items of hardware or software so that they can be operated jointly or communicate with each other."[^2] Here we see that interface has become a technical term in the technological realm to describe the piece of technology that is needed to allow two systems to meet and interact.
 Because of the difference between the modes of communication of a human user and a machine, an "interface" as a translation layer is needed to allow the entangled interaction of "interface." Here in the computing definition of interface, we find the noun and verb operations of interface coming together to suggest a multilayered notion of interface that includes both the material bridge that affords interaction and the interaction itself.[^verb] The operation of interface in this connection or communication between user and machine allows for a relationship between these entities without reducing one participant into the other.
-
 
 [^verb]: The verbal definitions of interface are simply "to interact with" or "to connect with." Link to the Oxford Online Dictionaries.
 The simplicity of these verbal forms and my brevity in addressing them are not indicative of the importance I place on the verbal aspect of interface.
 Yet, our difficult task here is to explore bible as interface without reducing interface to any one of these definitions at the expense of the other.
-
 
 ## Interface as Event ##
 
@@ -137,7 +132,8 @@ Pointing back toward her work on texts as event, Drucker suggests that "attentio
 
 Critiquing the "window" metaphor that is so prevalent in our understanding of interface, Drucker pushes us to imagine interface as an event, both a thing *and* a process, both noun and verb as we saw in our exploration of definitions above.[^window] Drucker's binary rhetoric of entity to event might suggest that she devalues the materiality or thingness or noun character of interface in order to highlight the productive process at work in event.
 Yet, if we look closely at her concept of event, we get a more material sense of what she is doing with interface as "not a thing."[^thing] Drucker writes, "Probabilistic materiality conceives of a text as an event, rather than an entity.
-The event is the entire system of reader, aesthetic object and interpretation."[^entire]Much like we saw in Plate's suggestion of religion as technology irreducible to belief,[^plate_techne] here, Drucker's interface as event entails entity without being reducible to it.
+The event is the entire system of reader, aesthetic object and interpretation."[^entire]
+Much like we saw in Plate's suggestion of religion as technology irreducible to belief,[^plate_techne] here, Drucker's interface as event entails entity without being reducible to it.
 Interface as event accounts for both the material conditions of the participants and the process of their interaction.
 The "entire system" of Drucker's interface as event, which includes "reader, aesthetic object, and interpretation," maps nicely onto Watts's three dimensions of scripture, performative, iconic, and semantic, respectively.[^drucker_watts] Like Plate and Watts, Drucker resists a reductive approach that might conceptualize interface as simply a window to content and user as a mechanistic consumer.
 Interface as event always exceeds content and consumption.
@@ -247,7 +243,6 @@ This provocation reminds us that platform is an active participant as structured
 
 One of the strategies Drucker offers for pursuing a theory of interface as relationality irreducible to consumption is to foreground the role of the subject in interface.[^introna] One structure of subjectivity that provides a useful optics for our consideration of bible as interface is the notion of proximity in Emmanuel Levinas.
 Though the term proximity is often used as a simple synonym for physical closeness in human relationship, Levinas articulates a notion of proximity that problematizes the reduction of relationality to nearness in space and provides an optics for human relationship that is not reducible to consumption.
-Injecting our theory of interface with an optics of proximity also reminds us that any discussion of bible as interface involves a community of users engaging and encountering one another through participation in bible.
 
 [^introna]: For an introduction to the role of different philosophical notions of subjectivity and the role of ethics in interface, see Lucas Introna, "Phenomenological Approaches to Ethics and Information Technology", *The Stanford Encyclopedia of Philosophy* (Summer 2011 Edition), Edward N.
 Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2011/entries/ethics-it-phenomenology/>.]
@@ -265,14 +260,14 @@ For Levinas, the ethical encounter of the face, otherwise stated as one's infini
 Instead, this ethical encounter provides the apparatus for the very possibility of seeing, knowing, and willing.
 This is how I mean proximity as an optics, as an apparatus for the possibility of interface as relationality irreducible to consumption.
 
-
 [^circulation_images]: As Richard Cohen, *Ethics and Cybernetics*, 28, notes, the most pivotal chapter of Levinas's *Otherwise than Being*, which is titled "Substitution," offers a fitting mention of proximity in relationship to terminology we often find in discussions of technology, such as "circulation of information" and "resolved into 'images.' After introducing the shortcomings associated with placing consciousness qua knowledge at the foundation of humanness, Levinas, *Otherwise Than Being*, 101, articulates an alternative, saying, "In starting with sensibility interpreted not as a knowing but as proximity, in seeking in language contact and sensibility, behind the circulation of information it becomes, we have endeavored to describe subjectivity as irreducible to consciousness and thematization.
 Proximity appears as the relationship with the other, who cannot be resolved into "images" or be exposed in a theme.
 It is the relationship with what is not disproportionate to the arche in thematization, but incommensurable with it, with what does not derive its identity from the kerygmatic logos, and blocks all schematism."
 
 In the last of Levinas's major philosophical works, *Otherwise Than Being*, proximity blossoms as a problematization of the distance/nearness spatial binary.
 He writes, "for proximity is not a simply asymptotic approach of its 'term.' Its term is not an end.
-The more I answer the more I am responsible; the more I approach the neighbor with which I am encharged the further away I am."[^5] In this resistance to the asymptote as a metaphor for proximity, Levinas indicates concepts of relationality or even interface as face to face that are not derived simply from spatial contiguity or its lack.
+The more I answer the more I am responsible; the more I approach the neighbor with which I am encharged the further away I am."[^5] Levinas uses the mathematical concept of asymptote, a line that gets infinitely closer to a curve without ever contacting it, to emphasize that his notion of proximity can not be reduced simply to increasing closeness in human encounter.
+In this resistance to the asymptote as a metaphor for proximity, Levinas indicates concepts of relationality or even interface as face to face that are not derived simply from spatial contiguity or its lack.
 First and foremost, proximity is a sociality, a "relationship with," not simply a physical closeness in space and time.[^6] This "relationship with" is the core of interface as I have defined it, so we can already imagine proximity as a kind of interface.
 Proximity, which cannot be reduced to physical or cognitive closeness,[^7] is conceptualized with many other terms by Levinas, such as approach, contact, and responsibility.
 All of these terms connote a kind of engagement that is a process of being approached by a neighbor or a stranger that demands a response more than an intentionally willed choice to approach another and engage.
@@ -284,7 +279,6 @@ Here is where, in what might initially seem odd, distance plays a role in proxim
 There are two distances at work in the discussion of proximity in *Otherwise than Being.* The first distance is the distance of sight or knowledge or the incomplete objective genitive construction, "consciousness of...," characteristic of phenomenological traditions of intentionality to which Levinas is responding.[^8] This distance is simply the distance required for a subject to comprehend an object or for the eye to see an object.
 Levinasian proximity squeezes this distance by enacting a contact that precedes comprehension, an encounter that is blurry.
 While proximity in a Levinasian sense resists this distance of comprehension through an asymmetrical entanglement of sociality not reducible to understanding, another kind of distance emerges.[^9] This second distance is another way of articulating the difference always at work in this encounter that is proximity.
-
 
 Levinas calls this distance "a diachrony without a common present," which suggests that proximity does not actually bring the two terms of this relationship or encounter or interface "together" in any reciprocal way in a shared appearance.[^10] This distance as diachrony or difference is not somehow an interruption of an original synchrony or sameness, to which a system is hoping to return.
 Rather, this distance in proximity is the ever expanding and insatiable demand by the other, which consistently troubles any attempts to consume the other.
@@ -330,7 +324,6 @@ In a high surface area interface, a user would find it difficult to exhaust all 
 For example, watching a full length feature film straight through on YouTube is a fairly low surface area interface, since the user engages a continuous linear narrative that is taken in as a whole.
 On the other hand, searching YouTube for clips related to a recent election scandal can offer a high surface area interface through the many ways into the event offered by the search results.
 
-
 Interfaces that afford collaboration provide possibilities for both participation in constructing the space of interface and chances for user interaction.
 Kindle reader on the iphone for example, affords several opportunities for the reader to participate in constructing the interface, such as choosing a font size or a background color for the page.
 Additionally, Kindle reader allows users to annotate and highlight as they use a book, which can create an entirely new navigation scheme through the material.
@@ -338,7 +331,7 @@ We find a similar collaborative affordance in the marginalia so popular in medie
 
 Kindle annotations highlight another aspect of the collaborative capacities of interfaces, the communal process of use.
 Kindle reader allows users to share their annotations with others and users can enable a feature that will show popular highlights while reading through the book.
-This popular highlights feature is similar to checking out a book form the library and seeing the markings and highlights left by previous users.
+This popular highlights feature is similar to checking out a book from the library and seeing the markings and highlights left by previous users.
 The Kindle reader example demonstrates the two layers of collaboration afforded by interfaces that provoke probabilistic production through a relationality irreducible to consumption.
 First, there is a relationality of participation in constructing the material aspects of the interface rather than simply consuming the content.
 Second, there is a relationality of community, using and making together not entirely on a user's own terms.[^18] 
@@ -368,7 +361,6 @@ I will first trace these affordances of bible as book interface through a roll b
 Once we have seen the operations of these affordances in bible as book, I will explore the possible translations of high surface area, collaboration and anarchy into bible as interface in one attempt to move beyond the book through manuscript digitization, XML encoding, and web design.
 Finally, we will trace these affordances into interfaces that have pushed decidedly beyond the book, such as an XML digital bible library, a mobile bible app, and a bible application programming interfaces (APIs).
 Amidst the common fears and anxieties emerging as new technologies threaten the dominance of the book, attending to the affordances of bible as interface can help use of bible flourish beyond the book, while remaining deeply connected to the material history of bible.
-
 
 [^24]: Johanna Drucker, ‘Humanities Approaches to Interface Theory,’
     *Culture Machine* 12 (2011): 1-20.
@@ -402,7 +394,14 @@ Introduced by Alvin Toffler in *The Third Wave* CITATION, the use of prosumption
 
 [^46]: Drucker, 'Entity to Event,' 14.
 Again we see similarities with Watt's three dimensions of scripture as the interpretive act is about making semantic meaning in the performance of reading as constrained by the materiality of the space of the event of encounter between user and book.
-[^0]: https://en.oxforddictionaries.com/definition/interface
+
+[^0]: "Interface," https://en.oxforddictionaries.com/definition/interface, accessed on September 29, 2017.
+The noun definition of "interface" is "A point where two systems, subjects, organizations, etc.
+meet and interact."
+Even though we often see the word "between" used with "interface," such as "the interface between religion and science," the simple noun definition of interface I have quoted above highlights that interface is a "point" or space or surface of meeting.
+This space of meeting is mutually constructed by the contact of the differing systems.
+Interface, in this sense, is not necessarily a space "between" two systems, but the space created by the entangled "interaction" of two systems.
+Since our definition states that systems must meet *and* interact, contact alone is not sufficient for interface, there must be some interaction among the systems.
 
 [^1]: https://en.oxforddictionaries.com/definition/interface
 
