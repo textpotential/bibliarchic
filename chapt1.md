@@ -129,21 +129,33 @@ Pointing back toward her work on texts as event, Drucker suggests that "attentio
 [^ambiguity]: Drucker, "Interface Theory," 1.
 [^event]: Drucker, "Interface Theory," 3.
 
-
 Critiquing the "window" metaphor that is so prevalent in our understanding of interface, Drucker pushes us to imagine interface as an event, both a thing *and* a process, both noun and verb as we saw in our exploration of definitions above.[^window] Drucker's binary rhetoric of entity to event might suggest that she devalues the materiality or thingness or noun character of interface in order to highlight the productive process at work in event.
 Yet, if we look closely at her concept of event, we get a more material sense of what she is doing with interface as "not a thing."[^thing] Drucker writes, "Probabilistic materiality conceives of a text as an event, rather than an entity.
 The event is the entire system of reader, aesthetic object and interpretation."[^entire]
 Much like we saw in Plate's suggestion of religion as technology irreducible to belief,[^plate_techne] here, Drucker's interface as event entails entity without being reducible to it.
 Interface as event accounts for both the material conditions of the participants and the process of their interaction.
 The "entire system" of Drucker's interface as event, which includes "reader, aesthetic object, and interpretation," maps nicely onto Watts's three dimensions of scripture, performative, iconic, and semantic, respectively.[^drucker_watts] Like Plate and Watts, Drucker resists a reductive approach that might conceptualize interface as simply a window to content and user as a mechanistic consumer.
+
 Interface as event always exceeds content and consumption.
+If we think of consumption as the absorption or consolidation of one entity into another, then the earliest definitions of interface already suggested the irreducibility to consumption of interface.
+Interface is the moment and space of interaction of two *distinct* entities.
+If one participant in the event of interface absorbs the other or if the distinct entities consolidate into one entity, there is no longer any interface.
+Thus, the very notion of interface is predicated on resistance to consumption.
+Some interfaces are more durable in their resistance to consumption, while others are designed to quickly resolve into consumption by one participant or another.
+In this project, I am interested in bible interfaces that ongoingly resist consumption--bible interfaces that consistently promote interface, the sustained engagement that happens in the moment and space when *different* entities interact and simply cannot consume one another.[^consume]
 
 [^window]: Drucker, "Interface Theory," 9.
 [^thing]: Drucker, "Interface Theory," 7-8.
 [^drucker_watts]: Watts, "Three Dimensions of Scriptures," 6.
 [^entire]: Drucker, "Entity to Event," 8.
-
 [^plate_techne]: Plate, *5 1/2 Objects*, 22.
+[^consume]: This notion of consumption as homogeneity, consolidation, and absortption and my resistance to it in articuating a rich notion of interface comes from a combination of the dominant view of media as homogenizing in the Frankfurt School and Emmanuel Levinas's notion of proximity as that which infinitely resists homogenization.
+For an example of the Frankfurt School view of the role of technologies in consumption, see the discussion of the telephone and radio in Max Horkheimer and Theodor W.
+Adorno's essay, "The Culture Industry: Enlightenment as Mass Deception," in *Dialectic of Enlightenment (New York: Herder and Herder, 1972), 94-96.
+As will become clear throughout this project, I do not hold the same pessimism about technologies that pervaded the Frankfurt School's critiques.
+For an example of Levinasian proximity as resisting consumption, see the note on obsession, a synonym for proximity, in Emmanuel Levinas, *Otherwise than Being, Or, Beyond Essence*, trans.
+Alphonso Lingis (Pittsburgh, Pa.: Duquesne University Press, 2009), 191, n.
+10.
 
 ## Provoking Probabilistic Production ##
 
@@ -241,11 +253,13 @@ This provocation reminds us that platform is an active participant as structured
 
 ## Proximity as Optics ##
 
-One of the strategies Drucker offers for pursuing a theory of interface as relationality irreducible to consumption is to foreground the role of the subject in interface.[^introna] One structure of subjectivity that provides a useful optics for our consideration of bible as interface is the notion of proximity in Emmanuel Levinas.
+One of the strategies Drucker offers for pursuing a theory of interface as relationality irreducible to consumption is to foreground the role of the subject in interface.[^introna] Drucker works with a constructivist notion of subject, where the subject is constructed through participation in interface with its environment.[^construct] Another structure of subjectivity that provides a useful optics for our consideration of bible as interface is the notion of proximity in Emmanuel Levinas.
 Though the term proximity is often used as a simple synonym for physical closeness in human relationship, Levinas articulates a notion of proximity that problematizes the reduction of relationality to nearness in space and provides an optics for human relationship that is not reducible to consumption.
 
 [^introna]: For an introduction to the role of different philosophical notions of subjectivity and the role of ethics in interface, see Lucas Introna, "Phenomenological Approaches to Ethics and Information Technology", *The Stanford Encyclopedia of Philosophy* (Summer 2011 Edition), Edward N.
 Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2011/entries/ethics-it-phenomenology/>.]
+[^construct]: Drucker, *Interface Theory*, 3, writes, "The constructivist subject of the digital platform emerges in a codependent relation with its affordances.
+This is the ‘subject of interface’ when interface is conceived as a dynamic space of relations, rather than as a ‘thing’."
 
 In drawing on Levinasian notions of subjectivity to inform my analysis of bible as interface, I am not attempting to articulate an alternative to the constructivist subject that animates Drucker's idea of interface.
 Nor am I interested in suggesting that bible interfaces participate in the proximity that structures human subjectivity in a Levinasian phenomenology.
@@ -356,7 +370,17 @@ We can always construct an original given a particular data set and time frame.
 Instead of eradicating any notion of original, I am asking us to consider a kind of reading, a mode of making, that operates *without the reign of an original*.
 In this vein, anarchy becomes one mechanism for the probabilistic production offered by interfaces that we discussed in chapter 1.
 
-With these three affordances of interface in mind, high surface area, collaboration, and anarchy, we can now move toward looking at particular examples of bible as interface throughout its many manifestations in media history.
+With these three affordances of interface in mind, high surface area, collaboration, and anarchy, we can now move toward looking at particular examples of bible as interface throughout its many manifestations in history.[^instantiation] These three affordances are not unique to bible nor are they the only affordances at work in bible interfaces.
+What makes these three affordances particularly important for this study is that they make bible interfaces more durable as interface, sustaining a relationship between user and platform that resists reduction to consumption.
+Implicit in my argument for bible as interface that affords high surface area, collaboration, and anarchy is my conviction that bible, at its best, refuses reduction to consumption and we can see this durability of interface throughout the life of bible.
+
+[^instantiation]: In her Media Specific Analysis methodology , N.
+Katherine Hayles uses the helpful language of "instantiation" to refer to the particular manifestation of a set of affordances in a given material media context.
+This language of instantiation continues to highlight the continuities at work in material media translation.
+For Hayles's Media Specific Analysis of hypertext, see N.
+Katherine Hayles, “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis,” *Poetics Today* 25, no.
+1 (March 20, 2004): 67–90.
+
 I will first trace these affordances of bible as book interface through a roll bible, an ancient codex manuscript, and a kindle bible.
 Once we have seen the operations of these affordances in bible as book, I will explore the possible translations of high surface area, collaboration and anarchy into bible as interface in one attempt to move beyond the book through manuscript digitization, XML encoding, and web design.
 Finally, we will trace these affordances into interfaces that have pushed decidedly beyond the book, such as an XML digital bible library, a mobile bible app, and a bible application programming interfaces (APIs).
