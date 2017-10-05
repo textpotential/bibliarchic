@@ -9,7 +9,7 @@ Seeing these affordances at work in these book interfaces of bible will prepare 
 
 Before bible became Bible, it was book.
 Our concept of book has become so deeply entangled with the dominant book technology of nearly the last two millennia, the codex, that we forget book has not always been codex.
-Depending on how broadly we want to define book and its relationship to writing, we could imagine book going all the way back to cave walls and stone tablets.
+Based on the definition of book I began with in the introduction, “a technology that involves the fastening together of discrete pieces of material to gather and set boundaries for a writing or collection of writings, which is primarily governed by the structure of the page,” we could imagine book going all the way back to stone tablets.
 I won't take us all the way down that road here to avoid the detours it might provide, but in the life of bible as book, it is at least important to consider the codex's immediate technological ancestor, the roll.[^2] We find roll books mentioned by authors in the ancient world and in the bible itself.
 βιβλιον is the Greek word often translated "book" in the Septuagint and the New Testament.
 Yet, this word for book that becomes the signifier for the cultural phenomenon of Christian scripture, and so much more, always refers to something otherwise than a codex in these ancient Greek texts, because the codex did not yet exist.
@@ -46,7 +46,7 @@ Stretched out, this scroll would be just shy of the width of the singles lines o
 
 In general, as an interface, the roll offers a two handed user experience when reading that combines the analog, a continuity, and the digital, discrete bits.
 The typical roll book consists of several sheets of papyrus or parchment, glued or stitched together from edge to edge, written on one side in columnar fashion and rolled up for easy storage and protection.
-To read, a user would use one hand to unroll in the direction of reading, right to left in Hebrew, left to write in Greek, and the other hand to reroll the used portions of the text.
+To read, a user would use one hand to unroll in the direction of reading, right to left in Hebrew, left to right in Greek, and the other hand to reroll the used portions of the text.
 A more contemporary, but already out of date, technology that emulates the mechanics of a roll is a cassette tape or a reel to reel film.
 If you can imagine rolling the two spools of a cassette tape by hand and reading for text on the tape, that is similar to how users interfaced with the roll.
 In fact, some rolls had handles that functioned like spools to enable the user to more easily move back and forth through the book.
@@ -210,7 +210,7 @@ Thus, *scripta continua* enhances the high surface area of Codex Sinaiticus.
 ## Collaborative Annotations ##
 
 As stated by the curators of the Codex Sinaiticus project, one of the most interesting aspects of this ancient manuscript is the rich annotative life it betrays.
-Klaus Wachtel counts 23,000 places where the manuscript has been corrected, amounting to an average of 30 annotations per page.[^33] Like we saw on a much smaller scale in 1QIsa^a^, in these markings at the margins, we find a material performance of the affordance of collaboration in interface.
+Klaus Wachtel counts 23,000 places where the manuscript has been adjusted, amounting to an average of 30 annotations per page.[^33] Like we saw on a much smaller scale in 1QIsa^a^, in these markings at the margins, we find a material performance of the affordance of collaboration in interface.
 Whether deemed as corrections, additions, theological guides, or reading indicators, these annotations demonstrate a participatory reading process that affords collaboration of users and the ongoing use and development of the interface over many centuries.[^34] With the roll interface, we found a significant collaborative capacity in the communal reading use.
 It has been tempting, given the close timing of Constantine's request for "fifty copies of the divine Scriptures" in 330 and the likely production of Codex Sinaiticus in the fourth century, to imagine Codex Sinaiticus as one of the fifty bibles requested by Constantine to be used in the churches for instruction.[^35] Yet, as Gamble points out, the less than portable size of Sinaiticus, the lack of reading aids, and the multi-columnar *scripta continua* suggest that Codex Sinaiticus might not have been well suited for public reading and may have been commissioned for personal use.[^36] 
 
@@ -240,10 +240,13 @@ It is a cacophony of voices and perspectives, often in conflict with one another
 A simple example of the anarchy of the collection is the inclusion of four gospel accounts that constantly offer differences to negotiate among themselves, resisting reduction to any singular account of the life, ministry, and death of Jesus.
 
 
-Beyond the texts collected together in Codex Sinaiticus, the revision process also indicates an anarchy in this book interface.
+Beyond the texts collected together in Codex Sinaiticus, the revision process also indicates an anarchy in this book interface.[^kinds_anarchy]
 In his close attention to the character and quantity of textual emendations in Codex Sinaiticus, Klaus Wachtel points out that though there is a tendency to emend the text toward the Byzantine text family, a user is able to discern at least three texts at work at the same time in Sinaiticus, the work of the initial scribes, the systematic emendations of Corrector^a^ (C^a^) and the even later text of Corrector^b2^ (C^b2^), which works with both the initial text and the text of C^a^.[^42] Again, because the process of revision in Codex Sinaiticus involved dots over letters or strikethroughs as deletions, rather than hard erasure or total replacement, much of the time, a user can still see the layers of evolution of the text and the direction of the changes does not always suggest a linear progression toward a stable text form.[^43] A great example of this ongoing conflict of multiple voices in the revision layers resisting the closure of the interface to a single voice is what Wachtel refers to as the "bloody sweat" episode of Luke 22:43-44.
 This passage is one of three additions to the text of the New Testament often indicative of the more stable form of the text developed later in medieval times and known as the Byzantine text.[^44] Looking at the last 10 rows of column 3 and the first line of column 4 on folio 244b of Codex Sinaiticus, we can see that the initial scribe included the bloody sweat passage and that an early corrector, identified as C^a^, used dots above the letters of the first line and then a more efficient dot marking at the beginning and end of each line, to signal the deletion of this passage from the text.
 In a palimpsestuous object lesson, these erasure dots then get erased by C^b2^, but not entirely, leaving a user of this codex with an explicit look at the anarchy of this interface in the ambiguity and polyvocality inscribed on its surfaces.[^45]
+
+[^kinds_anarchy]: Jeffrey Mahan helpfully points out that this Codex Sinaiticus bible interface demonstrates the affordance of anarchy in several different kinds of uses, such as the ongoing production of the manuscript and the use of the manuscript for religious of liturgical reasons.
+
 
 Before the stable consolidations of the medieval process of transliteration in the ninth century and the emergence of print in the fifteenth century, Codex Sinaiticus provides an example of codex bible that exhibits the affordances of high surface area, collaboration, and anarchy.
 Though the material characteristics of the bound volume afford instincts toward comprehensiveness, consolidation, and closure, the 800 years of participation in evolving the text betray bible as interface, a relationality that is irreducible to consumption.
@@ -258,7 +261,7 @@ Further, Kindle signals its ancestral relationship with the codex book in its pr
 So, as we have seen with other emerging technologies, Kindle books continue to enact the structures of its predecessors, while extending new affordances in interface.
 
 
-The number of bibles available on Kindle is innumerable.
+The number of bibles available on Kindle is unstable.
 Depending on the day, your location, your search habits, and your demographics, a web search for "Kindle bible" will return a different set of options.
 Already, in this kind of search, we are performing the probabilistic production of interface, because each search has the potential to produce something new based on different user variables and on the constantly emerging options for bible on the Kindle platform.
 From my particular location in the USA as a bible scholar who does a fair bit of web searching related to bible, one of the top search results when I pass a simple query of "Kindle bible" is a Kindle Book titled "The Bible - The Holy Bible Formatted for Your eReader."[^46] This title alone deserves some comment.
@@ -292,9 +295,16 @@ This is one of the distinct differences between newer media interfaces of bible 
 To own a manuscript is to have a singular material object with which a user relates.
 Certainly, there were variabilities in the encounter between user and platform in roll or codex interfaces based on historical period, social location, and cultural dynamics at any given time.
 Yet, in roll and codex interfaces, the material affordances were constant for a given book.
-A user could own more than one bible, but each bible was a distinct entity and did not require any other technology of access in order to interface with it.[^51] So, in order to participate in the interface that is this Kindle bible, I have to purchase the bible and I have to have access to Kindle Reader software, either in a web browser or as a downloaded application on my laptop or mobile device.
-As a user of this bible on an iPhone, I actually have at minimum three interfaces at play when I use this Kindle bible-the interface of the phone, the interface of the reader application, and the interface of the particular bible I am using.
+A user could own more than one bible, but each bible was a distinct entity and did not require any other technology of access in order to interface with it.[^51] 
+
+So, in order to participate in the interface that is this Kindle bible, I have to purchase the bible and I have to have access to Kindle Reader software, either in a web browser or as a downloaded application on my laptop or mobile device.
+As a user of this bible on an iPhone, I actually have at minimum three interfaces at play when I use this Kindle bible-the interface with the phone, the interface with the reader application, and the interface with the particular bible I am using.
 The overlapping interface possibilities available in my use of this Kindle bible on a computer or on my iPhone provides expansive points of contact with the book that can resist a user from settling into the monotony of mastering one consistent approach to the interface.
+Using this Kindle bible on my computer at work allows me to write this sentence on one screen with the bible open in another screen.
+The screen size of the computer device layer of interface allows me to see more text on one screen and in multiple columns.
+This larger space and more text at once can help a user see connections and contours in the text that may be harder to notice on a smaller screen interface.
+If I leave work and decide to use this Kindle bible from my iPhone 7 on the train ride downtown, I'm working with less text at a time on the screen and using the search and linkability of the interface more often to make connections between parts of the text, which can surface new textual relationships that might not emerge on more standard linear navigation through the text.
+Unlike on the computer, the Kindle application interface combined with the iPhone device interface make it simple to share a passage I select with a friend via text or instant message, which could facilitate a more collaborative use of the bible interface through dialog.
 
 
 ## Collaboration and the Page ##
@@ -338,13 +348,19 @@ A Kindle book allows the user to participate much more in the material construct
 In a browser, with one menu click, the Kindle platform allows the user to select from five font sizes, five margin widths, and three text and background color combinations.
 Mobile Kindle interfaces allow the user to select font type and instead of margin size selection, mobile users can select spacing between lines.
 It is well established that things like color, font size, and spacing between lines has an impact on user interface and readability.[^55] Yet, for our purposes here, the important impact of this increased user participation in defining the materiality of the interface is that user defines the page instead of the material limits of the book.
+
 When using a Kindle bible on an iPhone, if a user turns the phone from portrait (phone held vertically) to landscape (phone held horizontally), the amount and organization of the content on the page changes.
 For example, if I am at the beginning of Ezra chapter 8 in the Kindle bible on my iPhone 7, in portrait mode, the current page holds the first 11 verses, but only 8 in landscape mode.
 If I were to change the font size or the spacing between lines, the page definition would change yet again.
+These options for screen orientation and font size mean that each user may have a different material encounter with this Kindle bible, unlike the stable and uniform material encounter afforded by a parchment codex.
+For example, having less text on a page in landscape mode on an iPhone could provide a user an encounter with a particular passage unencumbered by what comes before and after it, leading to innovative interpretations of that passage.[^embedded]
+
+[^embedded]: We can take this example of interface even further given the portability of a device like an iPhone, such that a user might engage a small passage from this Kindle bible in various settings throughout their day, such as on the bus to work or at a coffee shop.
+Each different setting could impact the possible interpretive uses of this particular passage engaged through interface with this Kindle bible.
+
 Though the page possibilities are not unlimited, the book is still bound in a sense, there is no doubt that users play a far greater role in constructing the material aspects of the page than previous book interfaces.
 This variability in the material aspects of the page is a major technological innovation and renders page numbers unnecessary, even nonsensical, in a Kindle book except for the need to have conversation about locations across interfaces.
 Yet, the page as a discrete unit of interface remains and has become a site of collaboration in the Kindle bible interface as users are invited to participate in constructing the dimensions of the page.
- 
 
 ## Annotation as Collaboration ##
 
@@ -443,8 +459,8 @@ Trevor's introduction to the Isaiah Scroll in Millar Burrows, *The Dead Sea Scro
 Mark's Monastery*, vol.
 1 (New Haven: The American Schools of Oriental Research, 1950), xiii-xviii.
 
-[^8]: I would rather find other words to describe this difference rather than analog/digital.
-The important point to make in all interface analysis is that rarely do we have a binary situation because interfaces as relationships afford more than one type of use.
+[^8]: I would rather find other words to describe this difference other than analog/digital.
+The important point to make in all interface analysis is that rarely do we have a binary situation, because interfaces as relationships afford more than one type of use.
 
 [^9]: This vertical roll interface is akin to our contemporary relationship with reading on a web page and the act of moving around in these web pages is called "scrolling."
 
@@ -541,7 +557,8 @@ Instead, Wachtel suggests that Codex Sinaiticus was more likely used as an impor
 
 [^47]: I am at a loss for why the word "Holy" is added to the subtitle of this book.
 This could be a reinforcement of Timothy Beal's suggestion in *The Rise and Fall of the Bible*, Kindle location 61, that bible has become a cultural artifact that extends far beyond any sense of content to a cultural sensibility of "authoritative, univocal, practical, accessible, comprehensive, and exclusive." Perhaps, including "The Holy Bible" in the subtitle of this particular Kindle book differentiates it in terms of content from other bibles, such as the Python Bible or the Golf Bible.
-Could this mean that "Holy" has become a synonym for Christian in common parlance?
+Could this mean that "Holy" has become a synonym for Christian in common parlance? "Holy" could also indicate that his particular bible interface is intended for pious use more than for academic study or other uses.
+Thanks to Jeffrey Mahan for this suggestion.
 
 [^48]: See https://www.amazon.com/Bible-Holy-Formatted-Your-eReader-ebook/dp/B0032UYGE6 accessed on February 17, 2017.
 
