@@ -91,7 +91,7 @@ Yet, in use, attending to one column, even one line at a time, this interface be
 There are two ways in which this roll interface demonstrates collaborative affordances.
 First, the details of the episode in Luke 4 suggest that it was common to have this roll interface passed around to different people to read.
 So, even though 1QIsa^a^ may have been rather large and cumbersome and may have only allowed for one user at a time, the involvement of multiple readers engaging the roll in this communal synagogue setting over the course of many customary gathering on the Sabbath suggests that the roll interface was used as a collaborative interface.
-The preparation of the roll by the attendant, the handing back and forth of the roll between the reader and the attendant, and the reading aloud for others to hear, all signal a collaborative endeavor facilitated in part by this bible interface.[^1QIsa_margin] In his description of the physical appearance and wear of 1QIsa^a^, Trever hints at the collaborative capacity of this roll interface, saying, "Clear evidence of the long use of the Isaiah scroll in ancient times can be seen on the back of it both in these repairs and in the much darkened area at the center where the hands of many readers held it."[^12] 
+The preparation of the roll by the attendant, the handing back and forth of the roll between the reader and the attendant, and the reading aloud for others to hear, all signal a collaborative endeavor facilitated in part by this bible interface.[^1QIsa_margin] In his description of the physical appearance and wear of 1QIsa^a^, Trever hints at the collaborative affordance of this roll interface, saying, "Clear evidence of the long use of the Isaiah scroll in ancient times can be seen on the back of it both in these repairs and in the much darkened area at the center where the hands of many readers held it."[^12] 
 
 [^1QIsa_margin]: In the manuscript itself, there are some unusual markings in the margins that could have been used to help facilitate this kind of collaborative reading process described in Luke 4.
 For example, in the right hand margin of line five of column forty nine of 1QIsa^a^, which is the column from which Jesus would have read in Luke 4 if using 1QIsa^a^, we find a heavy horizontal line with a rounded triangle on top.
@@ -105,8 +105,7 @@ Parry and Stephen D.
 Ricks (Leiden: E.J.
 Brill, 1996), 46-48, identifies this marking as a *paragraphos* sign, marking the division of the text into paragraphs, yet not distinguishing between original scribes, later scribes or readers.
 
-
-In addition to this collaborative reading practice, the roll interface exemplified by 1QIsa^a^ signals a second collaborative capacity in the shared task of editing the text.
+In addition to this collaborative reading practice, the roll interface exemplified by 1QIsa^a^ signals a second collaborative affordance in the shared task of editing the text.
 As Trever notes, many of the emendations evidenced in 1QIsa^a^ look to be from the same hand as the scribe that wrote the body of the text.[^13] Yet, there is also evidence of other people participating in the emendation of the text by adding words or larger sections that were omitted by the initial scribe.[^14] In fact, on line twenty six of column forty nine of 1QIsa^a^, which contains the first verse of Isaiah 61 we hear read in the episode described in Luke 4, there is an example of this collaborative participation in the production of the text.
 In the spacing between lines, a different user has added a word just above the line where it seems a word was omitted.
 By the time 1QIsa^a^ was in use, in the last few centuries BCE, the text of Isaiah was rather well established.
@@ -115,9 +114,9 @@ In this particular case of column forty nine of 1QIsa^a^, the initial scribe lef
 The marginal spaces and the spacing between lines in this roll interface undoubtedly afforded both ease of reading and some protection of the text from weak points in the material of the manuscript that might develop around the stitching of the sheets.
 Yet, as we see evidenced all throughout the roll, these spaces become a vehicle for affording collaborative participation in the ongoing construction of the interface that is 1QIsa^a^.[^tov]
 
-[^tov]: For a discussion of and bibliography for the text of and scribal practices at work in 1QIsa^a^, see Emmanuel Tov, "The Text of Isaiah at Qumran" in *Hebrew Bible, Greek Bible and Qumran: Collected Essays* (Tübingen: Mohr Siebeck, 2008).
-
-[//]: # (Should i use transliteration or Hebrew font?)
+[^tov]: For a discussion of and bibliography for the text of and scribal practices at work in 1QIsa^a^, see Emanuel Tov, "The Text of Isaiah at Qumran" in *Hebrew Bible, Greek Bible and Qumran: Collected Essays* (Tübingen: Mohr Siebeck, 2008).
+For a more comprehensive look at scribal practices evidenced in texts from Qumran, see Emanuel Tov, *Scribal Practices and Approaches Reflected in the Texts Found in the Judean Desert* (Leiden: Brill, 2009).
+For a useful summary of these practices drawing heavily on Tov's work, see David Stern, *The Jewish Bible: A Material History* (Seattle: University of Washington Press, 2017), 11-62.
 
 We can easily imagine the similarities between this collaborative affordance of 1QIsa^a^ and the notes we as teachers leave in the margins of our students' papers, either with pencil on paper or with annotation bubbles and pointers on a PDF.
 More advanced interfaces for collaborative construction of a text have emerged in word processing technologies and cloud based document sharing and cooperative editing platforms like google docs.
@@ -129,19 +128,20 @@ Yet, in a Google Doc, this history of participation in the construction of the i
 
 ## Hinting at Anarchy ##
 
-In the previous chapter, I suggested that the third affordance of bible as interfaces is a tendency toward anarchy.
-Anarchy in interface "resists the closure or consolidation of use to any mechanistic determinism governed by original author, original version, or final form."[^15] In one sense, the visible markings of users continuing to work on the text of Codex Sinaiticus resists closure of this interface to a pristine and fixed text.
-Yet, as was customary in the manuscript copying process of antiquity, many of the changes we see in this interface by the initial scribe and later users are attempts to "correct" the text to more closely resemble its exemplar or the accepted version of the text of Isaiah.
+In the previous chapter, I suggested that the third affordance of bible as interfaces is anarchy.
+Anarchy in interface "resists the closure or consolidation of use to any mechanistic determinism governed by original author, original version, or final form."[^15] In one sense, the visible markings of users continuing to work on the text of 1QISa^a^ resists closure of this interface to a pristine and fixed text.
+Yet, as was customary in the manuscript copying process of antiquity, many of the changes we see in this interface by the initial scribe and later users are attempts to "correct" the text to more closely resemble its exemplar or the accepted version or tradition of the text of Isaiah.[^marks]
 Thus, in another sense, these collaborative markings exhibit archic tendencies, aligning the interface with some original source manuscript or an established proper form of the text it contains.
-Though 1QIsa^a^ may not exhibit many material properties signaling anarchic tendencies, the fact that users participated in this interface as a form of communal reading without explicit determinative guides in the interface itself to control or contain or close "the mysterious possibilities of exegesis"[^16] offered by reading a few lines from one column near the end of the book suggests the possibility of anarchy in use.
+Though 1QIsa^a^ may not exhibit many material properties signaling the affordance of anarchy, the fact that users participated in this interface as a form of communal reading without explicit determinative guides in the interface itself to control or contain or close "the mysterious possibilities of exegesis"[^16] offered by reading a few lines from one column near the end of the book suggests the possibility of anarchy in use.
 The simple fact of inviting participants to read a small bit of text and allowing the listeners to make sense of that short reading as they found fit is a performance of anarchy.
 
-[//]: # (Ask Pam, what does she want me to do with Carr here regarding correctors?)
+[^marks]: David Stern, *The Jewish Bible: A Material History*, 26-27, calls these markings interventions, of which most are corrections, 26-27.
+Many later users would not have access to actual textual exemplars, so by correction, I do not mean to limit this activity to simply alignment with an earlier written manuscript.
+Instead, "correction" can encompass scribal adjustments to fit the tradition of Isaiah they had received from their community.
 
 The high surface area of the discrete columns, the collaboration of both communal reading and textual emendation, and the anarchy of expounding on a small excerpt read in the process of a customary ritual gathering suggest that 1QIsa^a^ has the potential to be an interface begging for participation and resisting reduction to consumption of content.
 It is important to note here, that for this roll bible interface, the communal reading use plays a major role in both demanding participation and resisting mastery, closure and determinism by involving many voices.
 We will see this combination of small bits and many voices remain as an important indicator of bible as interface.
- 
 
 ## Binding the Book: Codex Bible ##
 
@@ -211,11 +211,11 @@ Thus, *scripta continua* enhances the high surface area of Codex Sinaiticus.
 
 As stated by the curators of the Codex Sinaiticus project, one of the most interesting aspects of this ancient manuscript is the rich annotative life it betrays.
 Klaus Wachtel counts 23,000 places where the manuscript has been adjusted, amounting to an average of 30 annotations per page.[^33] Like we saw on a much smaller scale in 1QIsa^a^, in these markings at the margins, we find a material performance of the affordance of collaboration in interface.
-Whether deemed as corrections, additions, theological guides, or reading indicators, these annotations demonstrate a participatory reading process that affords collaboration of users and the ongoing use and development of the interface over many centuries.[^34] With the roll interface, we found a significant collaborative capacity in the communal reading use.
+Whether deemed as corrections, additions, theological guides, or reading indicators, these annotations demonstrate a participatory reading process that affords collaboration of users and the ongoing use and development of the interface over many centuries.[^34] With the roll interface, we found a significant collaborative affordance in the communal reading use.
 It has been tempting, given the close timing of Constantine's request for "fifty copies of the divine Scriptures" in 330 and the likely production of Codex Sinaiticus in the fourth century, to imagine Codex Sinaiticus as one of the fifty bibles requested by Constantine to be used in the churches for instruction.[^35] Yet, as Gamble points out, the less than portable size of Sinaiticus, the lack of reading aids, and the multi-columnar *scripta continua* suggest that Codex Sinaiticus might not have been well suited for public reading and may have been commissioned for personal use.[^36] 
 
 Even if this magnificent manuscript was initially intended for private use, we see the affordance of collaboration of the interface at work in the unparalleled volume and diversity of annotations present in the book.
-Milne and Skeat as well as Jongkind provide detailed accounts of the layers of collaboration in making this interface what it has become.[^37] The Codex Sinaiticus Project website provides a nice summary of the kinds of activity present in the interface, which includes no fewer than three initial scribes, as many as nine revisors, three medieval marginal annotators, and arabic glosses.[^38] This amount of ongoing participation in the construction of Codex Sinaiticus from the forth century until the twelfth demonstrates the collaborative capacities of the interface and the ongoing emergence of the text.
+Milne and Skeat as well as Jongkind provide detailed accounts of the layers of collaboration in making this interface what it has become.[^37] The Codex Sinaiticus Project website provides a nice summary of the kinds of activity present in the interface, which includes no fewer than three initial scribes, as many as nine revisors, three medieval marginal annotators, and arabic glosses.[^38] This amount of ongoing participation in the construction of Codex Sinaiticus from the forth century until the twelfth demonstrates the collaborative affordances of the interface and the ongoing emergence of the text.
 The layout of the pages of the manuscript afforded a great deal of space on all margins that could well be used for annotations.
 Yet, the vast majority of the markings of participation show up in the small spaces between letters and lines in the body of the text.
 As I noted in the 1QIsa^a^ interface, here again in Codex Sinaiticus, we have a persistent reminder of the evolving and participatory nature of this interface because the editorial marks remain in place together with the earlier versions of the text.
@@ -306,7 +306,6 @@ This larger space and more text at once can help a user see connections and cont
 If I leave work and decide to use this Kindle bible from my iPhone 7 on the train ride downtown, I'm working with less text at a time on the screen and using the search and linkability of the interface more often to make connections between parts of the text, which can surface new textual relationships that might not emerge on more standard linear navigation through the text.
 Unlike on the computer, the Kindle application interface combined with the iPhone device interface make it simple to share a passage I select with a friend via text or instant message, which could facilitate a more collaborative use of the bible interface through dialog.
 
-
 ## Collaboration and the Page ##
 
 The ability of a user to choose which device to use to participate in the Kindle bible interface and to use different devices as part of the bible interface is just the beginning of the expanded role of the user in shaping the material aspects of the interface.
@@ -315,7 +314,6 @@ Users of roll and codex interfaces were confined by the physical dimensions and 
 In this Kindle bible interface, the flexibility of the digital screen affords the user the ability to participate in things such as page dimensions, font size, color of background, and number of columns per page.
 This user participation in shaping the material character of the page enacts one of the collaborative affordances of the Kindle bible interface.
 
-
 Though the notion of page is not intrinsically operative in the roll interface, we can easily imagine many limits of the page in a roll, such as a each columns as a page, each sheet of material as a page, or even the user's wingspan as the boundaries of the roll page.
 In a codex interface, the page is clearly defined as one unit of material, be it papyrus, parchment or paper, demarcated by the fold and binding of sheets of material together.
 So, in Codex Sinaiticus, one sheet of parchment, folded at the middle and written on both sides, provides four pages with four columns of writing per page.
@@ -323,13 +321,11 @@ In the Kindle interface, the operation of the page is a site of significant chan
 Though not demanded by the technologies involved in providing a digital platform for the use of books, the Kindle interface has kept the codex page as its primary navigational structure.
 Much like turning the page of a codex, in the Kindle bible, a user is presented with one unit of text at a time and there are navigational aids to move forward or backward in a book, which corresponds to left and right horizontal movement respectively in English language books.
 
-
 Though entirely unnecessary technologically, Kindle books pay homage to the codex page by maintaining the horizontal navigation through discrete units of text, which mimics the pages of paper or papyrus bound at a spine.
 This carrying on of the codex page in a technological framework that does not demand it resembles the continued use of a roll's multiple columns of text on a single codex page, even though not the most efficient use of the emerging technology of the codex.
 In the browser Kindle interface, a user can use arrow keys on the keyboard or click the arrows provided in the pages to move either direction.[^52] On an iPhone or other touchscreen device, this navigation is enacted by a touch on the edge of the current page in the direction you want to move and a swipe.
 This swipe action is the closest physical motion to the familiar page turn of the codex.
 Some digital reading platforms such as iBooks actually programmed the swipe to visually emulate the turning of the codex page to carry this characteristic experience into these new media environments.
-
 
 Kindle pages also have a header and footer that are consistent throughout.
 The page header keeps the title of the book present throughout the book and the footer provides a location indicator, which functions as a media translation of page numbers in a late codex interface.
@@ -339,7 +335,6 @@ Keeping the location number in the footer of the page throughout the book enable
 Better yet, the Kindle layer of the interface provides a location slider and percentage along with the raw location number to provide better visualization of a user's position within a book.
 This slider visualization enacts a material media translation of the experience of holding a codex and feeling or seeing the different thicknesses of pages in the right hand and the left.
 In 2016 Kindle expanded this media translation of locating a user within the larger book with the introduction of a feature called Page Flip.[^54] With Page Flip, the user gets a slider and thumbnails of pages nearby to afford easy visualization of the macro location in the book and easy navigation elsewhere or back to the page from which the exploration began.
-
 
 The use of location instead of page numbers as the primary indicator of position within a book highlights one of the important interface changes brought by the Kindle platform.
 In a print or manuscript codex, page size, font size, font type, margin size, page coloring are determined by the book producer and remain unchanged by the user.
@@ -373,19 +368,17 @@ In 1QIsa^a^ and Codex Sinaiticus, this kind of annotative activity was visible f
 The presence of these interruptive marks from others contributed to the collaborative affordances of the roll and codex as well as to the anarchy of these interfaces, resisting the reduction to a singular and deterministic use.
 The default settings in the Kindle bible interface make annotations private for the individual user, which does not demand the same curious interruptive possibilities offered by the marginal activity in our ancient interface examples.
 
-
 Despite the default tendencies of the Kindle interface toward a private and isolated annotative experience for each user, the Kindle bible interface does provide two collaborative annotative capacities that can contributed to a more anarchic interface by inviting other voices into the interface.
 First, the Kindle bible interface offers an option to turn on a feature called "Popular Highlights." If enabled, this popular highlights feature will show a user passages in the book that have been marked as important or interesting by other users.
 A highlight is deemed popular if three or more distinct users mark the same passage and the interface will show the number of highlighters but not their identities nor any notes associated with the highlights.
 Though perhaps less informative than the persistent markings left on an ancient manuscript, with the popular highlights feature turned on, users of the Kindle interface are reminded that they are part of a community of users that may find different parts of the book important.
 As with many other parts of the Kindle bible interface, this contact with other voices is optional and can be turned off at any time, which can decrease the interruption possible in the Kindle interface.
 
-
 A second collaborative annotative capacity afforded only when participating in the Kindle bible using one of Amazon's Kindle Reader devices is the possibility of public notes.
 If a user chooses, they can change a setting in the Kindle bible interface to make all of their notes public instead of private.
 With public notes enabled, any other user following this user who has enabled these public notes in the Kindle bible will then see all of their notes and annotations made in the interface.
 Multiple users, from different parts of the world, can participate in this bible interface together, collaborating to construct the interface by marking its pages and anarchically resisting reduction of the interface to a static space with a singular voice.
-Unlike in the roll and codex, this collaborative capacity in the Kindle interface is elective and selective, making it less anarchic than the annotative lives of our older manuscript interfaces.
+Unlike in the roll and codex, this collaborative affordance in the Kindle interface is elective and selective, making it less anarchic than the annotative lives of our older manuscript interfaces.
 Users of Codex Sinaiticus simply had to deal with the different voices and layers present in the interface, because these markings became a part of the singular material surface of the book that would confront every user.
 The Kindle bible interface operates as many material copies with the annotative markings as a separate layer of data, integrated into the interface for a seamless user experience, but not materially bound to the rest of the book in the same was as ink on parchment.
 The data surrounding these distinct copies of the Kindle bible can be connected through popular highlights and public notes, if a user so chooses, opening the interface up to the dynamic ambiguity of different voices.
@@ -397,7 +390,6 @@ Instead of being limited to the navigational structures built into the interface
 Our Kindle bible interface, *The Bible - The Holy Bible Formatted for Your eReader*, is impeccably structured to map the precise relationships between each part of the book, from the beginning of Genesis to the end of Revelation.
 Yet, in the Notebook view of the Kindle Reader app, the annotative participations of a user provide a way of aggregating bits of the book based on user contact points, thus breaking up the structured flow of the text and introducing new possible relationships as two highlights from different places in the book bump up against a user note asking a question about something in between them.
 This new and evolving structure offered in Notebook view reveals a collaborative affordance that interrupts the ability of the default Kindle book structures to determine the possible relationships available in this interface.
-
 
 ## Exponentially Expanding Non-Linear Access ##
 
