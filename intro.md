@@ -174,7 +174,6 @@ Without these literacies, the careful critical edge of biblical scholarship will
 In this study, I only begin to signal the kinds of capacities we will need to continue to explore the rich life of bible and its use.
 More than articulating a specific set of tools necessary for an emerging generation of biblical scholars, I hope to practice a process of inquiry that can be expanded and adapted as quickly as the technologies with which we work.
 
-
 ## Defining Bible ##
 
 One last definition is in order before I provide a basic roadmap for where we are headed in the rest of the project and that definition is of bible.
