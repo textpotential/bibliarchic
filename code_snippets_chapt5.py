@@ -1,4 +1,19 @@
 
+<pb id="S-80-1r" corres="E-80-1r" n="80-1r" scribeid="A" archive="BL" localfol="247" >
+<margin type="topmargin"><margin type="marginright"><note type="quireSig" n="79" >οθ </note>
+<note type="folionum"> 247</note></margin>  
+</margin>  
+</pb>  
+<cb id="S-80-1r-1" corres="E-80-1r-1" n="1" ><margin type="coltopmargin">  
+<margin type="center"><note type="booktitle" scribe="S1" comment="Book title added by corrector S1">
+<w n="1">κατα</w> <w n="2">ϊωαννην</w></note></margin></margin></cb>  
+<lb  id="S-80-1r-1-1" corres="E-80-1r-1-1" n="1" rend="hang" vnumber="1:1">
+<margin><note type="ECN" Ammonian="1" Canon="3"><hi rend="red"><hi rend="ol2">α</hi></hi>
+<lb /><hi rend="red">γ</hi></note></margin></lb></ab></div>
+<div id="K-B36K1V1-36-JOHN" n="1" type="chapter"><ab id="V-B36K1V1-36-JOHN" n="1">  
+<w n="1">εν</w> <w n="2">αρχη</w> <w n="3">ην</w> <w n="4">ο</w> <w n="5">λογοϲ</w>  
+<lb  id="E-80-1r-1-1" corres="S-80-1r-1-1" />
+
 
 GET /verses/{version_id}:{book_id}.{chapter_number}.{verse_number}.js?include_marginalia=true
 

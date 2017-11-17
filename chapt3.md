@@ -419,6 +419,7 @@ Bible as interface is not new and not an invention of our contemporary emerging 
 In light of the anxieties often present during times of emerging technologies, it is important to note that these affordances are not limited to one kind of interface and not guaranteed in any particular interface.
 In any bible interface, users are part of producing the possibilities for high surface area, collaboration, and anarchy in use and for shaping the design of interface in these directions.
 Now that we have seen these affordances at work in book interfaces, we will look toward interfaces that are pushing bible beyond the book.
+
 [^0]: This intimate relationship between bible and book is highlighted many places.
 In our reading of Levinas, *Ethics and Infinity*, 22-23, in the previous chapter, we heard him call bible, the book of books and book par excellence.
 Roberts and Skeat, *The Birth of the Codex*, explore the relationship between the rise of the codex to prominence and the emergence of bible as book in Christianity.
