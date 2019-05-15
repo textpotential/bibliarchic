@@ -1,53 +1,405 @@
-Interface, like any other component of computational Systems, is an artifact of complex processes and protocols, a Zone in which our behaviors and actions take place. Interface is what we read and how we read combined through engagement. Interface is a provocation to cognitive experience.[^27]
+Interface, like any other component of computational Systems, is an artifact of complex processes and protocols, a Zone in which our behaviors and actions take place.
+Interface is what we read and how we read combined through engagement.
+Interface is a provocation to cognitive experience.[^27]
 
 
-As she looks to Geographic Information Systems (GIS), social networking, and visualization for hints of new possibilities, we may even look back into print technologies (e.g. Talmudic page) for some suggestions toward interface design that might afford a bible textual apparatus that is "constellationary, distributed, and multi-faceted." 
+As she looks to Geographic Information Systems (GIS), social networking, and visualization for hints of new possibilities, we may even look back into print technologies (e.g.
+Talmudic page) for some suggestions toward interface design that might afford a bible textual apparatus that is "constellationary, distributed, and multi-faceted." 
 
-A few basic examples of interface from the computing world will help illustrate what I mean by interface. There are several types of interfaces we use to relate to computers. NOT SURE WHAT LEVEL OF EXAMPLES TO GIVE HERE to best illustrate the breadth of interface operative in computing. Maybe a touchscreen, a library discovery interface, and an operating system? 
+A few basic examples of interface from the computing world will help illustrate what I mean by interface.
+There are several types of interfaces we use to relate to computers.
+NOT SURE WHAT LEVEL OF EXAMPLES TO GIVE HERE to best illustrate the breadth of interface operative in computing.
+Maybe a touchscreen, a library discovery interface, and an operating system? 
 
-After looking closely at these definitions of interface and exploring a few basic examples from the computing world, I propose a definition of interface as "a space that facilitate relationship without eradicating difference." In the definition itself, we see the operations of interface in the "and." In this coordinating conjunction, we see a space and process of holding the noun and verb functions of the word "interface" in relationship, without needing to reduce interface to one or the other. If a space facilitates relationship that does not maintain the difference brought to the relationship by the participants, then, this space is not interface.  
-
-
-particularly a space that is something other than a space 'between,' points toward a second way of theorizing interface through Edward Soja's notion of thirding. 
-
-If interface is a product of relations, not simply the material affordances of a technology, then interface is a space and a process, not simply a thing (Drucker 2011, 3). With this notion of interface as space and process, we need a way to talk about the participants in this spatial process. 
-
-In order to better understand this productive process of reading, we will look toward interface theory. Often, we associate interface with digital technologies. Human Computer Interface (HCI) and Graphical User Interface (GUI) have become major areas of study and discourse in the world of software design.^[Give some examples.] If we look at the basic uses of '[interface](https://www.google.com/search?q=interface+definition)' in the English language, we can see the strong indication of interaction and connection as well as the prevalent use in the computing arena.^[Google Search for 'interface definition’ on August 1, 2015.] When I take up the language of interface, I do not want to limit our conversation to digital technologies that afford human interaction with machines. Interface offers a broader category for spaces of encounter that include many forms of media and mediation. In order to more clearly articulate the rich possibilities of interface, I will offer three related ways to think of interface theoretically - interface as zone of encounter, interface as thirdspace, and interface as process.
+After looking closely at these definitions of interface and exploring a few basic examples from the computing world, I propose a definition of interface as "a space that facilitate relationship without eradicating difference." In the definition itself, we see the operations of interface in the "and." In this coordinating conjunction, we see a space and process of holding the noun and verb functions of the word "interface" in relationship, without needing to reduce interface to one or the other.
+If a space facilitates relationship that does not maintain the difference brought to the relationship by the participants, then, this space is not interface.
  
 
-A few examples will help highlight this specific use of the term in the technological realm. A web page is often thought of as an interface of the computing variety.  and an API...
+
+particularly a space that is something other than a space 'between,' points toward a second way of theorizing interface through Edward Soja's notion of thirding.
+
+
+If interface is a product of relations, not simply the material affordances of a technology, then interface is a space and a process, not simply a thing (Drucker 2011, 3).
+With this notion of interface as space and process, we need a way to talk about the participants in this spatial process.
+
+
+In order to better understand this productive process of reading, we will look toward interface theory.
+Often, we associate interface with digital technologies.
+Human Computer Interface (HCI) and Graphical User Interface (GUI) have become major areas of study and discourse in the world of software design.^[Give some examples.] If we look at the basic uses of '[interface](https://www.google.com/search?q=interface+definition)' in the English language, we can see the strong indication of interaction and connection as well as the prevalent use in the computing arena.^[Google Search for 'interface definition’ on August 1, 2015.] When I take up the language of interface, I do not want to limit our conversation to digital technologies that afford human interaction with machines.
+Interface offers a broader category for spaces of encounter that include many forms of media and mediation.
+In order to more clearly articulate the rich possibilities of interface, I will offer three related ways to think of interface theoretically - interface as zone of encounter, interface as thirdspace, and interface as process.
+ 
+
+A few examples will help highlight this specific use of the term in the technological realm.
+A web page is often thought of as an interface of the computing variety.
+ and an API...
 
 ## Two cultural metaphors for interface ##
 
-Before we move on to explore interface as both space and process through Johanna Drucker's suggestion of interface as zone of encounter, I'd like to mention two other important examples of interface that have shaped my thinking significantly: the relationship between new media object and cultural interface in Lev Manovich and S. Brent Plate's discussion of *The Skin of Religion*.^[I'd like to highlight that my attraction to interface as a concept emerged out of conversations I had about water as a surface with Timothy Beal at the Nida School of Translation Studies 2014. In Beal's lectures at NSTS 2014, he offered the idea of bible as media and we discussed the possibility of water as a metaphor for this phenomenon. It was the material and theoretical connotations of water as sur-face, both in the biological realm and in Hebrew scriptures that pushed me to consider the possibility of bible as interface.]
+Before we move on to explore interface as both space and process through Johanna Drucker's suggestion of interface as zone of encounter, I'd like to mention two other important examples of interface that have shaped my thinking significantly: the relationship between new media object and cultural interface in Lev Manovich and S.
+Brent Plate's discussion of *The Skin of Religion*.^[I'd like to highlight that my attraction to interface as a concept emerged out of conversations I had about water as a surface with Timothy Beal at the Nida School of Translation Studies 2014.
+In Beal's lectures at NSTS 2014, he offered the idea of bible as media and we discussed the possibility of water as a metaphor for this phenomenon.
+It was the material and theoretical connotations of water as sur-face, both in the biological realm and in Hebrew scriptures that pushed me to consider the possibility of bible as interface.]
 
 ## Reading as Material Production ##
 
-I will focus primarily on the readerly uses of bible, these relationships between user and interface, which produce the material encounters that constitute the reading process.  
+I will focus primarily on the readerly uses of bible, these relationships between user and interface, which produce the material encounters that constitute the reading process.
+ 
 
 
 ```
 Maybe add a section here on different notions of emergence or wait and do this down in the probability section
 
-Actually, I might throw out all of this and put a different theory of emergence in its place. 
+Actually, I might throw out all of this and put a different theory of emergence in its place.
+
 ```
 
 ## Interface as Process ##
 
-With Piotr Blumczynski's new book *Ubiquitous Translation*[^37] and the focus on the WHAT and HOW, I feel like I could link the WHAT and HOW of reading in Drucker to the WHAT and HOW of translation and suggest that interface is a kind of translational event. In a sense then, we have at least two kinds of translations going on with bible, a material media translation of book from print codex to mobile phone as well as the translational act that is interface.
+With Piotr Blumczynski's new book *Ubiquitous Translation*[^37] and the focus on the WHAT and HOW, I feel like I could link the WHAT and HOW of reading in Drucker to the WHAT and HOW of translation and suggest that interface is a kind of translational event.
+In a sense then, we have at least two kinds of translations going on with bible, a material media translation of book from print codex to mobile phone as well as the translational act that is interface.
 
-If we look back to the computing definition of interface we began with earlier in this chapter, the idea of translation emerged even there. As Blumczynski suggests, translation is ubiquitous and I would argue that interface is a translational act. So, there are two reasons I bring in Piotr's work here. First, highlight the value of translation as a paradigm for the notion of interface we are working with here. Second, 
+If we look back to the computing definition of interface we began with earlier in this chapter, the idea of translation emerged even there.
+As Blumczynski suggests, translation is ubiquitous and I would argue that interface is a translational act.
+So, there are two reasons I bring in Piotr's work here.
+First, highlight the value of translation as a paradigm for the notion of interface we are working with here.
+Second, 
 
-Perhaps I can argue that interface is place (lived space) or stick with the going definition of interface as space and extend the definition of space to include process/thirding? Space is a social process of social construction. But none of this highlights the materiality of the digital/virtual. What I really want to say is that interface is material and it is process. Interface is a material process 
+Perhaps I can argue that interface is place (lived space) or stick with the going definition of interface as space and extend the definition of space to include process/thirding? Space is a social process of social construction.
+But none of this highlights the materiality of the digital/virtual.
+What I really want to say is that interface is material and it is process.
+Interface is a material process 
 
-As I noted when we first encountered a computing definition of interface, the function of interface in computing has taken on a decidedly translational role. In the world of human computer interaction (HCI), it is as if there are two language groups, machine and human, and they need a mediator to enable communication between them. In a simplistic sense then, interface becomes the translator between humans and machines. Even better, interface is the space and process of translation that facilitates the relationship between humans and machines without minimizing the differences between them. Rather than reduce one participant, human or machine, to the other or make both participants become something new that is the same, interface enables a relationality that maintains the difference between participants.
+As I noted when we first encountered a computing definition of interface, the function of interface in computing has taken on a decidedly translational role.
+In the world of human computer interaction (HCI), it is as if there are two language groups, machine and human, and they need a mediator to enable communication between them.
+In a simplistic sense then, interface becomes the translator between humans and machines.
+Even better, interface is the space and process of translation that facilitates the relationship between humans and machines without minimizing the differences between them.
+Rather than reduce one participant, human or machine, to the other or make both participants become something new that is the same, interface enables a relationality that maintains the difference between participants.
 
 As I noted above, even the early boundary notions of interface demand both difference and connection, but with the introduction of communication, we have moved now into the realm of exchange.^[exchange]
 
-^[exchange]: Any close study of material science would demonstrate that exchange has always been a part of interface, even in the scientific realm. We often talk about stable states of a system or the interaction of systems such that there is a clean and distinct boundary between the surface of water and air. This boundary that constitutes interface is actually a dynamic equilibrium of exchange, such that the *process* of exchange constructs the space that is the boundary. Communication as exchange has the potential to bring language into our discussion of interface which could lead down several paths toward linguistics, semantics, semiotics, machine language, artificial intelligence, and many more. All of these areas of study matter significantly to our explorations of interface, book, bible, human, etc., and it has always been difficult to use language to talk about language without language already determining the limits of the discussion. I will look forward to engaging other scholars who will take up the particular question of language and interface down the road, but for now, I will direct our attention toward one aspect of communication that seems critical for interface and that is translation.
+^[exchange]: Any close study of material science would demonstrate that exchange has always been a part of interface, even in the scientific realm.
+We often talk about stable states of a system or the interaction of systems such that there is a clean and distinct boundary between the surface of water and air.
+This boundary that constitutes interface is actually a dynamic equilibrium of exchange, such that the *process* of exchange constructs the space that is the boundary.
+Communication as exchange has the potential to bring language into our discussion of interface which could lead down several paths toward linguistics, semantics, semiotics, machine language, artificial intelligence, and many more.
+All of these areas of study matter significantly to our explorations of interface, book, bible, human, etc., and it has always been difficult to use language to talk about language without language already determining the limits of the discussion.
+I will look forward to engaging other scholars who will take up the particular question of language and interface down the road, but for now, I will direct our attention toward one aspect of communication that seems critical for interface and that is translation.
 
 ### Future of Academic Book ###
 
-In her essay, Drucker makes some hints toward what we might find in emerging scholarly interpretive reading interfaces. There is a movement afoot that is gently and gradually trying to take seriously this call to imagine the academic book as interface in our emerging media landscape. The Future of the Academic Book project began as a collaborative project...Though I have had a hard time seeing how the FOAB project has interrupted the established dispositions of print and codex to allow the possibilities of emerging technologies, the community of discourse that has fostered this movement has most definitely demonstrated a desire for and commitment to a constructivist and collaborative process. Their patience and respect for tradition could create the necessary space for translation of the deeply ingrained material sensibilities embedded in the culture of the academic book. I hope to incorporate the innovative spirit and the patient wisdom of both Drucker and the FOAB project as we push toward imagining bible as interface.
+In her essay, Drucker makes some hints toward what we might find in emerging scholarly interpretive reading interfaces.
+There is a movement afoot that is gently and gradually trying to take seriously this call to imagine the academic book as interface in our emerging media landscape.
+The Future of the Academic Book project began as a collaborative project...Though I have had a hard time seeing how the FOAB project has interrupted the established dispositions of print and codex to allow the possibilities of emerging technologies, the community of discourse that has fostered this movement has most definitely demonstrated a desire for and commitment to a constructivist and collaborative process.
+Their patience and respect for tradition could create the necessary space for translation of the deeply ingrained material sensibilities embedded in the culture of the academic book.
+I hope to incorporate the innovative spirit and the patient wisdom of both Drucker and the FOAB project as we push toward imagining bible as interface.
 
 **WILL EXPAND ON THIS EXAMPLE...**
+
+[//]: something about the relationship between semantic and consumptive and performative and production.
+need to indicate that interface seems to hold together aspects of iconic and performative dimensions, but decidedly dethroning the semantic.
+ 
+
+--Similarly, bible readers are not just interpreters, they are users that produce bible through their relationship with the material technologies of their scriptures.
+Plate goes even further in "The Skin of Religion" suggesting that religion is grounded in a "skinscape" which operates as a space of encounter between human senses and the objects of the physical world.
+Here, Plate is participating in  Here, I am extending Plate's notion of skinscape in the study of religion to an emphasis on the materiality of bible as interface, a space of encounter that entangles user and platform in an emergent process of producing bible.
+
+My suggestion that we think of bible as an interface has two main aims.
+First, bible as interface can challenge ideas and practices that reduce bible to simply a container of content to be consumed and can guide our imagination of bible in a time of major media transition.
+Second, an interface that resists our recourse to an original text or singular governing principle in the act of reading can help focus us on the vast productive potentialities of this interface even as it is translated into media technologies we have yet to imagine.
+This first chapter will focus on the first of these aims by advocating for a concept^[Might add a note here from Piotr about the preference for concept over definition.] of interface as a space and a process that facilitate relationship without eradicating difference.
+
+
+Taking both the general definition and the computing definition together, we get something like interface enables interface.
+This computer interface is a thing that helps create the space for meeting and interacting between user and machine or machine and machine, a translation layer of sorts.
+
+Interface is a space that fosters a process of interaction that foregrounds the values of difference and relationality.
+
+
+This concept of interface as event, which includes both the noun and verb characteristics of interface, resonates with the theory of space operative in Edward Soja's idea of thirdspace and the corresponding process of inquiry he calls thirding.
+
+
+## Interface as Space ##
+
+The spatiality of Drucker's concept of interface is highlighted in her use of graphical reading practices and frame analysis to build her theory of interface as zone of encounter (Drucker 2011, 3-8).
+If, as Drucker suggests, interface is a space of encounter, but something more than simply a space between, then we can imagine resonances between Drucker's interface theory and Edward Soja's theory of space.
+Soja begins his introduction to *Thirdspace: Journeys to Los Angeles and Other Real-and-Imagined Places* with a focus on participatory construction of space, saying, 
+
+> We are becoming increasingly aware that we are, and always have been, intrinsically spatial beings, active participants in the social construction of our embracing spatialities.
+Perhaps more than ever before, a strategic awareness of this collectively created spatiality and its social consequences has become a vital part of making both theoretical and practical sense of our contemporary lifeworlds at all scales, from the most intimate to the most global (Soja 1996, 1).
+
+This idea that we are "active participants in the social construction" of space echoes Drucker's focus on a constructivist subjectivity in her theory of interface.
+For both Soja and Drucker it is not simply that we together construct space but also that spaces construct us as we construct spaces.
+Soja's mention of "social consequences" here hearkens to Marshall McLuhan's famous adage that "the medium is the message." Though often misunderstood as reductionist or absolutist, McLuhan is simply suggesting that the message of any medium is its social effect, not the simply the content it contains (McLuhan 1964, 8).^[Perhaps it would have been more helpful to hold both directions of this famous apposition together such that medium is message and message is medium.] In the tradition of McLuhan, both Soja and Drucker emphasize that our materiality, which can be called media or can be called spatiality, has a significant impact on our sociality, even in digital environments.
+
+
+Combining Henri Lefebvre's "lived space" and Jorge Luis Borges's "Aleph", Soja articulates Thirdspace as a radical simultaneity where all spaces and all binaries come together (Soja 1996, 56-57).
+As Jacob Kinnard suggests in his preface to *Spaces in Motion*, Soja's notion of Thirdspace is "complex, slippery, and often frustrating" (Kinnard 2014, xv), so I will only attempt to draw the necessary connections between the possibilities of Thirdspace and my reflections on interface.
+Soja suggests that his notion of Thirdspace is closest to the third moment in Lefebvre's trialectic of social space, "lived space" (Soja 1996a, 68).^[Soja provides a discussion of Lefebvre's multiple names for this third moment in his trialectic as both "spaces of representation" and "lived space," but even at the cost of oversimplification, perhaps inevitable when trying to write or talk about these things, I will only use "lived space" (Soja 1996, 65).] This lived space of Lefebvre's is both separate from and the complex composite of the spatial practices (perceived space) and the conceptions of space (conceived space) that make up the other components of social spatiality (Soja 1996, 67-68).
+What is import for our theory of interface here is that space is a noun and a verb.
+Space in Soja's model is always a complex interaction among the materiality of spaces, our ideas of spaces, and the process of making meaning in these spaces, without the need to reduce space to any one of these constituent parts.^[I am beginning to wonder if the concept of place from thinkers like Cresswell and others might offer another useful metaphor for imagining interface.
+If place is space made meaningful, is this not what interface is all about? The reason I have stayed with space in this analysis is to foreground the materiality of this process of constructing all parties involved in interface.] Space as a system of interaction without reduction of difference sounds a great deal like interface as event in Drucker.
+This material and processual notion of space from Soja, provides a richer concept of interface as a *space* of relationship that supports difference.
+
+An important part of Thirdspace that further supports our understanding of interface as space that enables difference is the methodology that undergirds even the articulation of Soja's model.
+The critical methodology at work in his notion of Thirdspace, Soja calls "Thirding-as-Othering," which is the mechanism by which his (and Lefebvre's) spatial analysis resists reduction to binarisms or dichotomies such as real/virtual, subject/object, or user/interface (Soja 1996, 60-61).
+As with the rest of his ideas in *Thirdspace*, Soja "approximates" this methodology of thirding-as-othering from Lefebvre's anti-reductionist approach described by the phrase "there is always an-Other."^[Add Fench in a footnote.] Soja's thirding provides a focus on space not as a simple combination of two forces, such as the social and the historical, but rather as a methodology that always attends to a third term that can emerge in the process of encounter.
+Soja writes, 
+
+> Thirding introduces a critical 'other-than' choice that speaks and critiques through
+its otherness.
+That is to say, it does not derive simply from an additive combination of its binary antecedents but rather from a disordering, deconstruction, and tentative reconstitution of their presumed totalization producing an open alternative that is both similar and strikingly different (Soja 1996, 61).
+
+For example, a print book as a platform presents a set of constraints and possibilities on a reading event as does a particular reader sitting in an arm chair on a snowy Sunday afternoon.
+In this process of interface, thirding suggests that the combinatorial set of possibilities offered by the intersection of platform and user do not *determine* the productive potential of this interface.
+There is always an other possibility that can emerge in the process of encounter that can surprise or interrupt our expecations.
+It is this interruptive emergence and its insistence on resisting a closed system that thirding offers our theory of interface.
+Drucker's notion of interface as event or zone of encounter, with its constructivist approach, already challenges the mechanistic and determinative binaries of user and technological platform, encouraging a more spatial, material, and constructed notion of both media and the subject.
+Soja's Thirding-as-Othering, which practices an infinite preference for an alternative when faced with a binary choice, adds the property of emergence to our theory of interface (Soja 1996b, 1421).
+This explicit and intentional methodology of surfacing multiplicity and the possibility for unexpected newness when faced with a binary may not yet guide interface design or theory like it does Soja's cultural critique.
+Yet, Soja's Thirding-as-Othering provides us a disposition toward emergence, possibilities that arise in the process of interface that challenge established categories and resist closed analysis without a need to eradicate these categories.
+Interface as space of the thirding kind pushes the multiplicity Drucker encourages in her framing of interface toward a property of emergence in interface that will always overflow our analysis.
+
+
+## Pathways ##
+
+Thankfully, we already have some compelling and instructive examples of people trying to design book as interface in our emerging media age.
+John Miles Foley's *Pathways Project*[^49] offers an amazing example of exploring book as interface as both space and process that provokes probabilistic production in the reading event.
+Foley's academic work was in the area of medieval orality and Homeric poetry, which came to my attention during explorations of the relationship between oral forms and the construction of the Pauline letters in the New Testament.
+Foley, an early adopter of internet technologies, immediately noticed the analogies between oral tradition (oAgora) and the internet (eAgora) in their shared challenge to the operations of print media (tAgora).
+The Pathways Project was an experimental performance exploring these analogies.
+The Home page of the project says, 
+
+> The major purpose of the Pathways Project is to illustrate and explain the fundamental similarities and correspondences between humankind’s oldest and newest thought-technologies: oral tradition and the Internet.
+Despite superficial differences, both technologies are radically alike in depending not on static products but rather on continuous processes, not on “What?” but on “How do I get there?” In contrast to the fixed spatial organization of the page and book, the technologies of oral tradition and the Internet mime the way we think by processing along pathways within a network.
+In both media it’s pathways – not things – that matter (http://www.pathwaysproject.org).
+
+Foley's focus on process here is quite resonant with my suggestion that interface is process, even though Blumczynski's work has challenged me to approach this preference for process in a much less binary fashion, such that interface is also a space, a thing.^[Cite Piotr here] Though this particular quote seems rather dichotomous in suggesting that things do not matter, Foley himself was not after such a stark binary approach to the analogies he found between oral tradition and the internet.
+In fact, *The Pathways Project* was made available both as an interactive internet space and as a print volume, titled *Oral Tradition and the Internet*.
+As he always seemed to be, Foley was openly reflective about the process by which the relationship between these two medial forms of the project emerged and evolved over time.
+One of the values I appreciate in Foley's Pathways Project is his ability to question the print medium (tAgora) without having to throw it out as old or useless or worse.
+In his discussion of the print and online interfaces of the project, he talks about the values of each, the tAgora and the eAgora, and the process of translation that had to go on in order to make the project fit in these different media.^[http://www.pathwaysproject.org/pathways/show/Book_versus_Website .
+See my conclusion for some reflections on my own inability to perform this polyvalent approach to interface in this dissertation project.
+In fact, the form of the project you are reading now represents the tAgora version.
+For reasons of time and politics, I had to abandon the eAgora versions, though they are still in progress in their own right.] 
+
+Although I admire Foley's willingness to work in both a print medium and in something beyond print, we will focus on what he calls the "wiki-website" version of the project as an example of book as interface that is space and process.
+As a space, *The Pathways Project* operates like many websites.
+There is a main home page that provides an introduction in the center of the page, links to other areas of the site on the left hand side, different translation options on the right, and a statement of the creative commons license covering the site in the footer of the page.
+There are browse menus and a search box provided in the left side panel as well as a "Getting Started" link at the top of the page to give people a suggested pathway if they need one.
+The openness of this main page signals a space that invites a user to participate in making their way through the project.
+One of the unique parts of the site is that as a user clicks on a link, the site tracks these clicks and builds a visualization of the "pathway" the user is making through the site.
+In fact, you can create a *user* account in the site and save your pathways and return to them later.
+This autogenerated linkmap shows all of the "nodes," Foley's preferred language for pages, a user has visited and numbered directional lines denoting the path taken between each node.
+In this linkmap, we see the interface offering a structure that signals the process by which the user is constructing their own experience of the space.
+Most websites with hyperlinks work this way, allowing the user to pave their own way through the content of the site.
+Yet, this simple visualization foregrounds the user's participation in constructing the space of interaction, the interface.
+
+
+Since we are discussing the relationship between a theory of interface and interface design, this linkmap feature of *The Pathways Project* gives us some great material for reflection.
+For example, in the quote above, we heard Foley suggest that in the eAgora, of which his project website is a participant, "it's pathways - not things - that matter" (http://www.pathwaysproject.org).
+Yet, in the linkmap, the nodes, which could be understood to represent the things, are far more prominent than the arrows, which are at the very least an important part of the pathways.
+If you want to interact with the linkmap, you click on a node, not on an arrow.
+If pathways matter, not things, it seems we might want to foreground the paths more than the nodes in our construction of the space.
+Now, I can think of many pragmatic reasons for making the nodes clickable, such as...MORE.
+Yet, here we have an example of where interface design can also inform our theoretical framings.
+Perhaps in the eAgora, things *and* pathways matter? Making the arrows in the linkmap clickable *along with* the nodes, or even instead of the nodes, would provide a simple spatial indication of the importance of pathways.
+
+
+Foley's Pathways Project and my argument for interface as space of interaction that supports difference are both challenging the dominance of print as a paradigm for how we know and how we relate through technologies, including language.
+The Pathways Project is full of insights and limits, both of which can provide useful launching places for our experiments here with book as interface.
+Unfortunately, Foley passed away in 2012, which means his *Pathways Project* has not received the kind of attention it might need to evolve with the emerging media technologies of today.^[Through my work with the Nida Institute, I had the distinct privilege of participating in a 3 day seminar oriented around the implications of Foley's work in the *Pathways Project* on the process of translation from print to other media.
+It was clear through these interactions that Foley was ahead of his time in experimenting with internet media and he had further aspirations for the Pathways Project in the direction of more collaboration, shared authoring, and even more dynamism in the interface.
+It is my hope in the future to return to Foley's project and help push it into even newer realms of exploration.]  
+
+We now have a concept of interface as space of interaction that supports difference and a model of book as interface that provokes probabilistic production in the practice of reading and some examples of design in this direction.
+In the next chapter, I will advocate for one particular affordance in our design of bible as interface, anarchy.
+
+## Book as Interface ##
+
+Along with her connection to the irreducibility we find in Plate's approach to religion and Watt's approach to scripture, Drucker is helpful in articulating bible as interface because she focuses explicitly on book as interface in a quickly evolving emerging technological landscape.
+Just as interface is not simply a thing we look through, a book is not just a container for content.
+A book is an invitation to an encounter of text and reader in the practice of reading and the materiality of this encounter has as much to tell us about meaning as the stories we read.
+Drucker writes, 
+
+> A book is an interface, so is a newspaper page, a bathroom faucet, a car dashboard, an ATM machine.
+An interface is not so much a 'between' space as it is the mediating environment that makes the experience, a 'critical zone that constitutes a user experience'.
+I don't access 'data' through a web page; I access a web page that is structured so I can perform certain kinds of queries or searches.
+We know that the structure of an interface is information, not merely a means of access to it.[^29]
+
+In this example, the "page"[^30] is not simply a window through which a user accesses data.
+Rather, the page is a part of the data and the data, in part, structures the page.
+So, with a codex, for example, the margins and material of the page are part of the data of the interface, not simply a delivery mechanism.
+
+
+[^what_how]: Drucker, "Interface Theory," 28, writes, "Interface is *what we read* and *how we read* combined through engagement." This is a critical point in the relationship of bible and/as media.
+If an interface involves both what we read and how we read, the design of the book technologies we use when reading shapes the reading performance and meaning made as much as the content.
+Reading bible in a codex is a different space than reading bible on an iPhone, thus, both the book and the reader are constituted differently in these two interfaces.
+This means that the transitions from scroll to codex and codex to internet are not simply new ways of reading the same content.
+Rather, bible and user are both transformed in the new space of encounter made possible in these different interfaces.
+
+Drucker says,
+
+> Interface and its relation to reading has to be theorized as an environment in which varied behaviors of embodied and situated persons will be enabled differently according to its many affordances.
+That kind of statement is so maddeningly vague and abstract that it seems almost useless.[^36]
+
+Drucker resists the strictly functional and mechanistic theories of interface design and asks humanists to imagine something more variable and responsive to the particularities of the people and the spaces involved.
+Interface as space, informed by the methodologies of Thirdspace and Thirding-as-Othering allows for the ambiguity Drucker finds missing in the software design process.
+The combinatorial particularities of platform and user do not produce the total set of possibilities for an interface, 'there is always an-Other.' Interface as space of the thirding kind can push beyond the simple intersection of two systems, book and reader, toward attending to processes that foster emergence and allow for difference.
+The emergent property of Soja's concept of space reinforces that interface is not simply the sum of the parts offered by platform and reader.
+Instead, in interface, something new is made; interface is event.
+ 
+
+Another way to state the importance of interface in the reading process is to suggest that the structures of a particular book technology ARE information, not merely a means of access to information.
+This is another way of bothering the dichotomy between form and content or medium and message.
+In this interface as zone of encounter, medium and message are so inextricably entangled that attempting to tease them apart is futile.
+Drucker highlights this well, saying,
+
+### Reader as User ###
+
+Before we move on to look more closely at reading interfaces, I'd like to begin thinking of readers as users.
+As we saw in our exploration of definitions earlier, in computer interface, the two systems interacting are users and machines and the aim is a particular form of interaction, communication.
+Machine with machine interface is also important in computing, but since our focus here is on technologies of reading, I will only treat the user-machine interface for now.[^intelligence] I find the role of users in the computing notion of interface wonderfully helpful for thinking about reading and bible, especially in times of technological transition, such as our current shift away from the dominance of print.
+We have deeply ingrained cultural notions of reading as a private exercise where a person picks up a book and reads silently over the pages.
+As an example of these unquestioned assumptions about reading, take Nicholas Carr's argument that the internet is making us dumber in *The Shallows* (2011).
+Carr does a wonderful job illustrating that our brains are more plastic than we may have imagined and that the technologies, even interfaces, we use impact the way our brains work (Carr 2011, ??).
+Yet, throughout Carr's argument for the detrimental effects of the internet on our brains, we find a narrow and romanticized notion of reading held up as the pinnacle of learning, thought, and meaning.
+Carr writes, 
+
+> QUOTE the image of him sitting in his lawn chair reading the classics slowly, without other "distractions."
+
+The contrast of this slow, isolated, contemplative relationship with a print codex is contrasted with the quicker, connected, and more fragmentary relationship we have with webpages on the internet and screens on a mobile device.
+Carr and I agree that these relationships, these reading interfaces, are different in significant ways.
+What seems to go unquestioned in Carr's analysis of our emerging reading trends is that reading and learning have not always been bound to the print codex and this is far from the first major transition in reading practices the world has seen.
+
+In fact, it wasn't the internet that first awakened me to differences in reading practices.
+Even though the scarcity of silent reading in antiquity has been challenged, Harry Gamble's discussion of the aurality of reading in antiquity, particularly related to the common practice of *scriptio continua*, script without spaces or punctuation or other markers with which we are so familiar today, first interrupted my assumption that people have always read like we do today (Gamble 1995, 203-205).[^reading] More recently, William Johnson provides a useful analysis of the difference between reading in the bookroll culture of the Roman elite in the first two centuries of the common era and our modern reading practices (Johnson 2010).
+Johnson demonstrates that the difference in book technologies has a significant impact on the difference in book and reading culture, such that reading in antiquity had as much to do with oratory as it did the deciphering of letters (Johnson 2010, 29).
+I agree with Alberto Manguel in his *A History of Reading*, that there is something shared across time and space in this experience of reading, encountering the world and texts and making meaning out of them (Manguel 1996, 7).
+Reading is and has always been production.
+Yet, what is more pressing in our discussion here is the important relationship of difference between technologies and the reading practices they afford.
+Whether read predominantly silently or aloud, *scriptio continua* and bookrolls most definitely impacted the kind of interaction users had with texts.
+
+
+[^reading]: Gamble 1995, 321 n.
+1 provides a helpful list of the classic sources arguing for the prevalence of audible reading in antiquity, including the most famous of the arguments made by Balough and the quote from Augustine that often gets used as evidence.
+Interestingly, Gamble includes in this list of sources an essay by Bernard M.
+W.
+Knox, which takes Balough to task and argues strongly against the conclusion that silent reading is exceedingly rare in antiquity.
+After a close reading of Balough's evidence and providing several additional texts that might speak to the issue, Knox concludes, "Ancient books were normally read aloud, but there is nothing to show that silent reading of books was anything extraordinary except the famous passage from Augustine's Confessions, and that is countered by the phrase of Cicero which makes sense only if understood as a reference to silent reading of lyric poets.
+As for letters and similar documents, Balogh's evidence is inadequate to start with and his case is blown sky-high by evidence he did not notice" (Knox 1968, 435).
+
+Thus, given our narrow imagination of reading, due in part to the long reign of print, I prefer to talk about users instead of readers in our analysis of bible as interface.
+There are many reasons why I choose to interrupt our familiar notion of readers of bible.
+First, there are many uses of bible other than reading, such as ritual procession of bibles around a congregation, bibles as protective amulets, and bibles as decorative ornaments on a coffee table.
+Second, highlighting that readers are users and not the only users of bible reinforces the materiality of bible, both in the reading event and beyond.
+Emerging movements such as Material Religion, Institute for Signifying Scriptures, and SCRIPT have done a great deal to challenge the dominance of textuality in our conceptualization of both religion and scriptures.
+Redirecting our attention to bible users instead of simply bible readers is my attempt to support these movements and to keep our analysis embedded as much in the materiality of bible as in the cultural content it provides.
+Third, our emerging media age of mobile devices and the internet of things talks a great deal about the role of users in the production of interfaces.
+
+
+Consider the settings in my Kindle app that allow the user to determine the font size, page color, brightness, and other material aspects of the reading interface.
+Already, we can hear a subtle distinction here between reader as processor of the words in a book and user as participant in constructing the space that affords the reading event.
+In this case of the Kindle, the user is the reader, but also the typesetter, the layout designer, and more.
+This shift toward more user participation in the construction of the space in which reader encounters text suggests a more complicated reading practice than we have been used to in print and hearkens back to our discussion of greater reader/orator participation demanded by *scriptio continua* in ancient bookrolls.
+Now, as an academic, I am well aware of much more active, material, and participatory reading practices in print than the basic caricature I portray here.
+For example the vast marginal notes and highlights offered by my committee members on early drafts of this very paragraph show an active and material participation in print.
+Yet, I would contend that this active participation in the space and process that is my dissertation pushes beyond our typical notions of what readers do.
+In this example, my committee members are using the interface of a paragraph to make something of their own, to add their own insights, to shape the space into something that fits their expectations and needs.
+This is reading, no doubt.
+But it pushes beyond reading to use.
+We can argue as to whether continuous script in a bookroll, chapter and section headings in a print codex, or variable page size in an electronic book reader produce more or less complicated reading environments.
+The hierarchical evaluation of these interfaces interests me less than their difference.
+My shift from reader to user is simply an attempt to tune our attention to these differences in relationship that constitute the interface that is reading.
+
+
+In her advocacy for humanistic approaches to interface design, Drucker suggests that the participants in interface are subject(s) and platform(s).
+Just as I have suggested a move from reader to user in our explorations of bible as interface, Drucker asks us to move from user to subject in our considerations of interface design.
+The backdrop of Drucker's call for a move from user to subject in the design of scholarly reading interfaces, is the discourse of software development, particularly the field know as HCI (Human-Computer Interaction) (Drucker 2011, 1).
+As you can tell by the name, HCI is the field that gave rise to what we have been calling the computing definition of interface, "A device or program enabling a user to communicate with a computer."^[https://en.oxforddictionaries.com/definition/interface] Though Drucker does not often use the language of consumption explicitly, her frustration with the software industry's tendency to view the relationship between user and machine as efficient, mechanistic, and deterministic in the service of developing viable products for the market suggests a flat notion of user as viewer or simple consumer (Drucker 2011, 1).
+To counter these industry attempts to reduce ambiguity, Drucker calls for a reintroduction of the constructivist subject into our considerations of a theory of interface.
+I support both Drucker's rejection of the "mechanistic consumer-model of autonomous viewer" and her focus on the mutuality of platform and "subject" in constructing the space that is interface (Drucker 2011, 3).
+In a sense, my move from reader to user resonates with Drucker as an attempt to interrupt our reduction of reader to simple viewer or consumer of texts.
+
+
+So, both Drucker's move away from the term "user" and my embrace of the term here are attempts to resist a reduction to passive consumption by participants in the space and process that is interface.
+Though I support Drucker's call for a deeper involvement of humanities theories and theorists in the construction and theorization of interface, I will not follow her lead in using the language of subject to denote the human participants in reading interfaces for two reasons.
+First, a major reason for my choice of user instead of reader when discussing reading interfaces and bible as interface in particular, is to emphasize the materiality that constitutes the relationship between book and human.
+A return to the philosophical discourse of subject as the human participant in interface has the potential to obscure this materiality and lead us back toward an unbalanced focus on the human thought world as we theorize interface.
+Second, the subject/object binary is deeply ingrained in our theoretical sensibilities, even in the more nuanced notion of constructivist subject leveraged by Drucker, and I do not want to superimpose this binary onto our reflections on the relationships that emerge in the interaction of objects making up an interface.
+If we have to resort to subjective or objective language at all, I would prefer to speak of all participants in interface as objects.[^OOO] Keeping in mind Drucker's warnings about the overly mechanistic notions of "user" propagated by the software industry, we will stay with the term user as both an interruption in our overly familiar notions of reader and as a means of embracing the role of emerging technologies in our reading practices.
+ 
+
+[^OOO]: What if we leveled the playing field philosophically here and instead of leaning back toward the well trodden interplay of subject and object, even constructivist subject, in this space that is interface, we considered all participants as objects? One of the aims stated at the beginning of this chapter was to challenge the tendency toward an original text or a singular governing principle as the arbiter of meaning in the act of reading.
+If we rearticulate a subject as part of interface, how does this subject not become the singular governing principle? What if human participants in an interface are simply one type of object interacting with other objects to produce an event?  
+
+Proximity as a different approach to human relationship than ontology or being blossoms in the last of Levinas's large phiosophical works, *Otherwise Than Being* (*OTB*).^[Levinas, *Otherwise Than Being*, 16-17, writes, "Everywhere proximity is conceived ontologically, that is, as a limit or complement to the accomplishment of the adventure of essence, which consists in persisting in essence and unfolding immanence, in remaining in an ego, in identity.
+Proximity remains a distance diminished, an exteriority conjured.
+The present study sets out to not conceive proximity in function of being."] Proximity emerges in *OTB* as an approach that demands responsibility and at the same time increases the distance from mastery.
+Immediately, we can see here that proximity is not a synonym for nearness and that nearness is no longer simply the opposite of distance.
+
+
+In this Levinasian reconstitution of human subjectivity, proximity is an expansion of both nearness and distance.
+Nearness is an involvement with the other that is characterized by a distance that resists mastery of the other.
+As the nearness of response-ability increases, so does the distance of one term's ability to contain or define the other term in a deterministic and mechanistic manner.
+
+If the nearness in proximity is a kind of participatory encounter that demands a response and the distance of proximity inexhaustibly resists mastery of the system, what would it look like for an interface to afford the nearness and distance of proximity? As I said above, looking for affordances of proximity in interface may not enact all of the complex nuances of nearness and distance at work in the encounter with the other as articulated by Levinas.
+Yet, these ap-proximations of nearness and distance at work in the interfaces which are bible can condition users toward a disposition of proximity in human-human interface, just as bible first signaled transcendence for Levinas.^[See above, Levinas, *Ethics and Infinity*, 23.]
+
+As we begin to consider specific interfaces, it is important to remember that both interface and affordance are relational concepts that exceed the material properties of the platform and user involved.
+So, for example, suggesting that twitter affords high surface area because of its 500 million tweets per day^[See http://www.internetlivestats.com/twitter-statistics/ for a running counter of tweets sent each day.] is less useful than the potential relationality in the use of twitter to collaboratively share the location of family members and critically needed relief supplies during Hurricane Sandy on the eastern seaboard of the United States in the Fall of 2012.
+The platform of Twitter itself is not proximate, but Twitter can afford proximity in particular user interfaces.
+
+
+[//]: # a note on the use of prosumption as language to problematize the distinction between production and consumption.
+Center for media/religion/culture at Boulder has some resources on this.
+
+
+[//]: # maybe provide one example of how digital search affords attention to intertextuality in ways that are not nearly as possible/probable in manuscript technologies (roll or codex).
+Such as similar language in Jeremiah and 2 Corinthians.
+
+[//]: # make sure to mention Hutchings, Morgan, and Kirschenbaum's introduction of affordances as a valuable concept for studying materiality.
+
+
+[^27]: Drucker, 'Interface Theory,’ 9.
+
+[^28]: Drucker, 'Interface Theory,’ 9.
+
+[^29]: Drucker, 'Interface Theory,' 10.
+
+[^30]: Interesting that this structure of page persists into the
+    internet ecosystem.
+Perhaps more evidence of the palimpsestuous
+    nature of media translations
+
+[^31]: Edward W.
+Soja, *Thirdspace: Journeys to Los Angeles and Other
+    Real-and-Imagined Places* (Cambridge, Mass.: Blackwell, 1996).
+
+[^32]: Henri Lefebvre, *The Production of Space* (Cambridge, Mass.:
+    Blackwell, 1991).
+
+[^33]: Soja, *Thirdspace*, 1.
+
+[^34]: McLuhan, *Understanding Media*, 8.
+
+[^35]: Edward Soja, 'Afterword,' *Stanford Law Review* 48, no.
+5 (May
+    1996): 1421.
+[^36]: Drucker, ‘Interface Theory,’ 12.
+
+[^37]: Piotr Blumczynski, *Ubiquitous Translation* (New York: Routledge,
+    2016).
+
+[^49]: http://www.pathwaysproject.org/
+
+
+A simple example like water in a pond shows the significance of a shift from speaking of just the surface of water to talking about the water/air interface.
+If we speak of just the surface of water, we focus only on the properties of water and its contained self relationality.
+Introducing the notion of interface here highlights the *relationship* water has with air, a *different* entity, both participating in the production of what we call the surface of water.[^plate_skin]
+
+[^plate_skin]: Would it be useful to add a note on skinscape here as an analogy or even just a basic mention of how this example of water and air producing the interface together is similar to conceptions of the performative and iconic dimensions of bible?  
+
+[^morgan]: Tracing bible as interface through several different time periods and technological instantiations also highlights the comparative and remediation foci of David Morgan's methodology of material analysis in the study of religion.
+Morgan articulates nine foci in three areas that can facilitate the academic study of religion through material objects and our interaction with them.
+For more details, see Morgan, "Material Analysis and the Study of Religion," in *Materiality and the Study of Relgion* eds.
+Tim Hutchings and Joanne McKenzie (New York: Routledge, 2017), 24.

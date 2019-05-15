@@ -1,230 +1,52 @@
-CONCLUSIONS: A PROLIFERATION OF INTERFACES
+# Conclusion #
 
-**Proxinity - Contact Without Grasp**
+As Timothy Beal so aptly puts it in his analysis of the cultural iconicity of bible in the twilight of print culture, "It's the end of the Word as we know it, and I feel fine."[^REM] I couldn't agree with Beal more and I am excited to see what bible can and will become as interface in the continually emerging technological landscape of machine learning and artificial intelligence. Bible as interface, irreducible to its contents alone, has provided us a way to see how bible continues to enact bible amidst substantial technological change such as the rise of the codex and the emergence of internet technologies. Bible at its best is an interface that enables relationships with users that can not be reduced to simple consumption of its contents. The affordances of high surface area, collaboration, and anarchy facilitate this kind of interface and we have seen these affordances at work in the ancient technologies of the roll and codex manuscript as well as in the digital technologies of XML and APIs. The continuity of these affordances, though expressed differently in each interface, provides a way for users to see the connection of emerging bible interfaces to the long history of bible use, even as bible begins to extend beyond the book. In a sense, our analysis here has demonstrated that bible as interface is irreducible to the book. 
 
-Through the generous support of the Baker-Nord Center for the Humanities
-at Case Western Reserve University, I have had the privilege of working
-with an inspiring and inquisitive team to collaboratively explore ways
-in which digital media technologies might unsettle our notions of sacred
-text translation. Over the past year, Timothy Beal, Sarah Gridley, Eric
-Pellish, William Deal, and I have been working remotely and
-residentially to imagine a web application that would shape a
-disposition of attention to ambiguity in the translation processes of
-Genesis 1.1. This ongoing project through Baker-Nord deeply shapes one
-of the material bible experiments in my dissertation which I have called
-"facing the deep." Below I outline some early discussions of interface
-possibilities for this web application, including my incredibly rough
-sketches.
+[^REM]: Beal, *The Rise and Fall of the Bible*, Kindle location 309.
 
-Even though our current project app is called *Tohu*, I am toying with
-an app name of proxinity as a mashup of proximity and infinity to signal
-my value on shaping dispositions toward reading as contact without
-grasp. Sarah Gridley helpfully raised the concern that "contact without
-grasp" could connote a kind of consumptive tourism or voyerism. This is
-decidedly NOT what I am hoping from proxinity. So, along the way, I hope
-to reflect on the difference between cantact as consumptive tourism that
-tokenizes and contact as encounter that engages deeply without a demand
-for full comprehension.
+Early on, I articulated three aims at work in this project related to the argument of bible as interface: 1) focusing attention on the materiality of bible even into the digital realm; 2) finding an alternative to the anxiety around the impact of emerging technologies on the use of bible; and 3)beginning to build new capacities for biblical scholars to study and engage bible in our emerging technological landscape. The process of *material media translation*--the translation of affordances from one interface to another--provides an anchor for all three of these aims. The translation of the affordance of anarchy from the scribal emendations of Codex Sinaiticus to the search endpoints of the BibleSearch API demonstrates the radically different materialities at work in these bible interfaces and the impact on use. Ongoing scribal participation in an ancient manuscript through the margins and the space between lines and letters resisted the closure or fixicity of a text. The search endpoints of the BibleSearch API allow a user to bring together typically disparate texts in ways that can surface new possible meanings and relationships in the text. 
 
-**Hints and Openings**
+At its best, bible has and always will afford this kind of anarchy through the constraints and possibilities of its materiality in interface. Even if this anarchy looks more troubling and threatening to those who value the stability of the texts of bible, the continuity throughout history of this affordance of anarchy in the acts of material media translation can offer us a way to engage emerging bible interfaces from a place of familiarity and value, not anxiety. The ability to attend to these continuities and distinctives in the process of material media translation of bible as interface will demand an ever expanding development of new capacities as well as holding onto the value of those capacities already well developed in the discipline of biblical scholarship. It is our responsibility as students of this material cultural phenomenon of bible to develop the capacities to engage bible on its terms as its materialities continue to expand in each emerging technological landscape in which we find ourselves. The scale of this expansion, and hence, the demand for our ongoing learning, is only beginning to make itself known. This demand for learning, for building new capacities, and for doing this together in collaborative community excites me. So, it is indeed the end of the Word as we know it, and I feel more than fine. 
 
-Several technologies have shaped my imagination of what might be
-possible in an app that facilitates dispositions of close reading,
-encounter and opening.
+## Face of the Deep ##
 
--   \[diigo\]([*https://www.diigo.com/user/mphemenway*](https://www.diigo.com/user/mphemenway))\
-    a deeply collaborative tool where communities can annotate and
-    discuss web artifacts in the space of the 'page' itself. A wonderful
-    enactment of participatory reading as making. Diigo also has some
-    social media aggregation possibilities than can lead to further
-    conversation around fragments.
+One of the ways I propose for biblical scholars to begin learning the capacities needed to study bible as interface is to go beyond the critical analysis of existing bible interfaces and to participate in the designing and building of emerging bible interfaces. With the help of The Experimental Humanities Lab at Iliff School of Theology[^ehiliff] and the Baker-Nord Center for the Humanities at Case Western Reserve University,[^bakernord] I have had the privilege of participating in this process of collaborative design and construction of an emerging bible interface. For the 2014-2015 academic year, through the generous support of the Baker-Nord Center, I had the privilege of working with an inspiring and inquisitive team[^team] to collaboratively explore ways in which emerging digital technologies might unsettle our notions of sacred text translation. For a little over a year, our team worked remotely and co-located to imagine a web interface that would encourage a disposition of attention to ambiguity in the translation processes of Genesis 1.1.
 
--   \[rebelmouse\]([*https://www.rebelmouse.com/aproximatebible/*](https://www.rebelmouse.com/aproximatebible/))\
-    My preferred social media aggregator and an integral part of this
-    dissertation project. Rebelmouse is a hashtag structured community
-    aggregation tool that can pull together endless channels into
-    a stream. What I love about rebelmouse is the spatial proximity of
-    fragments that come from all kinds of different sources, both people
-    and platforms.
+[^team]: Timothy Beal, Sarah Gridley, Eric Pellish, William Deal, and Michael Hemenway.
+[^ehiliff]: "ExperimentalHumanities@iliff," http://library.iliff.edu/humanities, accessed on October 11, 2017.
+[^bakernord]: Case Western Reserve University, "Baker-Nord Center for the Humanities," http://humanities.case.edu/, accessed on October 11, 2017.
 
--   \[genius - The Waste
-    Land\]([*http://genius.com/Ts-eliot-the-waste-land-annotated/*](http://genius.com/Ts-eliot-the-waste-land-annotated/))\
-    Genius is a fantastic tool for crowd/community annotation of text
-    that allows media annotations as well as text. Another tool that
-    embodies reading as making, but I wish the base text didn't remain
-    so dominant in the space of the tool. Genius is a new media
-    translation of marginalia of sorts, but with a different spatiality
-    determined by a digital notion of page.
+Working with this team through Baker-Nord provided the seed for a bible interface project that we have taken up in the Experimental Humanities Lab at Iliff, my home institution, which we have called *Face of the Deep*.[^fotd] I was initially hoping that the *Face of the Deep* bible interface would be a part of this dissertation, so our team spent significant time together developing a proof of concept in the Fall of 2016. Due to the lack of evaluative and logistical infrastructure in our doctoral program for digital dissertations, work on the interface has been put on pause. Yet, below I outline some early experiments in the theory and practice of design for *Face of the Deep*. The design of this interface is deeply formed by the affordances of high surface area, collaboration, and anarchy that we have seen in bible as interface.
 
--   \[on
-    broadway\]([*http://www.on-broadway.nyc*](http://www.on-broadway.nyc/))\
-    A recent project by one of my favorite new media scholars, Lev
-    Manovich, and others. Both a physical installation and a web
-    application that perform a material media translation of a 1966
-    print piece. A radically new spatial rendering of life in the city
-    using large and dynamic social media data sets. The infinite
-    entanglement of data and interface in this project is a great model
-    for making new media objects.
+[^fotd]: We did all of our initial development of the *Face of the Deep* project in a public repository on GitHub, which you can find at https://github.com/textpotential/faceofthedeep, accessed on October 10, 2017.
 
--   \[ArtLENS\]([*http://www.clevelandart.org/gallery-one/artlens*](http://www.clevelandart.org/gallery-one/artlens))\
-    A new media translation of access to a fixed museum collection.
-    ARTLens has many interesting features in both the large touchscreen
-    installation and the mobile app, especially realted to user
-    generated pathways as a part of the growing dataset.
+## Two Lobes of Infinity ##
 
-**Two Lobes of Infinity**
+*Face of the Deep* provides users an encounter with the relational networks of artifacts that constitute bible. We have taken a broad notion of artifact in this project, including translations, versions, manuscripts, images, art, film, music, etc. I think of the interface design of *Face of the Deep* as the constant interplay of the two lobes of the infinity sign. *Lobe 1* is an ongoing and iterative machine learning process gathering artifacts and data from sources and from user interaction and creating correlative metadata that provides possible links among artifacts in this bible interface by connecting words to conceptual domains through grammatical and semantic abstraction. Optical Character Recognition (OCR), image recognition tools, and video processors will engage media for potential terms or attributes that can be passed into the conceptual algorithm map for metadata processing. We will use an object oriented database to store and access artifacts in a manner that problematizes any strict database/interface dichotomy and foregrounds interface's irreducibility to content consumption. Natural language processing will provide the algorithms to take streams of data and find correlations between artifacts and create the corresponding metadata by moving back and forth between semantic and conceptual realms using tools such as WordNet.[^wordnet] Lobe 1 affords high surface area because it is constantly new artifacts as contact points for users, it affords collaboration by incorporating user participation into the discovery of artifacts and the construction of relationships between artifacts, and it affords anarchy by bothering any simple reduction to a governing data set that dictates all possible uses.
 
-I think of our application design as the constant interplay of the two
-lobes of the infinity sign. *Lobe 1* is an ongoing and iterative machine
-learning process taking data from sources and from user interaction and
-creating correlative **metadata** via semantic connection to conceptual
-domains.
+[^wordnet]: For more information on WordNet, see https://wordnet.princeton.edu, accessed on October 10, 2017.
 
--   OCR and image recognition tools 'read' media for potential terms or
-    attributes that can be passed into the conceptual algorithm map for
-    metadata processing.
+Enacting the proliferation characteristic of emerging digital interfaces, *Face of the Deep* will use partner interfaces to provide artifacts for the ongoing training of the machine learning engine and for user engagement. Some of these partner interfaces would include bible interfaces we considered in this dissertation, such as the Digital Bible Library and the BibleSearch API for textual translations and audio artifacts. Our team would also be interested in helping develop an API for the digital images and transcriptions of the Codex Sinaiticus Project to make it easier to incorporate these artifacts in the interface. In gathering partner interfaces, we will privilege open access artifacts and will provide pointers to each artifact when possible, rather than copying and ingesting full objects into our interface. Pointing users to other interfaces provides another affordance of anarchy by resiting attempts to keep users within one interface, but promoting the interconnection of interfaces as much as possible. 
 
--   Using an object oriented database problematizes the strict
-    database/interface dichotomy often operative in app design.
+*Lobe 2* of *Face of the Deep* leverages the algorithms of lobe 1 to render a web interface that allows user interaction with and participation in constellations of artifacts that make up the tradition surrounding a biblical text. Users arrive at the *Face of the Deep* interface and are presented with a textual translation of bible based on the default language settings in their system of access. A touch or click on a portion of text zooms to that portion of text as shimmering artifacts making up letters, almost as if letters are buzzing, and then these objects release from formation in letters into a slowly swirling constellation of objects.
 
--   Natural language processing provides the algorithms to take streams
-    of data and find correlations between artifacts and create the
-    corresponding metadata by moving back and forth between semantic and
-    conceptual realms. My colleague Justin Barber suggests we look at a
-    tool called
-    \[WordNet\]([*https://wordnet.princeton.edu*](https://wordnet.princeton.edu/))
-    to help our application correlate semantic data with higher order
-    conceptual frameworks to enable metadata correlations beyond direct
-    semantic or linguistic equivalence. Here, at the programmatic level,
-    we would be embodying a value on problematizing simple notions of
-    equivalence in translation.
+![]({{site.baseurl}}/assets/article_images/519c0b8b-2033-41a8-87f6-18594eb4c5cc.png)
 
-*Lobe 2* involves rendering an interface that allows user interaction
-with and participation in constellations of artifacts that make up the
-lives of a text/tradition.
+To the left of the swirling constellation will be a clickable cloud of object type toggles to allow filtering of artifacts in the constellation by particular object types, such as text, image, video, etc. All types will be displayed by default. Clicking on a type marker one time will remove that object type from the constellation and clicking again will bring these objects back into the swirl. To the right of the constellation will be a clickable cloud of concept toggles for filtering in a similar fashion.[^concept]
 
--   Interface will model contact without grasp and hopefully develop new
-    reading dis-positions toward attention to ambiguity.
+[^concept]: We could have countless clouds or cascading clouds that allowed filtering by different attributes (language, time period, genre, etc.)
 
--   We could moderate user input regarding additional artifacts and
-    possible correlations between and feed into machine
-    learning process.
+![]({{site.baseurl}}/assets/article_images/4bc321a2-ea0f-4686-a3af-ce14aeb7e556.png)
 
--   Like ARTLens, we could also use user pathway data as a source for
-    NLP metadata learning.
+Our team has discussed having ways to organize the swirling artifacts (e.g. versions) by time or other attribute for pedagogical aims (e.g. show historical trajectory of translations for comparison and genealogy). These facet or filter clouds illustrate a collaborative affordance, allowing the user to participate in the shape and content of the interface. The progression from translated text to swirling constellation of artifacts affords both high surface area and anarchy. The few simple words of the biblical text explode into an ever expanding collection of artifacts that have shaped and been shaped by the particular text selected by a user. This constellational approach to engaging the tradition entangled around a biblical text dramatically expands the possible contact points for a user with this particular text. The machine learning engine supporting the web interface will continue to find relevant artifacts to add to the constellations and create relationships among them, which resists any attempts at closure or consolidation to a complete or governing tradition of bible.
 
-**Initial Design Principles**
+When a user interacts with this constellation, a touch or click on any object will bring it into focus and show annotations, sharing options, and perhaps even a way to suggest correlation with another object in the constellation. The annotation feature will allow general comments and spatially located point specific annotations on the objects composing the constellation. All annotations will allow text, image, html embeds, audio, or video.[^moderation] Here, the user has the ability to collaboratively mark the interface in several ways as well as to impact the metadata algorithms of lobe 1 by suggesting correlations and simply by engaging the artifacts.[^analytics]
 
-*Begin with NRSV*
+[^moderation]: We discussed annotation moderation of some sort and requiring account registration to participate in the interface in these ways.
+[^analytics]: Our machine learning lobe could internalize analytics based on user patterns in their participation in the interface to foreground certain artifacts or correlations. 
 
-The proxinity interface could offer one translation as the initial point
-of contact. I suggest NRSV here simply out of pragmatics of possible
-translation projects in the near future. One alternative here would be
-to randomly select one translation/version from the existing dataset as
-the initial contact text, limited by browser language setting and/or
-user profile preference.
+![]({{site.baseurl}}/assets/article_images/9850b3b5-3c19-4ffa-ad04-cac4f3487bfa.png)
 
-*Define Units*
+Similar to the larger constellation view, item view will also offer clickable clouds of related concepts and object types. Yet, in item view, a click on a cloud item will take the user to a new constellation based on their selection. This will allow users to move from a single artifact to alternative constellations based on the attributes of a given artifact. 
 
-Ideally, emulating the Genius platform, we would have an algorithm and
-an interface that would allow users to select a portion of text (e.g.
-highlight 3 words or entire sentence) and have the application generate
-the corresponding constellation on the fly based on selection. Yet,
-perhaps for an initial phase, we define units of text from the chosen
-contact translation (NRSV) and make these independently touchable to
-move into the corresponding constellation. Artifacts in the collection
-could appear in many constellations depending on the NLP constructed
-metadata and its connection to multiple portions of the contact text.
-
-*Initial Interface *
-
-Users arrive at app and are presented with the contact translation as
-NRSV. A touch on a portion of text zooms to that portion of text as
-shimmering objects making up letters, almost as if letters are buzzing
-and then these objects release from formation in letters into a slowly
-swirling constellation of objects. Should we keep the contact text
-phrase on the screen above the swirling constellation to remind user of
-their path?
-
-![](media/image18.tiff){width="6.5in" height="4.875in"}
-
-To the left of the constellation will be a clickable cloud of object
-type toggles to allow filtering of artifacts in constellation by
-particular object types. All types will be on by default. Clicking on a
-type marker one time will remove that object type from the constellation
-and clicking again will bring these objects back into the swirl. To the
-right of the constellation will be a clickable cloud of concept toggles
-for filtering in a similar fashion. We could have countless clouds or
-cascading clouds that allowed filtering by different attributes
-(language, time period, genre, etc.).
-
-![](media/image19.tiff){width="6.5in" height="4.875in"}
-
-Our team discussed having ways to organize the swirling artifacts (e.g.
-versions) by time or other attribute for pedagogical aims (e.g. show
-historical trajectory of translations for comparison and showing
-geneology).
-
-*Item View*
-
-A click on any object will bring it into focus and show annotations,
-share options, and maybe even a way to suggest correlation with another
-object in constellation (search by concept). The annotation feature will
-allow general comments and spatially located point specific annotations.
-All annotations can be text, image, html embeds, audio, or video. I'm
-guessing we will want annotation moderation of some sort and definitely
-require account registration to participate like this. I would like to
-call this participation "translation," to emphasize the point that
-participating in the engagement of a text and tradition is translation.
-
-![](media/image20.tiff){width="6.5in" height="4.875in"}
-
-Item view will also offer clickable clouds of related concepts and
-object types as in constellation view. Yet, in item view, a click on a
-cloud item will take user to a new constellation based on their
-selection to move to other constellations. Maybe the object type cloud
-would keep user in the same contact translation space but give
-constellation of similar object types as item. BUT, concept cloud would
-take user to new constellation not based on contact translation segment,
-but rather on conceptual attribute. In this case, we would need a way
-for users to move from conceptual constellation to related contact
-translation segments? Maybe one of the material limits we put on the
-interface is that access to constellations is always tied to contact
-translation segment?
-
-*Sources *
-
-We would recruit our friends to help find suitable sources for artifacts
-that our algorithm could use for ongoing training and collecting. Many
-sources are already available and we will be building both an
-aggregation of these existing sources and asking for people to
-contribute artifacts (e.g. drawings or pictures of catacomb art related
-to a contact translation segment). All artifacts included would come
-with source link so that user can always push out to other spaces for
-further exploration. I have no desire to keep user traffic inside app or
-to absorb artifacts into our own dataset! We will simply use pointers to
-sources but we will handle annotations, etc. within the app. Some
-possible sources or source types might be:
-
--   [*bible.com*](http://bible.com/) for translations
-
--   versions in ancient languages as well (not THE Hebrew, but a set
-    of Hebrew/Greek/etc. versions that shape contact with this passage,
-    let's not even assume MT as original)
-
--   literature (ancient near east creation epics)
-
--   art
-
--   manuscripts (e.g. api for sinaiticus or for U of Michigan
-    collection, etc.)
-
--   video (initially cull textual metadata from vimeo and youtube
-    description, title and even captions. beyond this, there are tools
-    that can watch the video and extract metadata)
-
--   music
-
--   architecture
-
--   social media engagement with related hashtags
+Given the layers of this *Face of the Deep* interface, a user can simply read a biblical text through without delving into these constellational spaces. But, shimmering and swirling beneath the surface of these words and letters awaits ever expanding and anarchic possibilities for encountering the traditions and the users that have participated in the ongoing production of bible. This constant entanglement of surface and depth, embodied in the *Face of the Deep* interface, affords collaboration, high surface area, and anarchy, inviting users to dive further in as participants in the many contact points of bible, while resisting any attempts at gaining a comprehensive grasp of the whole. I am eager to see what our team and others will continue to image for bible as interface and I look forward to developing the capacities to participate. 

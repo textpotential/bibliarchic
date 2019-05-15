@@ -1,0 +1,7 @@
+# Abstract #
+
+The book is undergoing a major technological transition as print wanes in its dominance and the internet and mobile devices transform our reading and writing technologies.
+With the entangled histories of bible and book, our emerging technological age and its transformation of the materiality of bible forces us to engage bible as something irreducible to a book. The connections between the major technological transition from roll to codex in antiquity and the contemporary move toward the internet and mobile technologies as reading platforms encourage us to consider *bible as an interface that affords high surface area, collaboration, and anarchy*.
+Building on a growing attention to materiality in the study of religion and iconic books like the bible, I suggest bible as interface here to signal that bible is more than a container of content.
+Rather, bible as interface is a relationship between a material platform and a user that can not be reduced to simple consumption of content.
+Rooted in the material religion approaches of Brent Plate and James Watts and animated by the interface theory of Johanna Drucker extended through a Levinasian optics of proximity, I will explore the many contact points of high surface area, the interruptive processes of collaboration, and the irreducibility to a single original text or single proper use in anarchy through a close look at the materiality of bible from ancient roll to digital API.
